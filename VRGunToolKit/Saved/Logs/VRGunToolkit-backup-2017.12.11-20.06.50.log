@@ -1,0 +1,654 @@
+﻿Log file open, 12/11/17 20:01:29
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: VRGunToolkit
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1403296270) SRandInit(-1403296270).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3754814, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.161771
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3754814
+LogInit: Engine Version: 4.18.1-3754814+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Nov 14 2017 02:05:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: 
+LogInit: Base directory: D:/Archive/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.12.11-20.01.30:643][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.11-20.01.30:643][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.12.11-20.01.30:707][  0]LogInit: Setting Device Profile CVar: [[r.SSR.Quality:0]]
+[2017.12.11-20.01.30:707][  0]LogInit: Setting Device Profile CVar: [[r.MotionBlurQuality:0]]
+[2017.12.11-20.01.30:707][  0]LogInit: Setting Device Profile CVar: [[r.BloomQuality:5]]
+[2017.12.11-20.01.30:707][  0]LogInit: Setting Device Profile CVar: [[r.SceneColorFormat:3]]
+[2017.12.11-20.01.30:707][  0]LogInit: Setting Device Profile CVar: [[r.LensFlareQuality:0]]
+[2017.12.11-20.01.30:707][  0]LogInit: Setting Device Profile CVar: [[r.Tonemapper.Sharpen:0]]
+[2017.12.11-20.01.30:707][  0]LogInit: Setting Device Profile CVar: [[r.HZBOcclusion:0]]
+[2017.12.11-20.01.30:707][  0]LogInit: Setting Device Profile CVar: [[r.Shadow.ForceSingleSampleShadowingFromStationary:1]]
+[2017.12.11-20.01.30:707][  0]LogInit: Setting Device Profile CVar: [[r.AmbientOcclusionLevels:0]]
+[2017.12.11-20.01.30:707][  0]LogInit: Setting Device Profile CVar: [[r.MSAACount:4]]
+[2017.12.11-20.01.30:707][  0]LogInit: Setting Device Profile CVar: [[r.DepthOfFieldQuality:0]]
+[2017.12.11-20.01.30:707][  0]LogInit: Setting Device Profile CVar: [[r.ReflectionEnvironmentBeginMixingRoughness:0.0]]
+[2017.12.11-20.01.30:707][  0]LogInit: Setting Device Profile CVar: [[r.ReflectionEnvironmentEndMixingRoughness:0.0]]
+[2017.12.11-20.01.30:707][  0]LogInit: Setting Device Profile CVar: [[r.Shadow.FadeExponent:5]]
+[2017.12.11-20.01.30:707][  0]LogInit: Setting Device Profile CVar: [[r.Shadow.FadeResolution:128]]
+[2017.12.11-20.01.30:707][  0]LogInit: Setting Device Profile CVar: [[r.Shadow.MaxResolution:256]]
+[2017.12.11-20.01.30:707][  0]LogInit: Setting Device Profile CVar: [[r.ReflectionEnvironmentLightmapMixLargestWeight:1]]
+[2017.12.11-20.01.30:707][  0]LogInit: Setting Device Profile CVar: [[r.RHICmdBypass:0]]
+[2017.12.11-20.01.30:707][  0]LogInit: Computer: DESKTOP-G401FM1
+[2017.12.11-20.01.30:707][  0]LogInit: User: Samuel
+[2017.12.11-20.01.30:707][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.12.11-20.01.30:707][  0]LogInit: High frequency timer resolution =3.914064 MHz
+[2017.12.11-20.01.30:707][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2017.12.11-20.01.30:708][  0]LogMemory: Platform Memory Stats for Windows
+[2017.12.11-20.01.30:708][  0]LogMemory: Process Physical Memory: 283.29 MB used, 283.29 MB peak
+[2017.12.11-20.01.30:708][  0]LogMemory: Process Virtual Memory: 280.02 MB used, 280.02 MB peak
+[2017.12.11-20.01.30:708][  0]LogMemory: Physical Memory: 8098.10 MB used,  24547.59 MB free, 32645.70 MB total
+[2017.12.11-20.01.30:708][  0]LogMemory: Virtual Memory: 688.25 MB used,  24547.59 MB free, 134217728.00 MB total
+[2017.12.11-20.01.30:830][  0]LogInit: Using OS detected language (en-GB).
+[2017.12.11-20.01.30:830][  0]LogInit: Using OS detected locale (en-GB).
+[2017.12.11-20.01.30:834][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2017.12.11-20.01.31:209][  0]LogInit: Setting process to per monitor DPI aware
+[2017.12.11-20.01.31:505][  0]LogD3D11RHI: D3D11 adapters:
+[2017.12.11-20.01.31:538][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2017.12.11-20.01.31:538][  0]LogD3D11RHI:       8086/0/16322 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.12.11-20.01.31:544][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2017.12.11-20.01.31:544][  0]LogD3D11RHI:       128/0/16322 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2017.12.11-20.01.31:545][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.12.11-20.01.31:545][  0]LogD3D11RHI:       0/0/16322 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.12.11-20.01.31:545][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.12.11-20.01.31:551][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.12.11-20.01.31:551][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2017.12.11-20.01.31:551][  0]LogWindows: EnumDisplayDevices:
+[2017.12.11-20.01.31:551][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:0 D:1)
+[2017.12.11-20.01.31:551][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2017.12.11-20.01.31:551][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2017.12.11-20.01.31:551][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2017.12.11-20.01.31:552][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2017.12.11-20.01.31:552][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2017.12.11-20.01.31:552][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2017.12.11-20.01.31:552][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2017.12.11-20.01.31:552][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2017.12.11-20.01.31:552][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2017.12.11-20.01.31:552][  0]LogD3D11RHI:      Driver Date: Unknown
+[2017.12.11-20.01.31:552][  0]LogRHI: Texture pool is 5660 MB (70% of 8086 MB)
+[2017.12.11-20.01.31:573][  0]LogD3D11RHI: Async texture creation enabled
+[2017.12.11-20.01.31:684][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.12.11-20.01.31:727][  0]LogShaderCompilers: Guid format shader working directory is -7 characters bigger than the processId version (C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Intermediate/Shaders/WorkingDirectory/8520/).
+[2017.12.11-20.01.31:727][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Samuel/AppData/Local/Temp/UnrealShaderWorkingDir/142976B44947410C0D9E3B855BCFABA6/'.
+[2017.12.11-20.01.31:727][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.12.11-20.01.32:596][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.12.11-20.01.32:637][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.12.11-20.01.32:677][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.12.11-20.01.32:717][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.12.11-20.01.32:758][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.12.11-20.01.32:797][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.12.11-20.01.32:836][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.12.11-20.01.32:879][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.12.11-20.01.32:911][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.12.11-20.01.32:950][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.12.11-20.01.32:990][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.12.11-20.01.33:029][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.12.11-20.01.33:067][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.12.11-20.01.33:107][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.12.11-20.01.33:184][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.12.11-20.01.33:184][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.12.11-20.01.33:223][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.12.11-20.01.33:251][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.12.11-20.01.33:327][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.12.11-20.01.33:349][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.12.11-20.01.33:394][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.12.11-20.01.33:434][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.12.11-20.01.33:476][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.12.11-20.01.33:519][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.12.11-20.01.33:519][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.12.11-20.01.33:842][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.12.11-20.01.33:903][  0]LogDerivedDataCache: Loaded boot cache 0.06s 82MB C:/Users/Samuel/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.12.11-20.01.33:903][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Samuel/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2017.12.11-20.01.33:903][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.12.11-20.01.33:904][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.12.11-20.01.33:904][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.12.11-20.01.33:904][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.12.11-20.01.33:917][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.12.11-20.01.33:929][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Samuel/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.12.11-20.01.33:938][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.12.11-20.01.33:938][  0]LogSlate: Using Freetype 2.6.0
+[2017.12.11-20.01.33:939][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.11-20.01.33:939][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.11-20.01.34:554][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.11-20.01.34:773][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.12.11-20.01.34:797][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.12.11-20.01.34:797][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.12.11-20.01.34:797][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.12.11-20.01.34:797][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.12.11-20.01.34:797][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.12.11-20.01.34:822][  0]LogNetVersion: VRGunToolkit , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2737668274)
+[2017.12.11-20.01.34:942][  0]LogAssetRegistry: FAssetRegistry took 0.0244 seconds to start up
+[2017.12.11-20.01.35:295][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.050934 seconds
+[2017.12.11-20.01.35:299][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2017.12.11-20.01.35:299][  0]LogUObjectAllocator: 7372016 out of 0 bytes used by permanent object pool.
+[2017.12.11-20.01.35:299][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.12.11-20.01.35:326][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.12.11-20.01.37:266][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.12.11-20.01.37:302][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.12.11-20.01.37:751][  0]LogMaterial: Missing cached shader map for material BaseColor, compiling. 
+[2017.12.11-20.01.37:752][  0]LogMaterial: Warning: D:\Archive\UE_4.18\Engine\Content\BufferVisualization\BaseColor.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.11-20.01.37:752][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2017.12.11-20.01.37:767][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.12.11-20.01.37:774][  0]LogMaterial: Missing cached shader map for material LightingModel, compiling. 
+[2017.12.11-20.01.37:775][  0]LogMaterial: Warning: D:\Archive\UE_4.18\Engine\Content\BufferVisualization\LightingModel.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.11-20.01.37:775][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2017.12.11-20.01.37:777][  0]LogMaterial: Missing cached shader map for material MaterialAO, compiling. 
+[2017.12.11-20.01.37:777][  0]LogMaterial: Warning: D:\Archive\UE_4.18\Engine\Content\BufferVisualization\MaterialAO.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.11-20.01.37:777][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2017.12.11-20.01.37:779][  0]LogMaterial: Missing cached shader map for material Metallic, compiling. 
+[2017.12.11-20.01.37:779][  0]LogMaterial: Warning: D:\Archive\UE_4.18\Engine\Content\BufferVisualization\Metallic.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.11-20.01.37:779][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2017.12.11-20.01.37:781][  0]LogMaterial: Missing cached shader map for material Opacity, compiling. 
+[2017.12.11-20.01.37:781][  0]LogMaterial: Warning: D:\Archive\UE_4.18\Engine\Content\BufferVisualization\Opacity.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.11-20.01.37:781][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2017.12.11-20.01.37:783][  0]LogMaterial: Missing cached shader map for material Roughness, compiling. 
+[2017.12.11-20.01.37:784][  0]LogMaterial: Warning: D:\Archive\UE_4.18\Engine\Content\BufferVisualization\Roughness.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.11-20.01.37:784][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2017.12.11-20.01.37:797][  0]LogMaterial: Missing cached shader map for material Specular, compiling. 
+[2017.12.11-20.01.37:798][  0]LogMaterial: Warning: D:\Archive\UE_4.18\Engine\Content\BufferVisualization\Specular.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.11-20.01.37:798][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2017.12.11-20.01.37:800][  0]LogMaterial: Missing cached shader map for material SubsurfaceColor, compiling. 
+[2017.12.11-20.01.37:800][  0]LogMaterial: Warning: D:\Archive\UE_4.18\Engine\Content\BufferVisualization\SubsurfaceColor.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.11-20.01.37:800][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2017.12.11-20.01.37:802][  0]LogMaterial: Missing cached shader map for material WorldNormal, compiling. 
+[2017.12.11-20.01.37:802][  0]LogMaterial: Warning: D:\Archive\UE_4.18\Engine\Content\BufferVisualization\WorldNormal.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.11-20.01.37:802][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2017.12.11-20.01.38:045][  0]SourceControl: Source control is disabled
+[2017.12.11-20.01.38:045][  0]SourceControl: Source control is disabled
+[2017.12.11-20.01.38:080][  0]SourceControl: Source control is disabled
+[2017.12.11-20.01.38:114][  0]SourceControl: Source control is disabled
+[2017.12.11-20.01.38:641][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.12.11-20.01.38:816][  0]LogOcInput: OculusInput pre-init called
+[2017.12.11-20.01.39:003][  0]LogEngine: Initializing Engine...
+[2017.12.11-20.01.46:974][  0]LogHMD: Failed to initialize OpenVR with code 306
+[2017.12.11-20.01.47:137][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.12.11-20.01.47:137][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.12.11-20.01.47:208][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.12.11-20.01.47:232][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 4 channels at 48 kHz using 32 bits per sample (channel mask 0x33)
+[2017.12.11-20.01.47:253][  0]LogInit: FAudioDevice initialized.
+[2017.12.11-20.01.47:318][  0]LogDerivedDataCache: Saved boot cache 0.06s 82MB C:/Users/Samuel/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.12.11-20.01.47:327][  0]LogInit: Texture streaming: Enabled
+[2017.12.11-20.01.47:375][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.12.11-20.01.47:375][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={E9803F1E-4BE2-61EE-9896-939AF947E6CA}
+[2017.12.11-20.01.47:449][  0]LogInit: Transaction tracking system initialized
+[2017.12.11-20.01.47:625][  0]BlueprintLog: New page: Editor Load
+[2017.12.11-20.01.48:117][  0]LocalizationService: Localization service is disabled
+[2017.12.11-20.01.48:443][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/ThirdPersonOverview'
+[2017.12.11-20.01.48:443][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/ThirdPersonOverview'
+[2017.12.11-20.01.48:443][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPersonBP/ThirdPersonOverview.ThirdPersonOverview_C'
+[2017.12.11-20.01.48:583][  0]LogConsoleResponse: Display: 
+[2017.12.11-20.01.48:707][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.12.11-20.01.48:707][  0]LogCook: Display: Mobile HDR setting 1
+[2017.12.11-20.01.48:707][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.12.11-20.01.49:340][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Content/' took 0.02s
+[2017.12.11-20.01.49:547][  0]SourceControl: Source control is disabled
+[2017.12.11-20.01.49:615][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.11-20.01.49:641][  0]LogSlate: Took 0.000215 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.11-20.01.57:088][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.11-20.01.57:091][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.11-20.02.01:491][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.11-20.02.01:493][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.11-20.02.01:661][  0]Cmd: MAP LOAD FILE="C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Content/VRGunToolkit/Maps/Welcome.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.11-20.02.01:662][  0]LightingResults: New page: Lighting Build
+[2017.12.11-20.02.01:693][  0]MapCheck: New page: Map Check
+[2017.12.11-20.02.01:693][  0]LightingResults: New page: Lighting Build
+[2017.12.11-20.02.01:754][  0]LogLinker: Warning: Asset 'C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Content/VRGunToolkit/Sounds/Shells/DropSoundAttenuation.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2017.12.11-20.02.01:755][  0]LogLinker: Warning: Asset 'C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Content/VRGunToolkit/Sounds/Shells/DropSoundConcurrency.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2017.12.11-20.02.01:936][  0]LogLinker: Warning: Asset 'C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Content/VRGunToolkit/Materials/Weapons/GunExamples/M_BlueEmissive.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2017.12.11-20.02.01:936][  0]LogLinker: Warning: Asset 'C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Content/VRGunToolkit/Materials/Weapons/GunExamples/M_Colorful_Mat.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2017.12.11-20.02.02:006][  0]LogLinker: Warning: Asset 'C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Content/VRGunToolkit/Sounds/Shells/MetalicShell/Cue/Cue_ShellDropRandom.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2017.12.11-20.02.02:011][  0]LogLinker: Warning: Asset 'C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Content/VRGunToolkit/Sounds/Magazine/Cue/Cue_MagDropRandom.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2017.12.11-20.02.02:175][  0]LogBlueprint: Warning: [Compiler BP_VRrGunHands] ProjectPointToNavigation_DEPRECATED  is deprecated; This version of ProjectPointToNavigation is deprecated. Please use the new version
+[2017.12.11-20.02.02:272][  0]LogBlueprint: Warning: [Compiler BP_VRrGunHands] [0034.00] Compile of BP_VRrGunHands successful, but with 1 Warning(s) [in 208 ms] (/Game/VRGunToolkit/Blueprints/Character/BP_VRrGunHands.BP_VRrGunHands)
+[2017.12.11-20.02.02:342][  0]LogClass: Warning: Enum '/Game/VRGunToolkit/Blueprints/DemoRoom/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2017.12.11-20.02.02:539][  0]LogLinker: Warning: Asset 'C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Content/VRGunToolkit/Materials/Assets/M_Target_Human.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2017.12.11-20.02.02:850][  0]LogLinker: Warning: Asset 'C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Content/VRGunToolkit/Sounds/Magazine/Wav/A_MagDrop01.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2017.12.11-20.02.02:851][  0]LogLinker: Warning: Asset 'C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Content/VRGunToolkit/Sounds/Shells/MetalicShell/Wav/A_ShellDrop0.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2017.12.11-20.02.02:852][  0]LogLinker: Warning: Asset 'C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Content/VRGunToolkit/Sounds/Shells/MetalicShell/Wav/A_ShellDrop01.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2017.12.11-20.02.02:853][  0]LogLinker: Warning: Asset 'C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Content/VRGunToolkit/Sounds/Shells/MetalicShell/Wav/A_ShellDrop02.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2017.12.11-20.02.02:854][  0]LogLinker: Warning: Asset 'C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Content/VRGunToolkit/Sounds/Shells/MetalicShell/Wav/A_ShellDrop03.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2017.12.11-20.02.02:855][  0]LogLinker: Warning: Asset 'C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Content/VRGunToolkit/Sounds/Shells/MetalicShell/Wav/A_ShellDrop04.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2017.12.11-20.02.02:856][  0]LogLinker: Warning: Asset 'C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Content/VRGunToolkit/Sounds/Shells/MetalicShell/Wav/A_ShellDrop05.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2017.12.11-20.02.02:857][  0]LogLinker: Warning: Asset 'C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Content/VRGunToolkit/Sounds/Shells/MetalicShell/Wav/A_ShellDrop06.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2017.12.11-20.02.02:858][  0]LogLinker: Warning: Asset 'C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Content/VRGunToolkit/Sounds/Shells/MetalicShell/Wav/A_ShellDrop07.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2017.12.11-20.02.02:859][  0]LogLinker: Warning: Asset 'C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Content/VRGunToolkit/Sounds/Shells/MetalicShell/Wav/A_ShellDrop08.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2017.12.11-20.02.02:861][  0]LogLinker: Warning: Asset 'C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Content/VRGunToolkit/Sounds/Shells/MetalicShell/Wav/A_ShellDrop09.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2017.12.11-20.02.02:862][  0]LogLinker: Warning: Asset 'C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Content/VRGunToolkit/Sounds/Shells/MetalicShell/Wav/A_ShellDrop10.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2017.12.11-20.02.02:863][  0]LogLinker: Warning: Asset 'C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Content/VRGunToolkit/Sounds/Shells/MetalicShell/Wav/A_ShellDrop11.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2017.12.11-20.02.02:864][  0]LogLinker: Warning: Asset 'C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Content/VRGunToolkit/Sounds/Shells/MetalicShell/Wav/A_ShellDrop12.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2017.12.11-20.02.02:865][  0]LogLinker: Warning: Asset 'C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Content/VRGunToolkit/Sounds/Shells/MetalicShell/Wav/A_ShellDrop13.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2017.12.11-20.02.02:866][  0]LogLinker: Warning: Asset 'C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Content/VRGunToolkit/Sounds/Shells/MetalicShell/Wav/A_ShellDrop14.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2017.12.11-20.02.02:867][  0]LogLinker: Warning: Asset 'C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Content/VRGunToolkit/Sounds/Shells/MetalicShell/Wav/A_ShellDrop15.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2017.12.11-20.02.02:868][  0]LogLinker: Warning: Asset 'C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Content/VRGunToolkit/Sounds/Shells/MetalicShell/Wav/A_ShellDrop16.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2017.12.11-20.02.02:869][  0]LogLinker: Warning: Asset 'C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Content/VRGunToolkit/Sounds/Shells/MetalicShell/Wav/A_ShellDrop17.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2017.12.11-20.02.02:871][  0]LogLinker: Warning: Asset 'C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Content/VRGunToolkit/Sounds/Shells/MetalicShell/Wav/A_ShellDrop18.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2017.12.11-20.02.02:872][  0]LogLinker: Warning: Asset 'C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Content/VRGunToolkit/Sounds/Shells/MetalicShell/Wav/A_ShellDrop19.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2017.12.11-20.02.02:873][  0]LogLinker: Warning: Asset 'C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Content/VRGunToolkit/Sounds/Shells/MetalicShell/Wav/A_ShellDrop010.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2017.12.11-20.02.02:873][  0]LogLinker: Warning: Asset 'C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Content/VRGunToolkit/Sounds/Shells/MetalicShell/Wav/A_ShellDrop20.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2017.12.11-20.02.02:874][  0]LogLinker: Warning: Asset 'C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Content/VRGunToolkit/Sounds/Shells/MetalicShell/Wav/A_ShellDrop21.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2017.12.11-20.02.03:272][  0]LogAIModule: Creating AISystem for world Welcome
+[2017.12.11-20.02.03:279][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.11-20.02.03:294][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.11-20.02.03:356][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 61.228ms to complete.
+[2017.12.11-20.02.03:356][  0]LogFileHelpers: Loading map 'Welcome' took 1.694
+[2017.12.11-20.02.03:428][  0]LogStats: Warning: MetaData mismatch. Did you assign a stat to two groups? New //STATGROUP_Threads//SplashScreenThread///Thread_2d78_0///####STATCAT_Advanced#### old //STATGROUP_Threads//SplashScreenThread///Thread_24b4_0///####STATCAT_Advanced####
+[2017.12.11-20.02.03:428][  0]LogCollectionManager: Loaded 0 collections in 0.000680 seconds
+[2017.12.11-20.02.03:489][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Saved/Collections/' took 0.01s
+[2017.12.11-20.02.03:489][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Content/Developers/Samuel/Collections/' took 0.01s
+[2017.12.11-20.02.03:489][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Content/Collections/' took 0.01s
+[2017.12.11-20.02.03:489][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2017.12.11-20.02.03:496][  0]LogContentBrowser: Native class hierarchy populated in 0.0067 seconds. Added 2363 classes and 519 folders.
+[2017.12.11-20.02.03:533][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2017.12.11-20.02.03:573][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2017.12.11-20.02.03:598][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2017.12.11-20.02.03:685][  0]LogSlate: Took 0.000219 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.12.11-20.02.03:688][  0]LogSlate: Took 0.000236 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.12.11-20.02.03:774][  0]LogRenderer: Reallocating scene render targets to support 876x500 Format 26 NumSamples 4 (Frame:1).
+[2017.12.11-20.02.03:883][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2017.12.11-20.02.03:883][  0]LogLoad: (Engine Initialization) Total time: 35.61 seconds
+[2017.12.11-20.02.03:883][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.12.11-20.02.03:883][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.12.11-20.02.03:883][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.12.11-20.02.03:916][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.12.11-20.02.03:949][  1]LogAssetRegistry: Asset discovery search completed in 29.0287 seconds
+[2017.12.11-20.02.03:951][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.12.11-20.02.03:951][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000069 seconds (updated 0 objects)
+[2017.12.11-20.02.05:822][213]LogSlate: Took 0.000176 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.11-20.02.05:971][223]LogMaterial: Missing cached shader map for material Material_0, compiling. 
+[2017.12.11-20.02.05:972][223]LogMaterial: Warning: /Engine/Transient.Material_0 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.11-20.02.05:972][223]LogMaterial: 	Only transparent or postprocess materials can read from scene depth.
+[2017.12.11-20.02.19:384][975]LogSlate: Took 0.000160 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.11-20.02.19:472][975]LogLinker: Warning: Asset 'C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Content/VRGunToolkit/Sounds/Shells/PlasticCasing/Cue/Cue_ShotGun_Shell_Random.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2017.12.11-20.02.19:559][975]LogClass: Warning: Enum '/Game/VRGunToolkit/Blueprints/DemoRoom/Button/ENUM_BTN_State.ENUM_BTN_State' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2017.12.11-20.02.19:679][975]LogLinker: Warning: Asset 'C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Content/VRGunToolkit/Sounds/Shells/PlasticCasing/Wav/A_Shotgun_Shell_1.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2017.12.11-20.02.19:680][975]LogLinker: Warning: Asset 'C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Content/VRGunToolkit/Sounds/Shells/PlasticCasing/Wav/A_Shotgun_Shell_2.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2017.12.11-20.02.19:681][975]LogLinker: Warning: Asset 'C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Content/VRGunToolkit/Sounds/Shells/PlasticCasing/Wav/A_Shotgun_Shell_3.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2017.12.11-20.02.19:717][975]LogAIModule: Creating AISystem for world ShootingRange
+[2017.12.11-20.02.19:726][975]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Shotgun_C /Game/VRGunToolkit/Maps/ShootingRange.ShootingRange:PersistentLevel.BP_Shotgun_2127
+	Function /Game/VRGunToolkit/Blueprints/BP_VRRealisticGun_Base.BP_VRRealisticGun_Base_C:UserConstructionScript:053F
+[2017.12.11-20.02.19:732][975]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Shotgun_C /Game/VRGunToolkit/Maps/ShootingRange.ShootingRange:PersistentLevel.BP_Shotgun2
+	Function /Game/VRGunToolkit/Blueprints/BP_VRRealisticGun_Base.BP_VRRealisticGun_Base_C:UserConstructionScript:053F
+[2017.12.11-20.02.19:736][975]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_AK47_C /Game/VRGunToolkit/Maps/ShootingRange.ShootingRange:PersistentLevel.BP_AK47_2858
+	Function /Game/VRGunToolkit/Blueprints/BP_VRRealisticGun_Base.BP_VRRealisticGun_Base_C:UserConstructionScript:053F
+[2017.12.11-20.02.19:738][975]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_AK47_C /Game/VRGunToolkit/Maps/ShootingRange.ShootingRange:PersistentLevel.BP_AK48
+	Function /Game/VRGunToolkit/Blueprints/BP_VRRealisticGun_Base.BP_VRRealisticGun_Base_C:UserConstructionScript:053F
+[2017.12.11-20.02.19:740][975]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Colt1911_C /Game/VRGunToolkit/Maps/ShootingRange.ShootingRange:PersistentLevel.BP_Colt1911_2035
+	Function /Game/VRGunToolkit/Blueprints/BP_VRRealisticGun_Base.BP_VRRealisticGun_Base_C:UserConstructionScript:053F
+[2017.12.11-20.02.19:741][975]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Colt1911_C /Game/VRGunToolkit/Maps/ShootingRange.ShootingRange:PersistentLevel.BP_Colt1912
+	Function /Game/VRGunToolkit/Blueprints/BP_VRRealisticGun_Base.BP_VRRealisticGun_Base_C:UserConstructionScript:053F
+[2017.12.11-20.02.19:743][975]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Colt1911_C /Game/VRGunToolkit/Maps/ShootingRange.ShootingRange:PersistentLevel.BP_Colt1913
+	Function /Game/VRGunToolkit/Blueprints/BP_VRRealisticGun_Base.BP_VRRealisticGun_Base_C:UserConstructionScript:053F
+[2017.12.11-20.02.19:744][975]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Sniper_C /Game/VRGunToolkit/Maps/ShootingRange.ShootingRange:PersistentLevel.BP_Sniper_2394
+	Function /Game/VRGunToolkit/Blueprints/BP_VRRealisticGun_Base.BP_VRRealisticGun_Base_C:UserConstructionScript:053F
+[2017.12.11-20.02.19:772][975]Cmd: MAP LOAD FILE="C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Content/VRGunToolkit/Maps/ShootingRange.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.11-20.02.19:773][975]LightingResults: New page: Lighting Build
+[2017.12.11-20.02.19:773][975]LoadErrors: New page: Loading map: ShootingRange.umap
+[2017.12.11-20.02.19:774][975]MapCheck: New page: Map Check
+[2017.12.11-20.02.19:774][975]LightingResults: New page: Lighting Build
+[2017.12.11-20.02.19:794][975]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Shotgun_C /Game/VRGunToolkit/Maps/ShootingRange.ShootingRange:PersistentLevel.BP_Shotgun_2127
+	Function /Game/VRGunToolkit/Blueprints/BP_VRRealisticGun_Base.BP_VRRealisticGun_Base_C:UserConstructionScript:053F
+[2017.12.11-20.02.19:805][975]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Shotgun_C /Game/VRGunToolkit/Maps/ShootingRange.ShootingRange:PersistentLevel.BP_Shotgun2
+	Function /Game/VRGunToolkit/Blueprints/BP_VRRealisticGun_Base.BP_VRRealisticGun_Base_C:UserConstructionScript:053F
+[2017.12.11-20.02.19:812][975]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_AK47_C /Game/VRGunToolkit/Maps/ShootingRange.ShootingRange:PersistentLevel.BP_AK47_2858
+	Function /Game/VRGunToolkit/Blueprints/BP_VRRealisticGun_Base.BP_VRRealisticGun_Base_C:UserConstructionScript:053F
+[2017.12.11-20.02.19:815][975]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_AK47_C /Game/VRGunToolkit/Maps/ShootingRange.ShootingRange:PersistentLevel.BP_AK48
+	Function /Game/VRGunToolkit/Blueprints/BP_VRRealisticGun_Base.BP_VRRealisticGun_Base_C:UserConstructionScript:053F
+[2017.12.11-20.02.19:819][975]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Colt1911_C /Game/VRGunToolkit/Maps/ShootingRange.ShootingRange:PersistentLevel.BP_Colt1911_2035
+	Function /Game/VRGunToolkit/Blueprints/BP_VRRealisticGun_Base.BP_VRRealisticGun_Base_C:UserConstructionScript:053F
+[2017.12.11-20.02.19:822][975]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Colt1911_C /Game/VRGunToolkit/Maps/ShootingRange.ShootingRange:PersistentLevel.BP_Colt1912
+	Function /Game/VRGunToolkit/Blueprints/BP_VRRealisticGun_Base.BP_VRRealisticGun_Base_C:UserConstructionScript:053F
+[2017.12.11-20.02.19:825][975]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Colt1911_C /Game/VRGunToolkit/Maps/ShootingRange.ShootingRange:PersistentLevel.BP_Colt1913
+	Function /Game/VRGunToolkit/Blueprints/BP_VRRealisticGun_Base.BP_VRRealisticGun_Base_C:UserConstructionScript:053F
+[2017.12.11-20.02.19:829][975]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Sniper_C /Game/VRGunToolkit/Maps/ShootingRange.ShootingRange:PersistentLevel.BP_Sniper_2394
+	Function /Game/VRGunToolkit/Blueprints/BP_VRRealisticGun_Base.BP_VRRealisticGun_Base_C:UserConstructionScript:053F
+[2017.12.11-20.02.19:898][975]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.11-20.02.19:926][975]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.11-20.02.19:989][975]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 62.436ms to complete.
+[2017.12.11-20.02.19:990][975]LogFileHelpers: Loading map 'ShootingRange' took 0.218
+[2017.12.11-20.02.20:077][978]LogRenderer: Reallocating scene render targets to support 2048x2048 Format 10 NumSamples 4 (Frame:1).
+[2017.12.11-20.02.27:149][651]LogEditorViewport: Clicking Background
+[2017.12.11-20.02.40:853][842]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2017.12.11-20.02.56:950][ 69]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0002 seconds. Added 2 classes and 3 folders.
+[2017.12.11-20.03.01:265][412]LogLevel: WORLD TRANSLATION BEGIN {0, 0, 0} -> {327559, 327559, 0}
+[2017.12.11-20.03.01:266][412]LogLevel: WORLD TRANSLATION END {327559, 327559, 0} took 0.8053 ms
+[2017.12.11-20.03.22:272][ 25]LogEditorViewport: Clicking on Actor (LMB): LandscapeStreamingProxy (LandscapeStreamingProxy)
+[2017.12.11-20.03.22:898][ 32]LogEditorViewport: Clicking on Actor (CTRL LMB): LandscapeStreamingProxy (LandscapeStreamingProxy)
+[2017.12.11-20.03.23:332][ 36]LogEditorViewport: Clicking on Actor (CTRL LMB): LandscapeStreamingProxy (LandscapeStreamingProxy)
+[2017.12.11-20.03.23:907][ 42]LogEditorViewport: Clicking on Actor (CTRL LMB): LandscapeStreamingProxy (LandscapeStreamingProxy)
+[2017.12.11-20.03.24:361][ 46]LogEditorViewport: Clicking on Actor (CTRL LMB): LandscapeStreamingProxy (LandscapeStreamingProxy)
+[2017.12.11-20.03.24:827][ 51]LogEditorViewport: Clicking on Actor (CTRL LMB): LandscapeStreamingProxy (LandscapeStreamingProxy)
+[2017.12.11-20.03.25:302][ 56]LogEditorViewport: Clicking on Actor (CTRL LMB): LandscapeStreamingProxy (LandscapeStreamingProxy)
+[2017.12.11-20.03.25:857][ 62]LogEditorViewport: Clicking on Actor (CTRL LMB): LandscapeStreamingProxy (LandscapeStreamingProxy)
+[2017.12.11-20.03.26:343][ 67]LogEditorViewport: Clicking on Actor (CTRL LMB): LandscapeStreamingProxy (LandscapeStreamingProxy)
+[2017.12.11-20.03.26:840][ 72]LogEditorViewport: Clicking on Actor (CTRL LMB): LandscapeStreamingProxy (LandscapeStreamingProxy)
+[2017.12.11-20.03.27:267][ 76]LogEditorViewport: Clicking on Actor (CTRL LMB): LandscapeStreamingProxy (LandscapeStreamingProxy)
+[2017.12.11-20.03.28:210][ 85]LogEditorViewport: Clicking on Actor (CTRL LMB): LandscapeStreamingProxy (LandscapeStreamingProxy)
+[2017.12.11-20.03.28:803][ 91]LogEditorViewport: Clicking on Actor (CTRL LMB): LandscapeStreamingProxy (LandscapeStreamingProxy)
+[2017.12.11-20.03.29:241][ 95]LogEditorViewport: Clicking on Actor (CTRL LMB): LandscapeStreamingProxy (LandscapeStreamingProxy)
+[2017.12.11-20.03.29:523][ 97]LogEditorViewport: Clicking on Actor (CTRL LMB): LandscapeStreamingProxy (LandscapeStreamingProxy)
+[2017.12.11-20.03.29:907][ 99]LogEditorViewport: Clicking on Actor (CTRL LMB): LandscapeStreamingProxy (LandscapeStreamingProxy)
+[2017.12.11-20.03.30:941][109]LogEditorViewport: Clicking on Actor (CTRL LMB): LandscapeStreamingProxy (LandscapeStreamingProxy)
+[2017.12.11-20.04.08:137][782]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2017.12.11-20.04.29:110][582]LogEditorViewport: Clicking on Actor (LMB): LandscapeStreamingProxy (LandscapeStreamingProxy)
+[2017.12.11-20.04.33:150][752]LogSavePackage: Save=456.18ms
+[2017.12.11-20.04.33:150][752]LogSavePackage: Moving 'C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Saved/Terrain_x0_y0447B0CBC45978DDFEEE3539300D03319.tmp' to 'C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Content/VRGunToolkit/Maps/Terrain/Terrain_x0_y0.umap'
+[2017.12.11-20.04.33:153][752]LogSavePackage: Display: Finished SavePackage C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Content/VRGunToolkit/Maps/Terrain/Terrain_x0_y0.umap
+[2017.12.11-20.04.33:155][752]LogFileHelpers: Saving map 'Terrain_x0_y0' took 0.557
+[2017.12.11-20.04.33:625][752]LogSavePackage: Save=383.54ms
+[2017.12.11-20.04.33:625][752]LogSavePackage: Moving 'C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Saved/ShootingRange9F9CA829450F483795093F970BA0F945.tmp' to 'C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Content/VRGunToolkit/Maps/ShootingRange.umap'
+[2017.12.11-20.04.33:627][752]LogSavePackage: Display: Finished SavePackage C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Content/VRGunToolkit/Maps/ShootingRange.umap
+[2017.12.11-20.04.33:649][752]LogFileHelpers: Saving map 'ShootingRange' took 0.492
+[2017.12.11-20.04.34:315][752]LogSavePackage: Save=565.22ms
+[2017.12.11-20.04.34:315][752]LogSavePackage: Moving 'C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Saved/Terrain_x0_y1FF0E16D04426783EA4D8B7A4BEC1525F.tmp' to 'C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Content/VRGunToolkit/Maps/Terrain/Terrain_x0_y1.umap'
+[2017.12.11-20.04.34:318][752]LogSavePackage: Display: Finished SavePackage C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Content/VRGunToolkit/Maps/Terrain/Terrain_x0_y1.umap
+[2017.12.11-20.04.34:320][752]LogFileHelpers: Saving map 'Terrain_x0_y1' took 0.669
+[2017.12.11-20.04.35:081][752]LogSavePackage: Save=656.08ms
+[2017.12.11-20.04.35:081][752]LogSavePackage: Moving 'C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Saved/Terrain_x0_y22C194C7B4C075357BC3CF1966FC4CAFB.tmp' to 'C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Content/VRGunToolkit/Maps/Terrain/Terrain_x0_y2.umap'
+[2017.12.11-20.04.35:084][752]LogSavePackage: Display: Finished SavePackage C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Content/VRGunToolkit/Maps/Terrain/Terrain_x0_y2.umap
+[2017.12.11-20.04.35:086][752]LogFileHelpers: Saving map 'Terrain_x0_y2' took 0.764
+[2017.12.11-20.04.35:679][752]LogSavePackage: Save=495.69ms
+[2017.12.11-20.04.35:679][752]LogSavePackage: Moving 'C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Saved/Terrain_x0_y308F6F4054A987029CEA7C1A71F4BA409.tmp' to 'C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Content/VRGunToolkit/Maps/Terrain/Terrain_x0_y3.umap'
+[2017.12.11-20.04.35:682][752]LogSavePackage: Display: Finished SavePackage C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Content/VRGunToolkit/Maps/Terrain/Terrain_x0_y3.umap
+[2017.12.11-20.04.35:684][752]LogFileHelpers: Saving map 'Terrain_x0_y3' took 0.596
+[2017.12.11-20.04.36:276][752]LogSavePackage: Save=494.44ms
+[2017.12.11-20.04.36:276][752]LogSavePackage: Moving 'C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Saved/Terrain_x1_y00565C05D4008EAF50C3219A5FF380437.tmp' to 'C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Content/VRGunToolkit/Maps/Terrain/Terrain_x1_y0.umap'
+[2017.12.11-20.04.36:279][752]LogSavePackage: Display: Finished SavePackage C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Content/VRGunToolkit/Maps/Terrain/Terrain_x1_y0.umap
+[2017.12.11-20.04.36:281][752]LogFileHelpers: Saving map 'Terrain_x1_y0' took 0.595
+[2017.12.11-20.04.37:190][752]LogSavePackage: Save=806.86ms
+[2017.12.11-20.04.37:190][752]LogSavePackage: Moving 'C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Saved/Terrain_x1_y1627AE42944711C4DB463E1BD35E2B31E.tmp' to 'C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Content/VRGunToolkit/Maps/Terrain/Terrain_x1_y1.umap'
+[2017.12.11-20.04.37:194][752]LogSavePackage: Display: Finished SavePackage C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Content/VRGunToolkit/Maps/Terrain/Terrain_x1_y1.umap
+[2017.12.11-20.04.37:196][752]LogSlate: Took 0.000183 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.11-20.04.37:197][752]LogFileHelpers: Saving map 'Terrain_x1_y1' took 0.914
+[2017.12.11-20.04.38:117][752]LogSavePackage: Save=806.63ms
+[2017.12.11-20.04.38:117][752]LogSavePackage: Moving 'C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Saved/Terrain_x1_y24D881AF347E396B17C92B884B6CC7CB7.tmp' to 'C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Content/VRGunToolkit/Maps/Terrain/Terrain_x1_y2.umap'
+[2017.12.11-20.04.38:120][752]LogSavePackage: Display: Finished SavePackage C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Content/VRGunToolkit/Maps/Terrain/Terrain_x1_y2.umap
+[2017.12.11-20.04.38:123][752]LogFileHelpers: Saving map 'Terrain_x1_y2' took 0.915
+[2017.12.11-20.04.38:903][752]LogSavePackage: Save=670.49ms
+[2017.12.11-20.04.38:903][752]LogSavePackage: Moving 'C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Saved/Terrain_x1_y343D35AF94D24A9179CBC789C795C45E6.tmp' to 'C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Content/VRGunToolkit/Maps/Terrain/Terrain_x1_y3.umap'
+[2017.12.11-20.04.38:906][752]LogSavePackage: Display: Finished SavePackage C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Content/VRGunToolkit/Maps/Terrain/Terrain_x1_y3.umap
+[2017.12.11-20.04.38:908][752]LogFileHelpers: Saving map 'Terrain_x1_y3' took 0.773
+[2017.12.11-20.04.39:498][752]LogSavePackage: Save=491.26ms
+[2017.12.11-20.04.39:498][752]LogSavePackage: Moving 'C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Saved/Terrain_x2_y01A28B49D4E1B50CC17C35CAC262A79C5.tmp' to 'C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Content/VRGunToolkit/Maps/Terrain/Terrain_x2_y0.umap'
+[2017.12.11-20.04.39:501][752]LogSavePackage: Display: Finished SavePackage C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Content/VRGunToolkit/Maps/Terrain/Terrain_x2_y0.umap
+[2017.12.11-20.04.39:503][752]LogFileHelpers: Saving map 'Terrain_x2_y0' took 0.593
+[2017.12.11-20.04.40:354][752]LogSavePackage: Save=748.04ms
+[2017.12.11-20.04.40:354][752]LogSavePackage: Moving 'C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Saved/Terrain_x2_y11BA97AB7467D5617D4FEC3A0D9783ADC.tmp' to 'C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Content/VRGunToolkit/Maps/Terrain/Terrain_x2_y1.umap'
+[2017.12.11-20.04.40:357][752]LogSavePackage: Display: Finished SavePackage C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Content/VRGunToolkit/Maps/Terrain/Terrain_x2_y1.umap
+[2017.12.11-20.04.40:359][752]LogFileHelpers: Saving map 'Terrain_x2_y1' took 0.854
+[2017.12.11-20.04.41:267][752]LogSavePackage: Save=810.03ms
+[2017.12.11-20.04.41:267][752]LogSavePackage: Moving 'C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Saved/Terrain_x2_y2113A54A74B9DF0C0A133E2B581FAEF35.tmp' to 'C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Content/VRGunToolkit/Maps/Terrain/Terrain_x2_y2.umap'
+[2017.12.11-20.04.41:271][752]LogSavePackage: Display: Finished SavePackage C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Content/VRGunToolkit/Maps/Terrain/Terrain_x2_y2.umap
+[2017.12.11-20.04.41:274][752]LogFileHelpers: Saving map 'Terrain_x2_y2' took 0.913
+[2017.12.11-20.04.42:057][752]LogSavePackage: Save=673.55ms
+[2017.12.11-20.04.42:057][752]LogSavePackage: Moving 'C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Saved/Terrain_x2_y321C23A0542A35778BFF715B588EDB486.tmp' to 'C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Content/VRGunToolkit/Maps/Terrain/Terrain_x2_y3.umap'
+[2017.12.11-20.04.42:060][752]LogSavePackage: Display: Finished SavePackage C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Content/VRGunToolkit/Maps/Terrain/Terrain_x2_y3.umap
+[2017.12.11-20.04.42:063][752]LogFileHelpers: Saving map 'Terrain_x2_y3' took 0.777
+[2017.12.11-20.04.42:617][752]LogSavePackage: Save=456.43ms
+[2017.12.11-20.04.42:617][752]LogSavePackage: Moving 'C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Saved/Terrain_x3_y0036EB3444689E700543971B4E19627E6.tmp' to 'C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Content/VRGunToolkit/Maps/Terrain/Terrain_x3_y0.umap'
+[2017.12.11-20.04.42:620][752]LogSavePackage: Display: Finished SavePackage C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Content/VRGunToolkit/Maps/Terrain/Terrain_x3_y0.umap
+[2017.12.11-20.04.42:622][752]LogFileHelpers: Saving map 'Terrain_x3_y0' took 0.557
+[2017.12.11-20.04.43:217][752]LogSavePackage: Save=494.60ms
+[2017.12.11-20.04.43:217][752]LogSavePackage: Moving 'C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Saved/Terrain_x3_y1B1B727C849D8770FA47F5EBC38340E5A.tmp' to 'C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Content/VRGunToolkit/Maps/Terrain/Terrain_x3_y1.umap'
+[2017.12.11-20.04.43:220][752]LogSavePackage: Display: Finished SavePackage C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Content/VRGunToolkit/Maps/Terrain/Terrain_x3_y1.umap
+[2017.12.11-20.04.43:222][752]LogFileHelpers: Saving map 'Terrain_x3_y1' took 0.597
+[2017.12.11-20.04.43:917][752]LogSavePackage: Save=594.85ms
+[2017.12.11-20.04.43:917][752]LogSavePackage: Moving 'C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Saved/Terrain_x3_y2B8CB6AA748C3AE7150D24DB7EB0B4563.tmp' to 'C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Content/VRGunToolkit/Maps/Terrain/Terrain_x3_y2.umap'
+[2017.12.11-20.04.43:920][752]LogSavePackage: Display: Finished SavePackage C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Content/VRGunToolkit/Maps/Terrain/Terrain_x3_y2.umap
+[2017.12.11-20.04.43:922][752]LogFileHelpers: Saving map 'Terrain_x3_y2' took 0.699
+[2017.12.11-20.04.44:490][752]LogSavePackage: Save=471.20ms
+[2017.12.11-20.04.44:490][752]LogSavePackage: Moving 'C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Saved/Terrain_x3_y34E6CEF1D48AC2D0A31F209A8369898F5.tmp' to 'C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Content/VRGunToolkit/Maps/Terrain/Terrain_x3_y3.umap'
+[2017.12.11-20.04.44:493][752]LogSavePackage: Display: Finished SavePackage C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Content/VRGunToolkit/Maps/Terrain/Terrain_x3_y3.umap
+[2017.12.11-20.04.44:496][752]LogFileHelpers: Saving map 'Terrain_x3_y3' took 0.571
+[2017.12.11-20.04.53:773][ 15]LogMaterial: Missing cached shader map for material Terrain, compiling. 
+[2017.12.11-20.04.53:884][ 15]LogMaterial: Missing cached shader map for material Terrain, compiling. 
+[2017.12.11-20.04.53:993][ 15]LogMaterial: Missing cached shader map for material Terrain, compiling. 
+[2017.12.11-20.04.54:112][ 15]LogMaterial: Missing cached shader map for material Terrain, compiling. 
+[2017.12.11-20.05.01:212][195]LogWindows: Windows GetLastError: The operation completed successfully. (0)
+[2017.12.11-20.05.01:746][197]LogWindows: Windows GetLastError: The operation completed successfully. (0)
+[2017.12.11-20.05.01:746][197]LogWindows: Error: === Critical error: ===
+[2017.12.11-20.05.01:746][197]LogWindows: Error: 
+[2017.12.11-20.05.01:746][197]LogWindows: Error: Fatal error: [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Runtime\RenderCore\Private\RenderingThread.cpp] [Line: 813] 
+[2017.12.11-20.05.01:746][197]LogWindows: Error: Rendering thread exception:
+[2017.12.11-20.05.01:746][197]LogWindows: Error: Fatal error: [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Runtime\Engine\Private\Materials\MaterialShared.cpp] [Line: 1892] 
+[2017.12.11-20.05.01:746][197]LogWindows: Error: Couldn't find Shader TBasePassPSFCachedPointIndirectLightingPolicySkylight for Material Resource Terrain!
+[2017.12.11-20.05.01:746][197]LogWindows: Error: 		RenderMeshShaderMap 1, RenderThreadShaderMap 1
+[2017.12.11-20.05.01:746][197]LogWindows: Error: 		GameMeshShaderMap 1, GameThreadShaderMap 1, bShaderWasFoundInGameShaderMap 0
+[2017.12.11-20.05.01:746][197]LogWindows: Error: 		With VF=FLocalVertexFactory, Platform=PCD3D_SM5
+[2017.12.11-20.05.01:746][197]LogWindows: Error: 		ShouldCache: Mat=0, VF=1, Shader=1 
+[2017.12.11-20.05.01:746][197]LogWindows: Error: 		MaterialUsageDesc: LightingModel=MSM_DefaultLit, BlendMode=BLEND_Opaque, SpecialEngine=0, TwoSided=0, TSNormal=1, Masked=0, Distorted=0, WritesEveryPixel=1, ModifiesMeshPosition=0, Usage={}
+[2017.12.11-20.05.01:746][197]LogWindows: Error: 
+[2017.12.11-20.05.01:746][197]LogWindows: Error: 
+[2017.12.11-20.05.01:746][197]LogWindows: Error: [Callstack] 0x000000005E2B3FB8 KERNELBASE.dll!UnknownFunction []
+[2017.12.11-20.05.01:746][197]LogWindows: Error: [Callstack] 0x00000000FDD976D4 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2017.12.11-20.05.01:746][197]LogWindows: Error: [Callstack] 0x00000000F183330B UE4Editor-Core.dll!UnknownFunction []
+[2017.12.11-20.05.01:746][197]LogWindows: Error: [Callstack] 0x00000000F17C47F9 UE4Editor-Core.dll!UnknownFunction []
+[2017.12.11-20.05.01:746][197]LogWindows: Error: [Callstack] 0x00000000EF78A4B7 UE4Editor-Engine.dll!UnknownFunction []
+[2017.12.11-20.05.01:746][197]LogWindows: Error: [Callstack] 0x00000000E78DD4DF UE4Editor-Renderer.dll!UnknownFunction []
+[2017.12.11-20.05.01:746][197]LogWindows: Error: [Callstack] 0x00000000E78D230A UE4Editor-Renderer.dll!UnknownFunction []
+[2017.12.11-20.05.01:746][197]LogWindows: Error: [Callstack] 0x00000000E790655B UE4Editor-Renderer.dll!UnknownFunction []
+[2017.12.11-20.05.01:746][197]LogWindows: Error: [Callstack] 0x00000000E78DEAA4 UE4Editor-Renderer.dll!UnknownFunction []
+[2017.12.11-20.05.01:746][197]LogWindows: Error: [Callstack] 0x00000000E78DF6A2 UE4Editor-Renderer.dll!UnknownFunction []
+[2017.12.11-20.05.01:746][197]LogWindows: Error: [Callstack] 0x00000000E791FB80 UE4Editor-Renderer.dll!UnknownFunction []
+[2017.12.11-20.05.01:746][197]LogWindows: Error: [Callstack] 0x00000000E7E15A5B UE4Editor-Renderer.dll!UnknownFunction []
+[2017.12.11-20.05.01:746][197]LogWindows: Error: [Callstack] 0x00000000E7E15888 UE4Editor-Renderer.dll!UnknownFunction []
+[2017.12.11-20.05.01:746][197]LogWindows: Error: [Callstack] 0x00000000E7E15BE2 UE4Editor-Renderer.dll!UnknownFunction []
+[2017.12.11-20.05.01:746][197]LogWindows: Error: [Callstack] 0x00000000E7E14BE8 UE4Editor-Renderer.dll!UnknownFunction []
+[2017.12.11-20.05.01:746][197]LogWindows: Error: [Callstack] 0x00000000E7E0C2C1 UE4Editor-Renderer.dll!UnknownFunction []
+[2017.12.11-20.05.01:746][197]LogWindows: Error: [Callstack] 0x00000000E7E449B6 UE4Editor-Renderer.dll!UnknownFunction []
+[2017.12.11-20.05.01:746][197]LogWindows: Error: [Callstack] 0x00000000F1694845 UE4Editor-Core.dll!UnknownFunction []
+[2017.12.11-20.05.01:746][197]LogWindows: Error: [Callstack] 0x00000000F1694E2A UE4Editor-Core.dll!UnknownFunction []
+[2017.12.11-20.05.01:746][197]LogWindows: Error: [Callstack] 0x00000000FE0122C4 UE4Editor-RenderCore.dll!UnknownFunction []
+[2017.12.11-20.05.01:746][197]LogWindows: Error: [Callstack] 0x00000000FE0132F6 UE4Editor-RenderCore.dll!UnknownFunction []
+[2017.12.11-20.05.01:746][197]LogWindows: Error: [Callstack] 0x00000000F1A3092C UE4Editor-Core.dll!UnknownFunction []
+[2017.12.11-20.05.01:746][197]LogWindows: Error: [Callstack] 0x00000000F1A22563 UE4Editor-Core.dll!UnknownFunction []
+[2017.12.11-20.05.01:746][197]LogWindows: Error: [Callstack] 0x0000000061871FE4 KERNEL32.DLL!UnknownFunction []
+[2017.12.11-20.05.01:746][197]LogWindows: Error: [Callstack] 0x0000000061AFEF91 ntdll.dll!UnknownFunction []
+[2017.12.11-20.05.01:747][197]LogWindows: Error: [Callstack] 0x0000000061AFEF91 ntdll.dll!UnknownFunction []
+[2017.12.11-20.05.01:747][197]LogWindows: Error: 
+[2017.12.11-20.05.01:747][197]LogWindows: Error: 
+[2017.12.11-20.05.01:747][197]LogWindows: Error: 
+[2017.12.11-20.05.01:747][197]LogWindows: Error: 
+[2017.12.11-20.05.01:760][197]LogExit: Executing StaticShutdownAfterError
+[2017.12.11-20.05.01:811][197]LogWindows: FPlatformMisc::RequestExit(1)
+[2017.12.11-20.05.01:811][197]Log file closed, 12/11/17 20:05:01

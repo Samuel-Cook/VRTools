@@ -1,0 +1,622 @@
+﻿Log file open, 12/11/17 20:29:46
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: VRGunToolkit
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(343271333) SRandInit(343271333).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3754814, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.167494
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3754814
+LogInit: Engine Version: 4.18.1-3754814+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Nov 14 2017 02:05:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: D:/Archive/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.12.11-20.29.47:599][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.11-20.29.47:599][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.12.11-20.29.47:662][  0]LogInit: Setting Device Profile CVar: [[r.SSR.Quality:0]]
+[2017.12.11-20.29.47:662][  0]LogInit: Setting Device Profile CVar: [[r.MotionBlurQuality:0]]
+[2017.12.11-20.29.47:662][  0]LogInit: Setting Device Profile CVar: [[r.BloomQuality:5]]
+[2017.12.11-20.29.47:662][  0]LogInit: Setting Device Profile CVar: [[r.SceneColorFormat:3]]
+[2017.12.11-20.29.47:662][  0]LogInit: Setting Device Profile CVar: [[r.LensFlareQuality:0]]
+[2017.12.11-20.29.47:662][  0]LogInit: Setting Device Profile CVar: [[r.Tonemapper.Sharpen:0]]
+[2017.12.11-20.29.47:662][  0]LogInit: Setting Device Profile CVar: [[r.HZBOcclusion:0]]
+[2017.12.11-20.29.47:662][  0]LogInit: Setting Device Profile CVar: [[r.Shadow.ForceSingleSampleShadowingFromStationary:1]]
+[2017.12.11-20.29.47:662][  0]LogInit: Setting Device Profile CVar: [[r.AmbientOcclusionLevels:0]]
+[2017.12.11-20.29.47:663][  0]LogInit: Setting Device Profile CVar: [[r.MSAACount:4]]
+[2017.12.11-20.29.47:663][  0]LogInit: Setting Device Profile CVar: [[r.DepthOfFieldQuality:0]]
+[2017.12.11-20.29.47:663][  0]LogInit: Setting Device Profile CVar: [[r.ReflectionEnvironmentBeginMixingRoughness:0.0]]
+[2017.12.11-20.29.47:663][  0]LogInit: Setting Device Profile CVar: [[r.ReflectionEnvironmentEndMixingRoughness:0.0]]
+[2017.12.11-20.29.47:663][  0]LogInit: Setting Device Profile CVar: [[r.Shadow.FadeExponent:5]]
+[2017.12.11-20.29.47:663][  0]LogInit: Setting Device Profile CVar: [[r.Shadow.FadeResolution:128]]
+[2017.12.11-20.29.47:663][  0]LogInit: Setting Device Profile CVar: [[r.Shadow.MaxResolution:256]]
+[2017.12.11-20.29.47:663][  0]LogInit: Setting Device Profile CVar: [[r.ReflectionEnvironmentLightmapMixLargestWeight:1]]
+[2017.12.11-20.29.47:663][  0]LogInit: Setting Device Profile CVar: [[r.RHICmdBypass:0]]
+[2017.12.11-20.29.47:663][  0]LogInit: Computer: DESKTOP-G401FM1
+[2017.12.11-20.29.47:663][  0]LogInit: User: Samuel
+[2017.12.11-20.29.47:663][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.12.11-20.29.47:663][  0]LogInit: High frequency timer resolution =3.914060 MHz
+[2017.12.11-20.29.47:663][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2017.12.11-20.29.47:663][  0]LogMemory: Platform Memory Stats for Windows
+[2017.12.11-20.29.47:663][  0]LogMemory: Process Physical Memory: 284.60 MB used, 284.60 MB peak
+[2017.12.11-20.29.47:663][  0]LogMemory: Process Virtual Memory: 274.01 MB used, 274.01 MB peak
+[2017.12.11-20.29.47:663][  0]LogMemory: Physical Memory: 7374.81 MB used,  25270.88 MB free, 32645.70 MB total
+[2017.12.11-20.29.47:663][  0]LogMemory: Virtual Memory: 682.19 MB used,  25270.88 MB free, 134217728.00 MB total
+[2017.12.11-20.29.47:792][  0]LogInit: Using OS detected language (en-GB).
+[2017.12.11-20.29.47:792][  0]LogInit: Using OS detected locale (en-GB).
+[2017.12.11-20.29.47:795][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2017.12.11-20.29.48:215][  0]LogInit: Setting process to per monitor DPI aware
+[2017.12.11-20.29.48:576][  0]LogD3D11RHI: D3D11 adapters:
+[2017.12.11-20.29.48:612][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2017.12.11-20.29.48:612][  0]LogD3D11RHI:       8086/0/16322 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.12.11-20.29.48:618][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2017.12.11-20.29.48:618][  0]LogD3D11RHI:       128/0/16322 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2017.12.11-20.29.48:621][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.12.11-20.29.48:621][  0]LogD3D11RHI:       0/0/16322 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.12.11-20.29.48:621][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.12.11-20.29.48:629][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.12.11-20.29.48:629][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2017.12.11-20.29.48:629][  0]LogWindows: EnumDisplayDevices:
+[2017.12.11-20.29.48:629][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:0 D:1)
+[2017.12.11-20.29.48:630][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2017.12.11-20.29.48:630][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2017.12.11-20.29.48:630][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2017.12.11-20.29.48:630][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2017.12.11-20.29.48:630][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2017.12.11-20.29.48:630][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2017.12.11-20.29.48:630][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2017.12.11-20.29.48:630][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2017.12.11-20.29.48:630][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2017.12.11-20.29.48:630][  0]LogD3D11RHI:      Driver Date: Unknown
+[2017.12.11-20.29.48:630][  0]LogRHI: Texture pool is 5660 MB (70% of 8086 MB)
+[2017.12.11-20.29.48:654][  0]LogD3D11RHI: Async texture creation enabled
+[2017.12.11-20.29.48:698][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.12.11-20.29.48:741][  0]LogShaderCompilers: Guid format shader working directory is -7 characters bigger than the processId version (C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Intermediate/Shaders/WorkingDirectory/6028/).
+[2017.12.11-20.29.48:741][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Samuel/AppData/Local/Temp/UnrealShaderWorkingDir/4F336FF84B5EB28A29BD1BBFE1922A6C/'.
+[2017.12.11-20.29.48:741][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.12.11-20.29.49:724][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.12.11-20.29.49:771][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.12.11-20.29.49:824][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.12.11-20.29.49:887][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.12.11-20.29.49:950][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.12.11-20.29.50:015][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.12.11-20.29.50:072][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.12.11-20.29.50:119][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.12.11-20.29.50:173][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.12.11-20.29.50:216][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.12.11-20.29.50:262][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.12.11-20.29.50:304][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.12.11-20.29.50:359][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.12.11-20.29.50:534][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.12.11-20.29.50:614][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.12.11-20.29.50:614][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.12.11-20.29.50:664][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.12.11-20.29.50:695][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.12.11-20.29.50:776][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.12.11-20.29.50:797][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.12.11-20.29.50:843][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.12.11-20.29.50:914][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.12.11-20.29.50:959][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.12.11-20.29.51:006][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.12.11-20.29.51:006][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.12.11-20.29.51:404][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.12.11-20.29.51:470][  0]LogDerivedDataCache: Loaded boot cache 0.07s 82MB C:/Users/Samuel/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.12.11-20.29.51:470][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Samuel/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2017.12.11-20.29.51:470][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.12.11-20.29.51:470][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.12.11-20.29.51:470][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.12.11-20.29.51:470][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.12.11-20.29.51:485][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.12.11-20.29.51:497][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Samuel/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.12.11-20.29.51:507][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.12.11-20.29.51:507][  0]LogSlate: Using Freetype 2.6.0
+[2017.12.11-20.29.51:508][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.11-20.29.51:508][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.11-20.29.52:310][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.11-20.29.52:607][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.12.11-20.29.52:642][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.12.11-20.29.52:642][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.12.11-20.29.52:642][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.12.11-20.29.52:642][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.12.11-20.29.52:642][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.12.11-20.29.52:673][  0]LogNetVersion: VRGunToolkit , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2737668274)
+[2017.12.11-20.29.52:822][  0]LogAssetRegistry: FAssetRegistry took 0.0255 seconds to start up
+[2017.12.11-20.29.53:305][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.068858 seconds
+[2017.12.11-20.29.53:310][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2017.12.11-20.29.53:310][  0]LogUObjectAllocator: 7372016 out of 0 bytes used by permanent object pool.
+[2017.12.11-20.29.53:310][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.12.11-20.29.53:347][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.12.11-20.30.09:144][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.12.11-20.30.09:209][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.12.11-20.30.10:669][  0]LogMaterial: Missing cached shader map for material BaseColor, compiling. 
+[2017.12.11-20.30.10:694][  0]LogMaterial: Warning: D:\Archive\UE_4.18\Engine\Content\BufferVisualization\BaseColor.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.11-20.30.10:694][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2017.12.11-20.30.10:800][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.12.11-20.30.10:822][  0]LogMaterial: Missing cached shader map for material LightingModel, compiling. 
+[2017.12.11-20.30.10:822][  0]LogMaterial: Warning: D:\Archive\UE_4.18\Engine\Content\BufferVisualization\LightingModel.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.11-20.30.10:822][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2017.12.11-20.30.10:838][  0]LogMaterial: Missing cached shader map for material MaterialAO, compiling. 
+[2017.12.11-20.30.10:838][  0]LogMaterial: Warning: D:\Archive\UE_4.18\Engine\Content\BufferVisualization\MaterialAO.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.11-20.30.10:838][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2017.12.11-20.30.10:859][  0]LogMaterial: Missing cached shader map for material Metallic, compiling. 
+[2017.12.11-20.30.10:859][  0]LogMaterial: Warning: D:\Archive\UE_4.18\Engine\Content\BufferVisualization\Metallic.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.11-20.30.10:859][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2017.12.11-20.30.10:867][  0]LogMaterial: Missing cached shader map for material Opacity, compiling. 
+[2017.12.11-20.30.10:867][  0]LogMaterial: Warning: D:\Archive\UE_4.18\Engine\Content\BufferVisualization\Opacity.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.11-20.30.10:867][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2017.12.11-20.30.10:882][  0]LogMaterial: Missing cached shader map for material Roughness, compiling. 
+[2017.12.11-20.30.10:882][  0]LogMaterial: Warning: D:\Archive\UE_4.18\Engine\Content\BufferVisualization\Roughness.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.11-20.30.10:882][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2017.12.11-20.30.10:953][  0]LogMaterial: Missing cached shader map for material Specular, compiling. 
+[2017.12.11-20.30.10:954][  0]LogMaterial: Warning: D:\Archive\UE_4.18\Engine\Content\BufferVisualization\Specular.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.11-20.30.10:954][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2017.12.11-20.30.10:962][  0]LogMaterial: Missing cached shader map for material SubsurfaceColor, compiling. 
+[2017.12.11-20.30.10:962][  0]LogMaterial: Warning: D:\Archive\UE_4.18\Engine\Content\BufferVisualization\SubsurfaceColor.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.11-20.30.10:962][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2017.12.11-20.30.10:969][  0]LogMaterial: Missing cached shader map for material WorldNormal, compiling. 
+[2017.12.11-20.30.10:969][  0]LogMaterial: Warning: D:\Archive\UE_4.18\Engine\Content\BufferVisualization\WorldNormal.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.11-20.30.10:969][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2017.12.11-20.30.11:763][  0]SourceControl: Source control is disabled
+[2017.12.11-20.30.11:776][  0]SourceControl: Source control is disabled
+[2017.12.11-20.30.11:826][  0]SourceControl: Source control is disabled
+[2017.12.11-20.30.11:873][  0]SourceControl: Source control is disabled
+[2017.12.11-20.30.13:480][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.12.11-20.30.13:738][  0]LogOcInput: OculusInput pre-init called
+[2017.12.11-20.30.14:383][  0]LogEngine: Initializing Engine...
+[2017.12.11-20.30.14:469][  0]LogHMD: Failed to initialize OpenVR with code 117
+[2017.12.11-20.30.15:522][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.12.11-20.30.15:522][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.12.11-20.30.15:915][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.12.11-20.30.16:081][  0]LogInit: XAudio2 using 'HTC-VIVE-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.11-20.30.16:094][  0]LogInit: FAudioDevice initialized.
+[2017.12.11-20.30.16:199][  0]LogDerivedDataCache: Saved boot cache 0.07s 82MB C:/Users/Samuel/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.12.11-20.30.16:208][  0]LogInit: Texture streaming: Enabled
+[2017.12.11-20.30.16:267][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.12.11-20.30.16:509][  0]LogInit: Transaction tracking system initialized
+[2017.12.11-20.30.17:017][  0]BlueprintLog: New page: Editor Load
+[2017.12.11-20.30.19:332][  0]LocalizationService: Localization service is disabled
+[2017.12.11-20.30.20:131][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/ThirdPersonOverview'
+[2017.12.11-20.30.20:131][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/ThirdPersonOverview'
+[2017.12.11-20.30.20:131][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPersonBP/ThirdPersonOverview.ThirdPersonOverview_C'
+[2017.12.11-20.30.20:559][  0]LogConsoleResponse: Display: 
+[2017.12.11-20.30.22:920][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Content/' took 0.03s
+[2017.12.11-20.30.22:920][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.12.11-20.30.22:920][  0]LogCook: Display: Mobile HDR setting 1
+[2017.12.11-20.30.22:930][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.12.11-20.30.25:075][  0]SourceControl: Source control is disabled
+[2017.12.11-20.30.25:108][  0]Cmd: MAP LOAD FILE="C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Content/VRGunToolkit/Maps/Welcome.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.11-20.30.25:114][  0]LightingResults: New page: Lighting Build
+[2017.12.11-20.30.25:287][  0]MapCheck: New page: Map Check
+[2017.12.11-20.30.25:287][  0]LightingResults: New page: Lighting Build
+[2017.12.11-20.30.25:762][  0]LogLinker: Warning: Asset 'C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Content/VRGunToolkit/Sounds/Shells/DropSoundAttenuation.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2017.12.11-20.30.25:767][  0]LogLinker: Warning: Asset 'C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Content/VRGunToolkit/Sounds/Shells/DropSoundConcurrency.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2017.12.11-20.30.26:323][  0]LogLinker: Warning: Asset 'C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Content/VRGunToolkit/Materials/Weapons/GunExamples/M_BlueEmissive.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2017.12.11-20.30.26:328][  0]LogLinker: Warning: Asset 'C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Content/VRGunToolkit/Materials/Weapons/GunExamples/M_Colorful_Mat.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2017.12.11-20.30.26:569][  0]LogLinker: Warning: Asset 'C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Content/VRGunToolkit/Sounds/Shells/MetalicShell/Cue/Cue_ShellDropRandom.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2017.12.11-20.30.26:578][  0]LogLinker: Warning: Asset 'C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Content/VRGunToolkit/Sounds/Magazine/Cue/Cue_MagDropRandom.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2017.12.11-20.30.27:114][  0]LogBlueprint: Warning: [Compiler BP_VRrGunHands] ProjectPointToNavigation_DEPRECATED  is deprecated; This version of ProjectPointToNavigation is deprecated. Please use the new version
+[2017.12.11-20.30.27:299][  0]LogBlueprint: Warning: [Compiler BP_VRrGunHands] [0042.54] Compile of BP_VRrGunHands successful, but with 1 Warning(s) [in 522 ms] (/Game/VRGunToolkit/Blueprints/Character/BP_VRrGunHands.BP_VRrGunHands)
+[2017.12.11-20.30.27:442][  0]LogClass: Warning: Enum '/Game/VRGunToolkit/Blueprints/DemoRoom/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2017.12.11-20.30.28:048][  0]LogLinker: Warning: Asset 'C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Content/VRGunToolkit/Materials/Assets/M_Target_Human.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2017.12.11-20.30.28:720][  0]LogLinker: Warning: Asset 'C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Content/VRGunToolkit/Sounds/Magazine/Wav/A_MagDrop01.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2017.12.11-20.30.28:726][  0]LogLinker: Warning: Asset 'C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Content/VRGunToolkit/Sounds/Shells/MetalicShell/Wav/A_ShellDrop0.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2017.12.11-20.30.28:733][  0]LogLinker: Warning: Asset 'C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Content/VRGunToolkit/Sounds/Shells/MetalicShell/Wav/A_ShellDrop01.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2017.12.11-20.30.28:739][  0]LogLinker: Warning: Asset 'C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Content/VRGunToolkit/Sounds/Shells/MetalicShell/Wav/A_ShellDrop02.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2017.12.11-20.30.28:746][  0]LogLinker: Warning: Asset 'C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Content/VRGunToolkit/Sounds/Shells/MetalicShell/Wav/A_ShellDrop03.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2017.12.11-20.30.28:752][  0]LogLinker: Warning: Asset 'C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Content/VRGunToolkit/Sounds/Shells/MetalicShell/Wav/A_ShellDrop04.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2017.12.11-20.30.28:760][  0]LogLinker: Warning: Asset 'C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Content/VRGunToolkit/Sounds/Shells/MetalicShell/Wav/A_ShellDrop05.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2017.12.11-20.30.28:766][  0]LogLinker: Warning: Asset 'C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Content/VRGunToolkit/Sounds/Shells/MetalicShell/Wav/A_ShellDrop06.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2017.12.11-20.30.28:773][  0]LogLinker: Warning: Asset 'C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Content/VRGunToolkit/Sounds/Shells/MetalicShell/Wav/A_ShellDrop07.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2017.12.11-20.30.28:779][  0]LogLinker: Warning: Asset 'C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Content/VRGunToolkit/Sounds/Shells/MetalicShell/Wav/A_ShellDrop08.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2017.12.11-20.30.28:787][  0]LogLinker: Warning: Asset 'C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Content/VRGunToolkit/Sounds/Shells/MetalicShell/Wav/A_ShellDrop09.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2017.12.11-20.30.28:794][  0]LogLinker: Warning: Asset 'C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Content/VRGunToolkit/Sounds/Shells/MetalicShell/Wav/A_ShellDrop10.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2017.12.11-20.30.28:800][  0]LogLinker: Warning: Asset 'C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Content/VRGunToolkit/Sounds/Shells/MetalicShell/Wav/A_ShellDrop11.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2017.12.11-20.30.28:807][  0]LogLinker: Warning: Asset 'C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Content/VRGunToolkit/Sounds/Shells/MetalicShell/Wav/A_ShellDrop12.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2017.12.11-20.30.28:815][  0]LogLinker: Warning: Asset 'C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Content/VRGunToolkit/Sounds/Shells/MetalicShell/Wav/A_ShellDrop13.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2017.12.11-20.30.28:821][  0]LogLinker: Warning: Asset 'C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Content/VRGunToolkit/Sounds/Shells/MetalicShell/Wav/A_ShellDrop14.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2017.12.11-20.30.28:829][  0]LogLinker: Warning: Asset 'C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Content/VRGunToolkit/Sounds/Shells/MetalicShell/Wav/A_ShellDrop15.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2017.12.11-20.30.28:836][  0]LogLinker: Warning: Asset 'C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Content/VRGunToolkit/Sounds/Shells/MetalicShell/Wav/A_ShellDrop16.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2017.12.11-20.30.28:843][  0]LogLinker: Warning: Asset 'C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Content/VRGunToolkit/Sounds/Shells/MetalicShell/Wav/A_ShellDrop17.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2017.12.11-20.30.28:849][  0]LogLinker: Warning: Asset 'C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Content/VRGunToolkit/Sounds/Shells/MetalicShell/Wav/A_ShellDrop18.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2017.12.11-20.30.28:857][  0]LogLinker: Warning: Asset 'C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Content/VRGunToolkit/Sounds/Shells/MetalicShell/Wav/A_ShellDrop19.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2017.12.11-20.30.28:864][  0]LogLinker: Warning: Asset 'C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Content/VRGunToolkit/Sounds/Shells/MetalicShell/Wav/A_ShellDrop010.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2017.12.11-20.30.28:870][  0]LogLinker: Warning: Asset 'C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Content/VRGunToolkit/Sounds/Shells/MetalicShell/Wav/A_ShellDrop20.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2017.12.11-20.30.28:878][  0]LogLinker: Warning: Asset 'C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Content/VRGunToolkit/Sounds/Shells/MetalicShell/Wav/A_ShellDrop21.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2017.12.11-20.30.30:091][  0]LogAIModule: Creating AISystem for world Welcome
+[2017.12.11-20.30.30:495][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.11-20.30.30:613][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.11-20.30.30:687][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 74.062ms to complete.
+[2017.12.11-20.30.30:687][  0]LogFileHelpers: Loading map 'Welcome' took 5.596
+[2017.12.11-20.30.31:565][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.11-20.30.32:295][  0]LogCollectionManager: Loaded 0 collections in 0.001645 seconds
+[2017.12.11-20.30.32:401][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Saved/Collections/' took 0.01s
+[2017.12.11-20.30.32:401][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Content/Developers/Samuel/Collections/' took 0.01s
+[2017.12.11-20.30.32:401][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Samuel/Documents/Unreal Projects/VRGunToolKit/Content/Collections/' took 0.01s
+[2017.12.11-20.30.32:401][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2017.12.11-20.30.32:409][  0]LogContentBrowser: Native class hierarchy populated in 0.0070 seconds. Added 2363 classes and 519 folders.
+[2017.12.11-20.30.32:539][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2017.12.11-20.30.33:912][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2017.12.11-20.30.33:997][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2017.12.11-20.30.34:782][  0]LogSlate: Took 0.019988 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.11-20.30.34:804][  0]LogSlate: Took 0.016440 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.12.11-20.30.34:852][  0]LogSlate: Took 0.018697 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.12.11-20.30.35:279][  0]LogRenderer: Reallocating scene render targets to support 876x500 Format 26 NumSamples 4 (Frame:1).
+[2017.12.11-20.30.35:849][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2017.12.11-20.30.35:849][  0]LogLoad: (Engine Initialization) Total time: 51.09 seconds
+[2017.12.11-20.30.35:849][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.12.11-20.30.35:849][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.12.11-20.30.35:849][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.12.11-20.30.35:947][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.12.11-20.30.36:129][  0]LogSlate: Took 0.019049 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.11-20.30.36:267][  3]LogAssetRegistry: Asset discovery search completed in 43.4667 seconds
+[2017.12.11-20.30.36:270][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2017.12.11-20.30.36:270][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000051 seconds (updated 0 objects)
+[2017.12.11-20.30.58:815][470]LogSlate: Took 0.000167 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.11-20.30.59:647][470]LogSlate: Took 0.000183 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.11-20.31.01:262][470]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.12.11-20.31.01:422][470]LogTexture: Display: Building textures: HDRI_Epic_Courtyard_Daylight (RGBA16F, 1024X512)
+[2017.12.11-20.31.01:422][470]LogTexture: Display: Building textures: T_Water_Screen_Noise_Soft2 (AutoDXT, 1024X1024)
+[2017.12.11-20.31.01:422][470]LogTexture: Display: Building textures: BogMyrtleBush_01_Atlas_Billboards_Normal_Tex (BC5, 2048X2048)
+[2017.12.11-20.31.01:425][470]LogMaterial: Missing cached shader map for material M_LightStage_Skybox_Master, compiling. 
+[2017.12.11-20.31.01:485][470]LogMaterial: Missing cached shader map for material M_LightStage_Skybox_Master, compiling. 
+[2017.12.11-20.31.01:576][470]LogTexture: Display: Building textures: BogMyrtleBush_01_Atlas_Billboards_Tex (AutoDXT, 2048X2048)
+[2017.12.11-20.31.01:576][470]LogMaterial: Missing cached shader map for material M_Photoscan_Master, compiling. 
+[2017.12.11-20.31.01:881][470]LogTexture: Display: Building textures: BogMyrtleBush_02_Atlas_Billboards_Normal_Tex (BC5, 2048X2048)
+[2017.12.11-20.31.01:881][470]LogTexture: Display: Building textures: BogMyrtleBush_02_Atlas_Billboards_Tex (AutoDXT, 2048X2048)
+[2017.12.11-20.31.12:382][470]LogTexture: Display: Building textures: T_TilingNoise06_N (BC5, 2048X2048)
+[2017.12.11-20.31.12:383][470]LogTexture: Display: Building textures: T_Ice_Noise_N (BC5, 1024X1024)
+[2017.12.11-20.31.12:383][470]LogTexture: Display: Building textures: T_Fern_01_N (BC5, 2048X2048)
+[2017.12.11-20.31.12:383][470]LogTexture: Display: Building textures: T_Fern_01_D (AutoDXT, 2048X2048)
+[2017.12.11-20.31.12:383][470]LogTexture: Display: Building textures: T_DeadLeavesAtlasTop_01_D (AutoDXT, 4096X4096)
+[2017.12.11-20.31.12:383][470]LogTexture: Display: Building textures: T_DeadLeavesAtlas_01_N (BC5, 4096X4096)
+[2017.12.11-20.31.12:383][470]LogTexture: Display: Building textures: T_DeadLeavesAtlas_01_D (AutoDXT, 4096X4096)
+[2017.12.11-20.31.12:383][470]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 4096X4096)
+[2017.12.11-20.31.12:383][470]LogTexture: Display: Building textures: T_GroundRevealRock001a_N (BC5, 8192X8192)
+[2017.12.11-20.31.12:383][470]LogTexture: Display: Building textures: HQ_Lightmap0_10 (AutoDXT, 256X256)
+[2017.12.11-20.31.20:462][470]LogTexture: Display: Building textures: HQ_Lightmap0_11 (AutoDXT, 256X256)
+[2017.12.11-20.31.20:462][470]LogTexture: Display: Building textures: HQ_Lightmap0_12 (AutoDXT, 256X256)
+[2017.12.11-20.31.20:462][470]LogTexture: Display: Building textures: HQ_Lightmap0_13 (AutoDXT, 64X64)
+[2017.12.11-20.31.20:462][470]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2017.12.11-20.31.20:462][470]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 512X512)
+[2017.12.11-20.31.20:462][470]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 512X512)
+[2017.12.11-20.31.20:462][470]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 512X512)
+[2017.12.11-20.31.20:462][470]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 256X256)
+[2017.12.11-20.31.20:462][470]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 256X256)
+[2017.12.11-20.31.20:462][470]LogTexture: Display: Building textures: T_Boulder05_N (BC5, 8192X8192)
+[2017.12.11-20.31.20:462][470]LogTexture: Display: Building textures: HQ_Lightmap0_8 (AutoDXT, 256X256)
+[2017.12.11-20.31.20:462][470]LogTexture: Display: Building textures: HQ_Lightmap0_9 (AutoDXT, 512X512)
+[2017.12.11-20.31.20:462][470]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 4096X4096)
+[2017.12.11-20.31.20:462][470]LogTexture: Display: Building textures: T_MountainRock_D (AutoDXT, 8192X8192)
+[2017.12.11-20.32.54:925][470]LogTexture: Display: Building textures: HQ_Lightmap1_10 (AutoDXT, 256X256)
+[2017.12.11-20.32.54:925][470]LogTexture: Display: Building textures: HQ_Lightmap1_11 (AutoDXT, 256X256)
+[2017.12.11-20.32.54:925][470]LogTexture: Display: Building textures: HQ_Lightmap1_12 (AutoDXT, 256X256)
+[2017.12.11-20.32.54:925][470]LogTexture: Display: Building textures: HQ_Lightmap1_13 (AutoDXT, 64X64)
+[2017.12.11-20.32.54:925][470]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2017.12.11-20.32.54:925][470]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 512X512)
+[2017.12.11-20.32.54:925][470]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 512X512)
+[2017.12.11-20.32.54:925][470]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 512X512)
+[2017.12.11-20.32.54:925][470]LogTexture: Display: Building textures: HQ_Lightmap1_6 (AutoDXT, 256X256)
+[2017.12.11-20.32.54:925][470]LogTexture: Display: Building textures: HQ_Lightmap1_7 (AutoDXT, 256X256)
+[2017.12.11-20.32.54:925][470]LogTexture: Display: Building textures: HQ_Lightmap1_8 (AutoDXT, 256X256)
+[2017.12.11-20.32.54:925][470]LogTexture: Display: Building textures: HQ_Lightmap1_9 (AutoDXT, 512X512)
+[2017.12.11-20.32.54:925][470]LogTexture: Display: Building textures: LQ_Lightmap_1_10 (DXT1, 256X256)
+[2017.12.11-20.32.54:925][470]LogTexture: Display: Building textures: LQ_Lightmap_1_11 (DXT1, 256X256)
+[2017.12.11-20.32.54:925][470]LogTexture: Display: Building textures: LQ_Lightmap_1_12 (DXT1, 256X256)
+[2017.12.11-20.32.54:925][470]LogTexture: Display: Building textures: LQ_Lightmap_1_13 (DXT1, 64X64)
+[2017.12.11-20.32.54:925][470]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2017.12.11-20.32.54:925][470]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 512X512)
+[2017.12.11-20.32.54:925][470]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 4096X4096)
+[2017.12.11-20.32.54:925][470]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 512X512)
+[2017.12.11-20.32.54:925][470]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 512X512)
+[2017.12.11-20.32.54:925][470]LogTexture: Display: Building textures: LQ_Lightmap_1_6 (DXT1, 256X256)
+[2017.12.11-20.32.54:925][470]LogTexture: Display: Building textures: LQ_Lightmap_1_7 (DXT1, 256X256)
+[2017.12.11-20.32.54:925][470]LogTexture: Display: Building textures: LQ_Lightmap_1_8 (DXT1, 256X256)
+[2017.12.11-20.32.54:925][470]LogTexture: Display: Building textures: LQ_Lightmap_1_9 (DXT1, 512X512)
+[2017.12.11-20.32.54:925][470]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 4096X2048)
+[2017.12.11-20.32.54:925][470]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 2048X1024)
+[2017.12.11-20.32.54:925][470]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (BGRA8, 256X128)
+[2017.12.11-20.32.54:925][470]LogTexture: Display: Building textures: ShadowMapTexture2D_11 (BGRA8, 64X32)
+[2017.12.11-20.32.54:925][470]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (BGRA8, 1024X512)
+[2017.12.11-20.32.54:925][470]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (BGRA8, 512X256)
+[2017.12.11-20.32.54:925][470]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (BGRA8, 512X256)
+[2017.12.11-20.32.54:925][470]LogTexture: Display: Building textures: ShadowMapTexture2D_42 (BGRA8, 2048X1024)
+[2017.12.11-20.32.54:925][470]LogTexture: Display: Building textures: ShadowMapTexture2D_41 (BGRA8, 4096X2048)
+[2017.12.11-20.32.54:925][470]LogTexture: Display: Building textures: ShadowMapTexture2D_43 (BGRA8, 1024X512)
+[2017.12.11-20.32.54:925][470]LogTexture: Display: Building textures: ShadowMapTexture2D_44 (BGRA8, 512X256)
+[2017.12.11-20.32.54:925][470]LogTexture: Display: Building textures: ShadowMapTexture2D_45 (BGRA8, 512X256)
+[2017.12.11-20.32.54:925][470]LogTexture: Display: Building textures: ShadowMapTexture2D_46 (BGRA8, 256X128)
+[2017.12.11-20.32.54:925][470]LogTexture: Display: Building textures: ShadowMapTexture2D_47 (BGRA8, 256X128)
+[2017.12.11-20.32.54:925][470]LogTexture: Display: Building textures: ShadowMapTexture2D_48 (BGRA8, 512X256)
+[2017.12.11-20.32.54:925][470]LogTexture: Display: Building textures: ShadowMapTexture2D_49 (BGRA8, 256X128)
+[2017.12.11-20.32.54:925][470]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (BGRA8, 256X128)
+[2017.12.11-20.32.54:925][470]LogTexture: Display: Building textures: ShadowMapTexture2D_50 (BGRA8, 256X128)
+[2017.12.11-20.32.54:925][470]LogTexture: Display: Building textures: ShadowMapTexture2D_51 (BGRA8, 256X128)
+[2017.12.11-20.32.54:925][470]LogTexture: Display: Building textures: ShadowMapTexture2D_52 (BGRA8, 64X32)
+[2017.12.11-20.32.54:925][470]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (BGRA8, 256X128)
+[2017.12.11-20.32.54:925][470]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (BGRA8, 512X256)
+[2017.12.11-20.32.54:925][470]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (BGRA8, 256X128)
+[2017.12.11-20.32.54:925][470]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (BGRA8, 256X128)
+[2017.12.11-20.32.54:925][470]LogTexture: Display: Building textures: T_River_Rock_01_N (BC5, 4096X4096)
+[2017.12.11-20.32.54:926][470]LogTexture: Display: Building textures: T_MountainRock_Closed_N (BC5, 8192X8192)
+[2017.12.11-20.32.54:926][470]LogTexture: Display: Building textures: T_MountainRock_Closed_D2 (AutoDXT, 8192X8192)
+[2017.12.11-20.32.54:926][470]LogTexture: Display: Building textures: Medium_Boulder_002_N_4096 (BC5, 4096X4096)
+[2017.12.11-20.32.54:926][470]LogTexture: Display: Building textures: Medium_Boulder_001_N_4096 (BC5, 4096X4096)
+[2017.12.11-20.32.54:926][470]LogTexture: Display: Building textures: T_LargePlainsBoulder002_N (BC5, 8192X8192)
+[2017.12.11-20.32.54:926][470]LogTexture: Display: Building textures: T_BogMyrtleBtm_01_N (BC5, 4096X4096)
+[2017.12.11-20.32.54:926][470]LogTexture: Display: Building textures: T_GDC_LargeVolcanicRock_001_N (BC5, 8192X8192)
+[2017.12.11-20.32.54:926][470]LogTexture: Display: Building textures: T_BogMyrtleBtm_01_D (AutoDXT, 4096X4096)
+[2017.12.11-20.32.54:926][470]LogTexture: Display: Building textures: BogMyrtle_01_Atlas_Tex (AutoDXT, 4096X4096)
+[2017.12.11-20.32.54:926][470]LogTexture: Display: Building textures: BogMyrtle_01_Atlas_Normal_Tex (BC5, 4096X4096)
+[2017.12.11-20.32.54:926][470]LogTexture: Display: Building textures: BogMyrtle_01_Atlas_Billboards_Tex (AutoDXT, 2048X2048)
+[2017.12.11-20.32.54:926][470]LogTexture: Display: Building textures: BogMyrtle_01_Atlas_Billboards_Normal_Tex (BC5, 2048X2048)
+[2017.12.11-20.32.54:926][470]LogTexture: Display: Building textures: T_Cliff01_N (BC5, 8192X8192)
+[2017.12.11-20.32.54:926][470]LogTexture: Display: Building textures: D_Tree_Stump_01_N (BC5, 8192X8192)
+[2017.12.11-20.32.54:926][470]LogTexture: Display: Building textures: T_MountainRock_N (BC5, 8192X8192)
+[2017.12.11-20.32.54:926][470]LogTexture: Display: Building textures: T_Vegetation_Debris_002_N (BC5, 8192X8192)
+[2017.12.11-20.32.54:926][470]LogTexture: Display: Building textures: HillTree_Tall_01_Atlas_Billboards_Tex (AutoDXT, 2048X2048)
+[2017.12.11-20.32.54:926][470]LogTexture: Display: Building textures: T_SwirlNoise (G8, 512X512)
+[2017.12.11-20.32.54:926][470]LogTexture: Display: Building textures: T_Buttercup_Patch_01_M (AutoDXT, 2048X2048)
+[2017.12.11-20.32.54:926][470]LogTexture: Display: Building textures: T_Buttercup_Patch_01_D (AutoDXT, 2048X2048)
+[2017.12.11-20.32.54:926][470]LogTexture: Display: Building textures: T_FieldGrass_02_M (AutoDXT, 1024X1024)
+[2017.12.11-20.32.54:926][470]LogTexture: Display: Building textures: T_FieldGrass_01_D (AutoDXT, 1024X1024)
+[2017.12.11-20.32.54:926][470]LogTexture: Display: Building textures: T_Yarrow_M (AutoDXT, 2048X2048)
+[2017.12.11-20.32.54:926][470]LogTexture: Display: Building textures: T_Yarrow_N (BC5, 2048X2048)
+[2017.12.11-20.32.54:926][470]LogTexture: Display: Building textures: T_Yarrow_D (AutoDXT, 2048X2048)
+[2017.12.11-20.32.54:926][470]LogTexture: Display: Building textures: T_Water_Screen_Noise_Soft (AutoDXT, 1024X1024)
+[2017.12.11-20.32.54:926][470]LogTexture: Display: Building textures: T_Ice_Noise (AutoDXT, 1024X1024)
+[2017.12.11-20.32.54:926][470]LogTexture: Display: Building textures: T_HeatherBranch4_N (BC5, 2048X2048)
+[2017.12.11-20.32.54:926][470]LogTexture: Display: Building textures: T_HeatherBranch4_Mask2 (AutoDXT, 1024X1024)
+[2017.12.11-20.32.54:926][470]LogTexture: Display: Building textures: T_HeatherBranch4_D (AutoDXT, 2048X2048)
+[2017.12.11-20.32.54:926][470]LogTexture: Display: Building textures: T_FieldScabious01_N (BC5, 2048X2048)
+[2017.12.11-20.32.54:926][470]LogTexture: Display: Building textures: T_FieldScabious01_M (AutoDXT, 2048X2048)
+[2017.12.11-20.32.54:926][470]LogTexture: Display: Building textures: T_FieldScabious01_D (AutoDXT, 2048X2048)
+[2017.12.11-20.32.54:926][470]LogTexture: Display: Building textures: HillTree_Tall_01_Atlas_Billboards_Normal_Tex (BC5, 2048X2048)
+[2017.12.11-20.32.54:926][470]LogTexture: Display: Building textures: KimsBackYard (RGBA16F, 10000X5000)
+[2017.12.11-20.32.54:926][470]LogTexture: Display: Building textures: T_GroundRevealRock002_N (BC5, 8192X8192)
+[2017.12.11-20.32.54:926][470]LogTexture: Display: Building textures: T_HillTreeBillboard_01_SSS (AutoDXT, 4096X4096)
+[2017.12.11-20.32.54:926][470]LogTexture: Display: Building textures: T_HillTreeBillboard_01_S_R (AutoDXT, 2048X2048)
+[2017.12.11-20.32.54:926][470]LogTexture: Display: Building textures: T_HillTreeBillboard_01_N (AutoDXT, 4096X4096)
+[2017.12.11-20.32.54:926][470]LogTexture: Display: Building textures: T_HillTreeBillboard_01_Depth (AutoDXT, 1024X1024)
+[2017.12.11-20.32.54:926][470]LogTexture: Display: Building textures: T_HillTreeBillboard_01 (AutoDXT, 4096X4096)
+[2017.12.11-20.32.54:926][470]LogTexture: Display: Building textures: T_MacroVariation (AutoDXT, 2048X2048)
+[2017.12.11-20.32.55:117][470]LogMaterial: Missing cached shader map for material M_Photoscan_Master, compiling. 
+[2017.12.11-20.32.55:461][470]LogMaterial: Missing cached shader map for material M_Fern_01, compiling. 
+[2017.12.11-20.33.02:929][470]LogTexture: Display: Building textures: T_GDC_Tiling_LeafPathStones_H (AutoDXT, 4096X4096)
+[2017.12.11-20.33.11:610][470]LogTexture: Display: Building textures: T_GDC_Tiling_LeafpathStones_N (BC5, 4096X4096)
+[2017.12.11-20.33.12:256][470]LogTexture: Display: Building textures: T_Tile_PebblyRiverbank_H (AutoDXT, 8192X8192)
+[2017.12.11-20.33.16:509][470]LogTexture: Display: Building textures: T_Tile_PebblyRiverbank_N (BC5, 8192X8192)
+[2017.12.11-20.33.16:599][470]LogTexture: Display: Building textures: T_Ground_Grass_N (BC5, 2048X2048)
+[2017.12.11-20.33.17:121][470]LogTexture: Display: Building textures: HillTree_01_Atlas_Tex (AutoDXT, 4096X4096)
+[2017.12.11-20.33.18:876][470]LogTexture: Display: Building textures: HillTree_01_Atlas_Normal_Tex (BC5, 4096X4096)
+[2017.12.11-20.33.27:086][470]LogTexture: Display: Building textures: T_Craghead_Oak_TileMoss_01_D_Tex (AutoDXT, 2048X4096)
+[2017.12.11-20.33.37:646][470]LogTexture: Display: Building textures: T_Craghead_Oak_Tile_01_N_Tex (BC5, 2048X4096)
+[2017.12.11-20.33.44:875][470]LogTexture: Display: Building textures: T_Craghead_Oak_Tile_01_D_Tex (AutoDXT, 2048X4096)
+[2017.12.11-20.33.44:875][470]LogTexture: Display: Building textures: T_Craghead_Oak_LimbTile_02_N_Tex (BC5, 1024X4096)
+[2017.12.11-20.33.44:875][470]LogTexture: Display: Building textures: T_Craghead_Oak_LimbTile_02_D_Tex (AutoDXT, 1024X4096)
+[2017.12.11-20.33.44:875][470]LogTexture: Display: Building textures: HillTree_01_Atlas_Billboards_Tex (AutoDXT, 2048X2048)
+[2017.12.11-20.33.45:687][470]LogTexture: Display: Building textures: HillTree_01_Atlas_Billboards_Normal_Tex (BC5, 2048X2048)
+[2017.12.11-20.33.47:305][470]LogStaticMesh: Building static mesh SM_Fern_01...
+[2017.12.11-20.33.47:553][470]LogStaticMesh: Built static mesh [0.25s] /Game/KiteDemo/Environments/Foliage/Ferns/SM_Fern_01.SM_Fern_01
+[2017.12.11-20.33.47:604][470]LogMaterial: Missing cached shader map for material BogMyrtle_01_Billboard_Mat, compiling. 
+[2017.12.11-20.33.47:832][470]LogStaticMesh: Building static mesh BogMyrtleBush_02...
+[2017.12.11-20.33.49:275][470]LogStaticMesh: Built static mesh [1.44s] /Game/KiteDemo/Environments/Foliage/BogMyrtleBush_02/BogMyrtleBush_02.BogMyrtleBush_02
+[2017.12.11-20.33.49:316][470]LogMaterial: Missing cached shader map for material M_Buttercup_Patch_01, compiling. 
+[2017.12.11-20.33.49:512][470]LogStaticMesh: Building static mesh SM_Buttercup_Patch_01...
+[2017.12.11-20.33.49:711][470]LogStaticMesh: Built static mesh [0.20s] /Game/KiteDemo/Environments/Foliage/Flowers/Buttercup/SM_Buttercup_Patch_01.SM_Buttercup_Patch_01
+[2017.12.11-20.33.49:749][470]LogStaticMesh: Building static mesh SM_Fern_03...
+[2017.12.11-20.33.49:966][470]LogStaticMesh: Built static mesh [0.22s] /Game/KiteDemo/Environments/Foliage/Ferns/SM_Fern_03.SM_Fern_03
+[2017.12.11-20.33.54:897][470]LogTexture: Display: Building textures: T_Boulder05_D_CC_R (AutoDXT, 4096X4096)
+[2017.12.11-20.34.14:581][470]LogStaticMesh: Building static mesh SM_Boulder05a...
+[2017.12.11-20.34.14:666][470]LogStaticMesh: Built static mesh [0.08s] /Game/KiteDemo/Environments/Rocks/Boulder_05a/SM_Boulder05a.SM_Boulder05a
+[2017.12.11-20.34.14:684][470]LogStaticMesh: Building static mesh SM_DeadLeaves_Flat...
+[2017.12.11-20.34.15:044][470]LogStaticMesh: Built static mesh [0.36s] /Game/KiteDemo/Environments/Foliage/Leaves/SM_DeadLeaves_Flat.SM_DeadLeaves_Flat
+[2017.12.11-20.34.15:063][470]LogMaterial: Missing cached shader map for material M_DeadLeaves, compiling. 
+[2017.12.11-20.34.15:222][470]LogStaticMesh: Building static mesh SM_DeadLeaves...
+[2017.12.11-20.34.15:583][470]LogStaticMesh: Built static mesh [0.37s] /Game/KiteDemo/Environments/Foliage/Leaves/SM_DeadLeaves.SM_DeadLeaves
+[2017.12.11-20.34.15:604][470]LogMaterial: Missing cached shader map for material M_FieldGrass_01, compiling. 
+[2017.12.11-20.34.15:758][470]LogMaterial: Missing cached shader map for material M_FieldGrass_01, compiling. 
+[2017.12.11-20.34.15:943][470]LogMaterial: Missing cached shader map for material M_FieldGrass_01, compiling. 
+[2017.12.11-20.34.16:122][470]LogStaticMesh: Building static mesh SM_GroundRevealRock002...
+[2017.12.11-20.34.16:384][470]LogStaticMesh: Built static mesh [0.26s] /Game/KiteDemo/Environments/Rocks/GroundRevealRock002/SM_GroundRevealRock002.SM_GroundRevealRock002
+[2017.12.11-20.34.23:849][470]LogTexture: Display: Building textures: T_GroundRevealRock001a_D_CC_R (AutoDXT, 8192X8192)
+[2017.12.11-20.35.16:195][470]LogMaterial: Missing cached shader map for material M_Photoscan_Master, compiling. 
+[2017.12.11-20.35.16:413][470]LogStaticMesh: Building static mesh SM_GroundRevealRock001...
+[2017.12.11-20.35.16:696][470]LogStaticMesh: Built static mesh [0.28s] /Game/KiteDemo/Environments/Rocks/GroundRevealRock001/SM_GroundRevealRock001.SM_GroundRevealRock001
+[2017.12.11-20.35.16:743][470]LogMaterial: Missing cached shader map for material M_LightStage_Arrows, compiling. 
+[2017.12.11-20.35.16:780][470]LogStaticMesh: Building static mesh SM_FieldGrass_01...
+[2017.12.11-20.35.16:845][470]LogStaticMesh: Built static mesh [0.06s] /Game/KiteDemo/Environments/Foliage/Grass/FieldGrass/SM_FieldGrass_01.SM_FieldGrass_01
+[2017.12.11-20.35.16:899][470]LogActorComponent: UnregisterComponent: (/Game/KiteDemo/Maps/Showcase.Showcase:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_0) Not registered. Aborting.
+[2017.12.11-20.35.16:911][470]LogStaticMesh: Building static mesh SM_Yarrow...
+[2017.12.11-20.35.17:175][470]LogStaticMesh: Built static mesh [0.26s] /Game/KiteDemo/Environments/Foliage/Flowers/Yarrow/SM_Yarrow.SM_Yarrow
+[2017.12.11-20.35.17:182][470]LogActorComponent: UnregisterComponent: (/Game/KiteDemo/Maps/Showcase.Showcase:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_1) Not registered. Aborting.
+[2017.12.11-20.35.17:184][470]LogStaticMesh: Building static mesh SM_Yarrow3...
+[2017.12.11-20.35.17:455][470]LogStaticMesh: Built static mesh [0.27s] /Game/KiteDemo/Environments/Foliage/Flowers/Yarrow/SM_Yarrow3.SM_Yarrow3
+[2017.12.11-20.35.17:471][470]LogActorComponent: UnregisterComponent: (/Game/KiteDemo/Maps/Showcase.Showcase:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_2) Not registered. Aborting.
+[2017.12.11-20.35.17:472][470]LogActorComponent: UnregisterComponent: (/Game/KiteDemo/Maps/Showcase.Showcase:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_3) Not registered. Aborting.
+[2017.12.11-20.36.10:543][470]LogStaticMesh: Building static mesh BogMyrtle_01...
+[2017.12.11-20.36.10:856][470]LogStaticMesh: Built static mesh [0.31s] /Game/KiteDemo/Environments/Foliage/BogMyrtle_01/BogMyrtle_01.BogMyrtle_01
+[2017.12.11-20.36.10:879][470]LogStaticMesh: Building static mesh BogMyrtleBush_01...
+[2017.12.11-20.36.11:270][470]LogStaticMesh: Built static mesh [0.40s] /Game/KiteDemo/Environments/Foliage/BogMyrtleBush_01/BogMyrtleBush_01.BogMyrtleBush_01
+[2017.12.11-20.36.11:394][470]LogStaticMesh: Building static mesh HillTree_02...
