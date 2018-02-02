@@ -1,0 +1,1549 @@
+﻿Log file open, 02/02/18 10:15:40
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: VRGunToolkit
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1280468702) SRandInit(1280468702).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3754814, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.154414
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3754814
+LogInit: Engine Version: 4.18.1-3754814+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Nov 14 2017 02:05:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.02.02-10.15.42:002][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.02-10.15.42:002][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.02.02-10.15.42:060][  0]LogInit: Setting Device Profile CVar: [[r.SSR.Quality:0]]
+[2018.02.02-10.15.42:060][  0]LogInit: Setting Device Profile CVar: [[r.MotionBlurQuality:0]]
+[2018.02.02-10.15.42:060][  0]LogInit: Setting Device Profile CVar: [[r.BloomQuality:5]]
+[2018.02.02-10.15.42:060][  0]LogInit: Setting Device Profile CVar: [[r.SceneColorFormat:3]]
+[2018.02.02-10.15.42:060][  0]LogInit: Setting Device Profile CVar: [[r.LensFlareQuality:0]]
+[2018.02.02-10.15.42:060][  0]LogInit: Setting Device Profile CVar: [[r.Tonemapper.Sharpen:0]]
+[2018.02.02-10.15.42:060][  0]LogInit: Setting Device Profile CVar: [[r.HZBOcclusion:0]]
+[2018.02.02-10.15.42:060][  0]LogInit: Setting Device Profile CVar: [[r.Shadow.ForceSingleSampleShadowingFromStationary:1]]
+[2018.02.02-10.15.42:060][  0]LogInit: Setting Device Profile CVar: [[r.AmbientOcclusionLevels:0]]
+[2018.02.02-10.15.42:060][  0]LogInit: Setting Device Profile CVar: [[r.MSAACount:4]]
+[2018.02.02-10.15.42:060][  0]LogInit: Setting Device Profile CVar: [[r.DepthOfFieldQuality:0]]
+[2018.02.02-10.15.42:060][  0]LogInit: Setting Device Profile CVar: [[r.ReflectionEnvironmentBeginMixingRoughness:0.0]]
+[2018.02.02-10.15.42:060][  0]LogInit: Setting Device Profile CVar: [[r.ReflectionEnvironmentEndMixingRoughness:0.0]]
+[2018.02.02-10.15.42:060][  0]LogInit: Setting Device Profile CVar: [[r.Shadow.FadeExponent:5]]
+[2018.02.02-10.15.42:060][  0]LogInit: Setting Device Profile CVar: [[r.Shadow.FadeResolution:128]]
+[2018.02.02-10.15.42:060][  0]LogInit: Setting Device Profile CVar: [[r.Shadow.MaxResolution:256]]
+[2018.02.02-10.15.42:061][  0]LogInit: Setting Device Profile CVar: [[r.ReflectionEnvironmentLightmapMixLargestWeight:1]]
+[2018.02.02-10.15.42:061][  0]LogInit: Setting Device Profile CVar: [[r.RHICmdBypass:0]]
+[2018.02.02-10.15.42:061][  0]LogInit: Computer: UOSMSc-PC
+[2018.02.02-10.15.42:061][  0]LogInit: User: UOSMSc
+[2018.02.02-10.15.42:061][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.02.02-10.15.42:061][  0]LogInit: High frequency timer resolution =3.410332 MHz
+[2018.02.02-10.15.42:061][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2018.02.02-10.15.42:061][  0]LogMemory: Platform Memory Stats for Windows
+[2018.02.02-10.15.42:061][  0]LogMemory: Process Physical Memory: 282.79 MB used, 282.79 MB peak
+[2018.02.02-10.15.42:061][  0]LogMemory: Process Virtual Memory: 275.98 MB used, 275.98 MB peak
+[2018.02.02-10.15.42:061][  0]LogMemory: Physical Memory: 8140.63 MB used,  24486.71 MB free, 32627.34 MB total
+[2018.02.02-10.15.42:061][  0]LogMemory: Virtual Memory: 630.20 MB used,  24486.71 MB free, 8388608.00 MB total
+[2018.02.02-10.15.42:286][  0]LogInit: Using OS detected language (en-GB).
+[2018.02.02-10.15.42:286][  0]LogInit: Using OS detected locale (en-GB).
+[2018.02.02-10.15.42:288][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2018.02.02-10.15.42:672][  0]LogWindows: Failed to load 'shcore.dll' (GetLastError=126)
+[2018.02.02-10.15.42:672][  0]LogWindows: File 'shcore.dll' does not exist
+[2018.02.02-10.15.42:672][  0]LogInit: Setting process to DPI aware
+[2018.02.02-10.15.42:674][  0]LogWindows: Failed to load 'shcore.dll' (GetLastError=126)
+[2018.02.02-10.15.42:674][  0]LogWindows: File 'shcore.dll' does not exist
+[2018.02.02-10.15.42:674][  0]LogInit: Setting process to DPI aware
+[2018.02.02-10.15.42:862][  0]LogD3D11RHI: D3D11 adapters:
+[2018.02.02-10.15.42:886][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 3GB' (Feature Level 11_0)
+[2018.02.02-10.15.42:886][  0]LogD3D11RHI:       2986/0/16057 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.02.02-10.15.42:886][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.02.02-10.15.42:890][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.02.02-10.15.42:890][  0]LogD3D11RHI:     GPU DeviceId: 0x1c02 (for the marketing name, search the web for "GPU Device Id")
+[2018.02.02-10.15.42:890][  0]LogWindows: EnumDisplayDevices:
+[2018.02.02-10.15.42:890][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 3GB' (P:1 D:1)
+[2018.02.02-10.15.42:890][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:1)
+[2018.02.02-10.15.42:890][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2018.02.02-10.15.42:891][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2018.02.02-10.15.42:891][  0]LogWindows:    4. 'RDPDD Chained DD' (P:0 D:0)
+[2018.02.02-10.15.42:891][  0]LogWindows:    5. 'RDP Encoder Mirror Driver' (P:0 D:0)
+[2018.02.02-10.15.42:891][  0]LogWindows:    6. 'RDP Reflector Display Driver' (P:0 D:0)
+[2018.02.02-10.15.42:891][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2018.02.02-10.15.42:891][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 3GB
+[2018.02.02-10.15.42:891][  0]LogD3D11RHI:   Driver Version: 388.31 (internal:23.21.13.8831, unified:388.31)
+[2018.02.02-10.15.42:891][  0]LogD3D11RHI:      Driver Date: 11-14-2017
+[2018.02.02-10.15.42:891][  0]LogRHI: Texture pool is 2090 MB (70% of 2986 MB)
+[2018.02.02-10.15.42:899][  0]LogD3D11RHI: Async texture creation enabled
+[2018.02.02-10.15.42:916][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.02.02-10.15.42:959][  0]LogShaderCompilers: Guid format shader working directory is -12 characters bigger than the processId version (../../../../../../Users/UOSMSc/Desktop/VRTools/VRGunToolKit/Intermediate/Shaders/WorkingDirectory/7780/).
+[2018.02.02-10.15.42:959][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/UOSMSc/AppData/Local/Temp/UnrealShaderWorkingDir/2E4FF7D8484446416B2C5DA5DA389725/'.
+[2018.02.02-10.15.42:959][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.02.02-10.15.43:766][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.02.02-10.15.43:806][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.02.02-10.15.43:847][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.02.02-10.15.43:888][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.02.02-10.15.43:930][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.02.02-10.15.43:972][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.02.02-10.15.44:013][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.02.02-10.15.44:054][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.02.02-10.15.44:088][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.02.02-10.15.44:129][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.02.02-10.15.44:170][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.02.02-10.15.44:210][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.02.02-10.15.44:250][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.02.02-10.15.44:290][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.02.02-10.15.44:370][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.02.02-10.15.44:370][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.02.02-10.15.44:410][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.02.02-10.15.44:440][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.02.02-10.15.44:513][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.02.02-10.15.44:535][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.02.02-10.15.44:575][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.02.02-10.15.44:615][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.02.02-10.15.44:655][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.02.02-10.15.44:694][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.02.02-10.15.44:694][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.02.02-10.15.45:026][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.02.02-10.15.45:127][  0]LogDerivedDataCache: Loaded boot cache 0.10s 95MB C:/Users/UOSMSc/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.02.02-10.15.45:127][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/UOSMSc/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.02.02-10.15.45:127][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/UOSMSc/Desktop/VRTools/VRGunToolKit/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.02.02-10.15.45:127][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.02.02-10.15.45:127][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/UOSMSc/Desktop/VRTools/VRGunToolKit/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.02.02-10.15.45:127][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.02.02-10.15.45:144][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.02.02-10.15.45:155][  0]LogDerivedDataCache: Using Local data cache path C:/Users/UOSMSc/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.02.02-10.15.45:165][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.02.02-10.15.45:165][  0]LogSlate: Using Freetype 2.6.0
+[2018.02.02-10.15.45:166][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.02-10.15.45:166][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.02-10.15.45:867][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.02-10.15.46:130][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.02.02-10.15.46:161][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.02.02-10.15.46:161][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.02.02-10.15.46:161][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.02.02-10.15.46:161][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.02.02-10.15.46:161][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.02.02-10.15.46:186][  0]LogNetVersion: VRGunToolkit , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2737668274)
+[2018.02.02-10.15.46:324][  0]LogAssetRegistry: FAssetRegistry took 0.0242 seconds to start up
+[2018.02.02-10.15.46:764][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.043207 seconds
+[2018.02.02-10.15.46:770][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2018.02.02-10.15.46:770][  0]LogUObjectAllocator: 7372016 out of 0 bytes used by permanent object pool.
+[2018.02.02-10.15.46:770][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.02.02-10.15.46:808][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.02.02-10.15.48:958][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.02.02-10.15.48:990][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.02.02-10.15.49:481][  0]LogMaterial: Missing cached shader map for material BaseColor, compiling. 
+[2018.02.02-10.15.49:481][  0]LogMaterial: Warning: C:\Program Files\Epic Games\UE_4.18\Engine\Content\BufferVisualization\BaseColor.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.02.02-10.15.49:481][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2018.02.02-10.15.49:496][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.02.02-10.15.49:506][  0]LogMaterial: Missing cached shader map for material LightingModel, compiling. 
+[2018.02.02-10.15.49:506][  0]LogMaterial: Warning: C:\Program Files\Epic Games\UE_4.18\Engine\Content\BufferVisualization\LightingModel.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.02.02-10.15.49:506][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2018.02.02-10.15.49:509][  0]LogMaterial: Missing cached shader map for material MaterialAO, compiling. 
+[2018.02.02-10.15.49:509][  0]LogMaterial: Warning: C:\Program Files\Epic Games\UE_4.18\Engine\Content\BufferVisualization\MaterialAO.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.02.02-10.15.49:509][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2018.02.02-10.15.49:512][  0]LogMaterial: Missing cached shader map for material Metallic, compiling. 
+[2018.02.02-10.15.49:512][  0]LogMaterial: Warning: C:\Program Files\Epic Games\UE_4.18\Engine\Content\BufferVisualization\Metallic.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.02.02-10.15.49:512][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2018.02.02-10.15.49:514][  0]LogMaterial: Missing cached shader map for material Opacity, compiling. 
+[2018.02.02-10.15.49:515][  0]LogMaterial: Warning: C:\Program Files\Epic Games\UE_4.18\Engine\Content\BufferVisualization\Opacity.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.02.02-10.15.49:515][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2018.02.02-10.15.49:517][  0]LogMaterial: Missing cached shader map for material Roughness, compiling. 
+[2018.02.02-10.15.49:518][  0]LogMaterial: Warning: C:\Program Files\Epic Games\UE_4.18\Engine\Content\BufferVisualization\Roughness.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.02.02-10.15.49:518][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2018.02.02-10.15.49:535][  0]LogMaterial: Missing cached shader map for material Specular, compiling. 
+[2018.02.02-10.15.49:535][  0]LogMaterial: Warning: C:\Program Files\Epic Games\UE_4.18\Engine\Content\BufferVisualization\Specular.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.02.02-10.15.49:535][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2018.02.02-10.15.49:538][  0]LogMaterial: Missing cached shader map for material SubsurfaceColor, compiling. 
+[2018.02.02-10.15.49:538][  0]LogMaterial: Warning: C:\Program Files\Epic Games\UE_4.18\Engine\Content\BufferVisualization\SubsurfaceColor.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.02.02-10.15.49:538][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2018.02.02-10.15.49:541][  0]LogMaterial: Missing cached shader map for material WorldNormal, compiling. 
+[2018.02.02-10.15.49:541][  0]LogMaterial: Warning: C:\Program Files\Epic Games\UE_4.18\Engine\Content\BufferVisualization\WorldNormal.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.02.02-10.15.49:541][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2018.02.02-10.15.49:825][  0]SourceControl: Source control is disabled
+[2018.02.02-10.15.49:825][  0]SourceControl: Source control is disabled
+[2018.02.02-10.15.49:863][  0]SourceControl: Source control is disabled
+[2018.02.02-10.15.49:900][  0]SourceControl: Source control is disabled
+[2018.02.02-10.15.50:483][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.02.02-10.15.50:676][  0]LogOcInput: OculusInput pre-init called
+[2018.02.02-10.15.50:895][  0]LogEngine: Initializing Engine...
+[2018.02.02-10.15.50:911][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2018.02.02-10.15.51:141][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.02.02-10.15.51:141][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.02.02-10.15.51:243][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.02.02-10.15.51:250][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.02-10.15.51:271][  0]LogInit: FAudioDevice initialized.
+[2018.02.02-10.15.52:458][  0]LogDerivedDataCache: Saved boot cache 1.19s 95MB C:/Users/UOSMSc/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.02.02-10.15.52:473][  0]LogInit: Texture streaming: Enabled
+[2018.02.02-10.15.52:548][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.02.02-10.15.52:658][  0]LogInit: Transaction tracking system initialized
+[2018.02.02-10.15.52:910][  0]BlueprintLog: New page: Editor Load
+[2018.02.02-10.15.53:624][  0]LocalizationService: Localization service is disabled
+[2018.02.02-10.15.54:050][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/ThirdPersonOverview'
+[2018.02.02-10.15.54:050][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/ThirdPersonOverview'
+[2018.02.02-10.15.54:050][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPersonBP/ThirdPersonOverview.ThirdPersonOverview_C'
+[2018.02.02-10.15.54:221][  0]LogConsoleResponse: Display: 
+[2018.02.02-10.15.54:385][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.02.02-10.15.54:385][  0]LogCook: Display: Mobile HDR setting 1
+[2018.02.02-10.15.54:385][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.02.02-10.15.54:953][  0]LogFileCache: Scanning file cache for directory 'C:/Users/UOSMSc/Desktop/VRTools/VRGunToolKit/Content/' took 0.02s
+[2018.02.02-10.15.55:356][  0]SourceControl: Source control is disabled
+[2018.02.02-10.15.55:357][  0]Cmd: MAP LOAD FILE="../../../../../../Users/UOSMSc/Desktop/VRTools/VRGunToolKit/Content/VRGunToolkit/Maps/Welcome.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.02.02-10.15.55:357][  0]LightingResults: New page: Lighting Build
+[2018.02.02-10.15.55:393][  0]MapCheck: New page: Map Check
+[2018.02.02-10.15.55:393][  0]LightingResults: New page: Lighting Build
+[2018.02.02-10.15.55:458][  0]LogLinker: Warning: Asset '../../../../../../Users/UOSMSc/Desktop/VRTools/VRGunToolKit/Content/VRGunToolkit/Sounds/Shells/DropSoundAttenuation.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.02.02-10.15.55:459][  0]LogLinker: Warning: Asset '../../../../../../Users/UOSMSc/Desktop/VRTools/VRGunToolKit/Content/VRGunToolkit/Sounds/Shells/DropSoundConcurrency.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.02.02-10.15.55:673][  0]LogLinker: Warning: Asset '../../../../../../Users/UOSMSc/Desktop/VRTools/VRGunToolKit/Content/VRGunToolkit/Materials/Weapons/GunExamples/M_BlueEmissive.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.02.02-10.15.55:674][  0]LogLinker: Warning: Asset '../../../../../../Users/UOSMSc/Desktop/VRTools/VRGunToolKit/Content/VRGunToolkit/Materials/Weapons/GunExamples/M_Colorful_Mat.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.02.02-10.15.55:758][  0]LogLinker: Warning: Asset '../../../../../../Users/UOSMSc/Desktop/VRTools/VRGunToolKit/Content/VRGunToolkit/Sounds/Shells/MetalicShell/Cue/Cue_ShellDropRandom.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.02.02-10.15.55:763][  0]LogLinker: Warning: Asset '../../../../../../Users/UOSMSc/Desktop/VRTools/VRGunToolKit/Content/VRGunToolkit/Sounds/Magazine/Cue/Cue_MagDropRandom.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.02.02-10.15.55:964][  0]LogBlueprint: Warning: [Compiler BP_VRrGunHands] ProjectPointToNavigation_DEPRECATED  is deprecated; This version of ProjectPointToNavigation is deprecated. Please use the new version
+[2018.02.02-10.15.56:091][  0]LogBlueprint: Warning: [Compiler BP_VRrGunHands] [0015.87] Compile of BP_VRrGunHands successful, but with 1 Warning(s) [in 263 ms] (/Game/VRGunToolkit/Blueprints/Character/BP_VRrGunHands.BP_VRrGunHands)
+[2018.02.02-10.15.56:167][  0]LogClass: Warning: Enum '/Game/VRGunToolkit/Blueprints/DemoRoom/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2018.02.02-10.15.56:431][  0]LogLinker: Warning: Asset '../../../../../../Users/UOSMSc/Desktop/VRTools/VRGunToolKit/Content/VRGunToolkit/Materials/Assets/M_Target_Human.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.02.02-10.15.56:721][  0]LogLinker: Warning: Asset '../../../../../../Users/UOSMSc/Desktop/VRTools/VRGunToolKit/Content/VRGunToolkit/Sounds/Shells/MetalicShell/Wav/A_ShellDrop0.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.02.02-10.15.56:723][  0]LogLinker: Warning: Asset '../../../../../../Users/UOSMSc/Desktop/VRTools/VRGunToolKit/Content/VRGunToolkit/Sounds/Shells/MetalicShell/Wav/A_ShellDrop01.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.02.02-10.15.56:724][  0]LogLinker: Warning: Asset '../../../../../../Users/UOSMSc/Desktop/VRTools/VRGunToolKit/Content/VRGunToolkit/Sounds/Shells/MetalicShell/Wav/A_ShellDrop02.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.02.02-10.15.56:726][  0]LogLinker: Warning: Asset '../../../../../../Users/UOSMSc/Desktop/VRTools/VRGunToolKit/Content/VRGunToolkit/Sounds/Shells/MetalicShell/Wav/A_ShellDrop03.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.02.02-10.15.56:727][  0]LogLinker: Warning: Asset '../../../../../../Users/UOSMSc/Desktop/VRTools/VRGunToolKit/Content/VRGunToolkit/Sounds/Shells/MetalicShell/Wav/A_ShellDrop04.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.02.02-10.15.56:729][  0]LogLinker: Warning: Asset '../../../../../../Users/UOSMSc/Desktop/VRTools/VRGunToolKit/Content/VRGunToolkit/Sounds/Shells/MetalicShell/Wav/A_ShellDrop05.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.02.02-10.15.56:730][  0]LogLinker: Warning: Asset '../../../../../../Users/UOSMSc/Desktop/VRTools/VRGunToolKit/Content/VRGunToolkit/Sounds/Shells/MetalicShell/Wav/A_ShellDrop06.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.02.02-10.15.56:731][  0]LogLinker: Warning: Asset '../../../../../../Users/UOSMSc/Desktop/VRTools/VRGunToolKit/Content/VRGunToolkit/Sounds/Shells/MetalicShell/Wav/A_ShellDrop07.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.02.02-10.15.56:732][  0]LogLinker: Warning: Asset '../../../../../../Users/UOSMSc/Desktop/VRTools/VRGunToolKit/Content/VRGunToolkit/Sounds/Shells/MetalicShell/Wav/A_ShellDrop08.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.02.02-10.15.56:733][  0]LogLinker: Warning: Asset '../../../../../../Users/UOSMSc/Desktop/VRTools/VRGunToolKit/Content/VRGunToolkit/Sounds/Shells/MetalicShell/Wav/A_ShellDrop09.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.02.02-10.15.56:734][  0]LogLinker: Warning: Asset '../../../../../../Users/UOSMSc/Desktop/VRTools/VRGunToolKit/Content/VRGunToolkit/Sounds/Shells/MetalicShell/Wav/A_ShellDrop10.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.02.02-10.15.56:736][  0]LogLinker: Warning: Asset '../../../../../../Users/UOSMSc/Desktop/VRTools/VRGunToolKit/Content/VRGunToolkit/Sounds/Shells/MetalicShell/Wav/A_ShellDrop11.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.02.02-10.15.56:737][  0]LogLinker: Warning: Asset '../../../../../../Users/UOSMSc/Desktop/VRTools/VRGunToolKit/Content/VRGunToolkit/Sounds/Shells/MetalicShell/Wav/A_ShellDrop12.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.02.02-10.15.56:738][  0]LogLinker: Warning: Asset '../../../../../../Users/UOSMSc/Desktop/VRTools/VRGunToolKit/Content/VRGunToolkit/Sounds/Shells/MetalicShell/Wav/A_ShellDrop13.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.02.02-10.15.56:739][  0]LogLinker: Warning: Asset '../../../../../../Users/UOSMSc/Desktop/VRTools/VRGunToolKit/Content/VRGunToolkit/Sounds/Shells/MetalicShell/Wav/A_ShellDrop14.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.02.02-10.15.56:740][  0]LogLinker: Warning: Asset '../../../../../../Users/UOSMSc/Desktop/VRTools/VRGunToolKit/Content/VRGunToolkit/Sounds/Shells/MetalicShell/Wav/A_ShellDrop15.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.02.02-10.15.56:741][  0]LogLinker: Warning: Asset '../../../../../../Users/UOSMSc/Desktop/VRTools/VRGunToolKit/Content/VRGunToolkit/Sounds/Shells/MetalicShell/Wav/A_ShellDrop16.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.02.02-10.15.56:743][  0]LogLinker: Warning: Asset '../../../../../../Users/UOSMSc/Desktop/VRTools/VRGunToolKit/Content/VRGunToolkit/Sounds/Shells/MetalicShell/Wav/A_ShellDrop17.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.02.02-10.15.56:744][  0]LogLinker: Warning: Asset '../../../../../../Users/UOSMSc/Desktop/VRTools/VRGunToolKit/Content/VRGunToolkit/Sounds/Shells/MetalicShell/Wav/A_ShellDrop18.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.02.02-10.15.56:745][  0]LogLinker: Warning: Asset '../../../../../../Users/UOSMSc/Desktop/VRTools/VRGunToolKit/Content/VRGunToolkit/Sounds/Shells/MetalicShell/Wav/A_ShellDrop19.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.02.02-10.15.56:747][  0]LogLinker: Warning: Asset '../../../../../../Users/UOSMSc/Desktop/VRTools/VRGunToolKit/Content/VRGunToolkit/Sounds/Shells/MetalicShell/Wav/A_ShellDrop010.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.02.02-10.15.56:748][  0]LogLinker: Warning: Asset '../../../../../../Users/UOSMSc/Desktop/VRTools/VRGunToolKit/Content/VRGunToolkit/Sounds/Shells/MetalicShell/Wav/A_ShellDrop20.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.02.02-10.15.56:749][  0]LogLinker: Warning: Asset '../../../../../../Users/UOSMSc/Desktop/VRTools/VRGunToolKit/Content/VRGunToolkit/Sounds/Shells/MetalicShell/Wav/A_ShellDrop21.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.02.02-10.15.56:827][  0]LogLinker: Warning: Asset '../../../../../../Users/UOSMSc/Desktop/VRTools/VRGunToolKit/Content/VRGunToolkit/Sounds/Magazine/Wav/A_MagDrop01.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.02.02-10.15.57:409][  0]LogAIModule: Creating AISystem for world Welcome
+[2018.02.02-10.15.57:427][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.02.02-10.15.57:475][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.02.02-10.15.57:535][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 59.568ms to complete.
+[2018.02.02-10.15.57:535][  0]LogFileHelpers: Loading map 'Welcome' took 2.178
+[2018.02.02-10.15.57:712][  0]LogCollectionManager: Loaded 0 collections in 0.001455 seconds
+[2018.02.02-10.15.57:795][  0]LogFileCache: Scanning file cache for directory 'C:/Users/UOSMSc/Desktop/VRTools/VRGunToolKit/Saved/Collections/' took 0.01s
+[2018.02.02-10.15.57:796][  0]LogFileCache: Scanning file cache for directory 'C:/Users/UOSMSc/Desktop/VRTools/VRGunToolKit/Content/Developers/UOSMSc/Collections/' took 0.01s
+[2018.02.02-10.15.57:796][  0]LogFileCache: Scanning file cache for directory 'C:/Users/UOSMSc/Desktop/VRTools/VRGunToolKit/Content/Collections/' took 0.01s
+[2018.02.02-10.15.57:796][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.02.02-10.15.57:809][  0]LogContentBrowser: Native class hierarchy populated in 0.0134 seconds. Added 2363 classes and 519 folders.
+[2018.02.02-10.15.57:903][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.02.02-10.15.57:962][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.02.02-10.15.58:032][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.02.02-10.15.58:050][  0]LogSlate: Took 0.000470 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.02-10.15.58:053][  0]LogSlate: Took 0.000168 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.02.02-10.15.58:058][  0]LogSlate: Took 0.000151 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.02.02-10.15.58:150][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 26 NumSamples 4 (Frame:1).
+[2018.02.02-10.15.58:334][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.02.02-10.15.58:334][  0]LogLoad: (Engine Initialization) Total time: 18.12 seconds
+[2018.02.02-10.15.58:334][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.02.02-10.15.58:334][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.02.02-10.15.58:712][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.02.02-10.15.58:751][  0]LogSlate: Took 0.000223 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.02-10.15.59:006][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/UOSMSc/Desktop/VRTools/VRGunToolKit/Content/' took 0.32s
+[2018.02.02-10.15.59:014][  1]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_VRRealisticGun_Base_C /Engine/Transient.World_0:PersistentLevel.BP_VRRealisticGun_Base_C_0
+	Function /Game/VRGunToolkit/Blueprints/BP_VRRealisticGun_Base.BP_VRRealisticGun_Base_C:UserConstructionScript:053F
+[2018.02.02-10.15.59:346][  2]LogAssetRegistry: Asset discovery search completed in 13.0414 seconds
+[2018.02.02-10.15.59:349][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.02.02-10.15.59:349][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000055 seconds (updated 0 objects)
+[2018.02.02-11.04.25:299][ 16]LogSlate: Took 0.000147 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.02-11.04.25:537][ 16]LogClass: Warning: Enum '/Game/VRGunToolkit/Blueprints/DemoRoom/Button/ENUM_BTN_State.ENUM_BTN_State' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2018.02.02-11.04.25:579][ 16]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 116 classes and 0 folders.
+[2018.02.02-11.04.26:179][ 16]LogSlate: Took 0.000138 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.02-11.04.26:244][ 16]LogSlate: Took 0.000171 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.02.02-11.04.26:314][ 17]LogSlate: Took 0.000183 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.02.02-11.05.54:703][155]LogSlate: Took 0.092231 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.02.02-11.07.47:957][594]BlueprintLog: New page: Compile BP_VRrGunHands
+[2018.02.02-11.07.48:253][594]LogBlueprint: Warning: [Compiler BP_VRrGunHands] ProjectPointToNavigation_DEPRECATED  is deprecated; This version of ProjectPointToNavigation is deprecated. Please use the new version
+[2018.02.02-11.07.48:668][594]LogBlueprint: Warning: [Compiler BP_VRrGunHands] [3128.21] Compile of BP_VRrGunHands successful, but with 1 Warning(s) [in 710 ms] (/Game/VRGunToolkit/Blueprints/Character/BP_VRrGunHands.BP_VRrGunHands)
+[2018.02.02-11.08.32:710][690]BlueprintLog: New page: Compile BP_ArcadePawnExample
+[2018.02.02-11.08.37:821][241]LogRenderer: Reallocating scene render targets to support 1208x712 Format 26 NumSamples 4 (Frame:1).
+[2018.02.02-11.08.57:410][791]LogSlate: Took 0.000173 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.02-11.09.06:450][818]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VRGunToolkit/Maps/Welcome' took 0.021
+[2018.02.02-11.09.06:452][818]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VRGunToolkit/Blueprints/Character/BP_VRrGunHands] ([1] browsable assets)...
+[2018.02.02-11.09.06:466][818]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VRGunToolkit/Blueprints/Character/BP_VRrGunHands.BP_VRrGunHands]
+[2018.02.02-11.09.06:466][818]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRGunToolkit/Blueprints/Character/BP_VRrGunHands]
+[2018.02.02-11.09.07:439][818]LogSavePackage: Save=966.49ms
+[2018.02.02-11.09.07:439][818]LogSavePackage: Moving '../../../../../../Users/UOSMSc/Desktop/VRTools/VRGunToolKit/Saved/BP_VRrGunHands_Auto1477DE8644DB804741E6652A119F183DC.tmp' to '../../../../../../Users/UOSMSc/Desktop/VRTools/VRGunToolKit/Saved/Autosaves/Game/VRGunToolkit/Blueprints/Character/BP_VRrGunHands_Auto1.uasset'
+[2018.02.02-11.09.07:441][818]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/UOSMSc/Desktop/VRTools/VRGunToolKit/Saved/Autosaves/Game/VRGunToolkit/Blueprints/Character/BP_VRrGunHands_Auto1.uasset
+[2018.02.02-11.09.07:441][818]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VRGunToolkit/Blueprints/Character/BP_ArcadePawnExample] ([1] browsable assets)...
+[2018.02.02-11.09.07:441][818]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRGunToolkit/Blueprints/Character/BP_ArcadePawnExample]
+[2018.02.02-11.09.07:523][818]LogSavePackage: Save=79.39ms
+[2018.02.02-11.09.07:523][818]LogSavePackage: Moving '../../../../../../Users/UOSMSc/Desktop/VRTools/VRGunToolKit/Saved/BP_ArcadePawnExample_Auto18ED171F047E5331FAF0FB5A464E9A1A5.tmp' to '../../../../../../Users/UOSMSc/Desktop/VRTools/VRGunToolKit/Saved/Autosaves/Game/VRGunToolkit/Blueprints/Character/BP_ArcadePawnExample_Auto1.uasset'
+[2018.02.02-11.09.07:524][818]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/UOSMSc/Desktop/VRTools/VRGunToolKit/Saved/Autosaves/Game/VRGunToolkit/Blueprints/Character/BP_ArcadePawnExample_Auto1.uasset
+[2018.02.02-11.09.07:524][818]LogFileHelpers: Auto-saving content packages took 1.073
+[2018.02.02-11.09.52:496][822]BlueprintLog: New page: Compile BP_ArcadePawnExample
+[2018.02.02-11.16.13:763][494]LogEditorTransaction: Undo Delete current selection
+[2018.02.02-11.19.00:961][794]BlueprintLog: New page: Compile BP_VRrGunHands
+[2018.02.02-11.19.01:348][794]LogBlueprint: Warning: [Compiler BP_VRrGunHands] ProjectPointToNavigation_DEPRECATED  is deprecated; This version of ProjectPointToNavigation is deprecated. Please use the new version
+[2018.02.02-11.19.01:364][794]LogBlueprint: Error: [Compiler BP_VRrGunHands] This blueprint (self) is not a BP_VRRealisticGun_Base_C, therefore ' Target ' must have a connection.
+[2018.02.02-11.19.01:446][794]LogBlueprint: Error: [Compiler BP_VRrGunHands] Variable node  Get Frame  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2018.02.02-11.19.01:839][794]LogBlueprint: Warning: [Compiler BP_VRrGunHands] [3801.33] Compile of BP_VRrGunHands failed. 2 Fatal Issue(s) 1 Warning(s) [in 878 ms] (/Game/VRGunToolkit/Blueprints/Character/BP_VRrGunHands.BP_VRrGunHands)
+[2018.02.02-11.19.08:854][611]BlueprintLog: New page: Compile BP_VRrGunHands
+[2018.02.02-11.19.09:147][611]LogBlueprint: Warning: [Compiler BP_VRrGunHands] ProjectPointToNavigation_DEPRECATED  is deprecated; This version of ProjectPointToNavigation is deprecated. Please use the new version
+[2018.02.02-11.19.09:440][611]LogBlueprint: Warning: [Compiler BP_VRrGunHands] [3808.93] Compile of BP_VRrGunHands successful, but with 1 Warning(s) [in 585 ms] (/Game/VRGunToolkit/Blueprints/Character/BP_VRrGunHands.BP_VRrGunHands)
+[2018.02.02-11.22.15:687][451]BlueprintLog: New page: Compile BP_VRrGunHands
+[2018.02.02-11.22.16:093][451]LogBlueprint: Warning: [Compiler BP_VRrGunHands] ProjectPointToNavigation_DEPRECATED  is deprecated; This version of ProjectPointToNavigation is deprecated. Please use the new version
+[2018.02.02-11.22.16:585][451]LogBlueprint: Warning: [Compiler BP_VRrGunHands] [3996.06] Compile of BP_VRrGunHands successful, but with 1 Warning(s) [in 897 ms] (/Game/VRGunToolkit/Blueprints/Character/BP_VRrGunHands.BP_VRrGunHands)
+[2018.02.02-11.23.09:933][681]BlueprintLog: New page: Compile BP_VRrGunHands
+[2018.02.02-11.23.10:319][681]LogBlueprint: Warning: [Compiler BP_VRrGunHands] ProjectPointToNavigation_DEPRECATED  is deprecated; This version of ProjectPointToNavigation is deprecated. Please use the new version
+[2018.02.02-11.23.10:804][681]LogBlueprint: Warning: [Compiler BP_VRrGunHands] [4050.28] Compile of BP_VRrGunHands successful, but with 1 Warning(s) [in 870 ms] (/Game/VRGunToolkit/Blueprints/Character/BP_VRrGunHands.BP_VRrGunHands)
+[2018.02.02-11.25.09:920][630]BlueprintLog: New page: Compile BP_VRrGunHands
+[2018.02.02-11.25.10:219][630]LogBlueprint: Warning: [Compiler BP_VRrGunHands] ProjectPointToNavigation_DEPRECATED  is deprecated; This version of ProjectPointToNavigation is deprecated. Please use the new version
+[2018.02.02-11.25.10:760][630]LogBlueprint: Warning: [Compiler BP_VRrGunHands] [4170.23] Compile of BP_VRrGunHands successful, but with 1 Warning(s) [in 839 ms] (/Game/VRGunToolkit/Blueprints/Character/BP_VRrGunHands.BP_VRrGunHands)
+[2018.02.02-11.25.38:831][883]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VRGunToolkit/Maps/Welcome' took 0.022
+[2018.02.02-11.25.38:833][883]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VRGunToolkit/Blueprints/Character/BP_VRrGunHands] ([1] browsable assets)...
+[2018.02.02-11.25.38:844][883]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VRGunToolkit/Blueprints/Character/BP_VRrGunHands.BP_VRrGunHands]
+[2018.02.02-11.25.38:844][883]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRGunToolkit/Blueprints/Character/BP_VRrGunHands]
+[2018.02.02-11.25.39:834][883]LogSavePackage: Save=983.95ms
+[2018.02.02-11.25.39:834][883]LogSavePackage: Moving '../../../../../../Users/UOSMSc/Desktop/VRTools/VRGunToolKit/Saved/BP_VRrGunHands_Auto239C31FFA40E3B957E2E0BF88B8C2C93D.tmp' to '../../../../../../Users/UOSMSc/Desktop/VRTools/VRGunToolKit/Saved/Autosaves/Game/VRGunToolkit/Blueprints/Character/BP_VRrGunHands_Auto2.uasset'
+[2018.02.02-11.25.39:835][883]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/UOSMSc/Desktop/VRTools/VRGunToolKit/Saved/Autosaves/Game/VRGunToolkit/Blueprints/Character/BP_VRrGunHands_Auto2.uasset
+[2018.02.02-11.25.39:836][883]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VRGunToolkit/Blueprints/Character/BP_ArcadePawnExample] ([1] browsable assets)...
+[2018.02.02-11.25.39:836][883]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRGunToolkit/Blueprints/Character/BP_ArcadePawnExample]
+[2018.02.02-11.25.39:918][883]LogSavePackage: Save=80.27ms
+[2018.02.02-11.25.39:918][883]LogSavePackage: Moving '../../../../../../Users/UOSMSc/Desktop/VRTools/VRGunToolKit/Saved/BP_ArcadePawnExample_Auto2FCB73305494553D454F43F81D4A29218.tmp' to '../../../../../../Users/UOSMSc/Desktop/VRTools/VRGunToolKit/Saved/Autosaves/Game/VRGunToolkit/Blueprints/Character/BP_ArcadePawnExample_Auto2.uasset'
+[2018.02.02-11.25.39:919][883]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/UOSMSc/Desktop/VRTools/VRGunToolKit/Saved/Autosaves/Game/VRGunToolkit/Blueprints/Character/BP_ArcadePawnExample_Auto2.uasset
+[2018.02.02-11.25.39:919][883]LogFileHelpers: Auto-saving content packages took 1.088
+[2018.02.02-11.26.03:221][597]BlueprintLog: New page: Compile BP_ArcadePawnExample
+[2018.02.02-11.27.02:461][614]LogSavePackage: Save=84.47ms
+[2018.02.02-11.27.02:461][614]LogSavePackage: Moving '../../../../../../Users/UOSMSc/Desktop/VRTools/VRGunToolKit/Saved/BP_ArcadePawnExampleBBCF3B894C106E175D08E493C22E6E52.tmp' to '../../../../../../Users/UOSMSc/Desktop/VRTools/VRGunToolKit/Content/VRGunToolkit/Blueprints/Character/BP_ArcadePawnExample.uasset'
+[2018.02.02-11.27.02:463][614]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/UOSMSc/Desktop/VRTools/VRGunToolKit/Content/VRGunToolkit/Blueprints/Character/BP_ArcadePawnExample.uasset
+[2018.02.02-11.27.08:560][337]LogEditorTransaction: Undo Delete current selection
+[2018.02.02-11.35.40:492][978]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VRGunToolkit/Maps/Welcome' took 0.022
+[2018.02.02-11.35.40:493][978]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VRGunToolkit/Blueprints/Character/BP_ArcadePawnExample] ([1] browsable assets)...
+[2018.02.02-11.35.40:493][978]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRGunToolkit/Blueprints/Character/BP_ArcadePawnExample]
+[2018.02.02-11.35.40:584][978]LogSavePackage: Save=85.49ms
+[2018.02.02-11.35.40:584][978]LogSavePackage: Moving '../../../../../../Users/UOSMSc/Desktop/VRTools/VRGunToolKit/Saved/BP_ArcadePawnExample_Auto3DE0C65B1470C11CF71DDF5A2FF3DE720.tmp' to '../../../../../../Users/UOSMSc/Desktop/VRTools/VRGunToolKit/Saved/Autosaves/Game/VRGunToolkit/Blueprints/Character/BP_ArcadePawnExample_Auto3.uasset'
+[2018.02.02-11.35.40:585][978]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/UOSMSc/Desktop/VRTools/VRGunToolKit/Saved/Autosaves/Game/VRGunToolkit/Blueprints/Character/BP_ArcadePawnExample_Auto3.uasset
+[2018.02.02-11.35.40:585][978]LogFileHelpers: Auto-saving content packages took 0.092
+[2018.02.02-12.39.23:150][648]BlueprintLog: New page: Compile BP_ArcadePawnExample
+[2018.02.02-12.41.37:806][462]BlueprintLog: New page: Compile BP_VRrGunHands
+[2018.02.02-12.41.38:100][462]LogBlueprint: Warning: [Compiler BP_VRrGunHands] ProjectPointToNavigation_DEPRECATED  is deprecated; This version of ProjectPointToNavigation is deprecated. Please use the new version
+[2018.02.02-12.41.38:592][462]LogBlueprint: Warning: [Compiler BP_VRrGunHands] [8757.71] Compile of BP_VRrGunHands successful, but with 1 Warning(s) [in 786 ms] (/Game/VRGunToolkit/Blueprints/Character/BP_VRrGunHands.BP_VRrGunHands)
+[2018.02.02-12.44.12:752][688]LogEditorTransaction: Undo Delete current selection
+[2018.02.02-12.49.09:664][116]BlueprintLog: New page: Compile BP_ArcadePawnExample
+[2018.02.02-12.50.51:422][973]BlueprintLog: New page: Compile BP_ArcadePawnExample
+[2018.02.02-12.51.25:501][842]BlueprintLog: New page: Compile BP_ArcadePawnExample
+[2018.02.02-12.52.45:842][233]BlueprintLog: New page: Compile BP_ArcadePawnExample
+[2018.02.02-12.52.48:978][558]BlueprintLog: New page: Compile BP_VRrGunHands
+[2018.02.02-12.52.49:295][558]LogBlueprint: Warning: [Compiler BP_VRrGunHands] ProjectPointToNavigation_DEPRECATED  is deprecated; This version of ProjectPointToNavigation is deprecated. Please use the new version
+[2018.02.02-12.52.49:712][558]LogBlueprint: Warning: [Compiler BP_VRrGunHands] [9428.78] Compile of BP_VRrGunHands successful, but with 1 Warning(s) [in 733 ms] (/Game/VRGunToolkit/Blueprints/Character/BP_VRrGunHands.BP_VRrGunHands)
+[2018.02.02-12.54.22:710][473]LogEditorTransaction: Undo Delete current selection
+[2018.02.02-12.54.28:043][ 67]BlueprintLog: New page: Compile BP_VRrGunHands
+[2018.02.02-12.54.28:354][ 67]LogBlueprint: Warning: [Compiler BP_VRrGunHands] ProjectPointToNavigation_DEPRECATED  is deprecated; This version of ProjectPointToNavigation is deprecated. Please use the new version
+[2018.02.02-12.54.28:881][ 67]LogBlueprint: Warning: [Compiler BP_VRrGunHands] [9527.94] Compile of BP_VRrGunHands successful, but with 1 Warning(s) [in 838 ms] (/Game/VRGunToolkit/Blueprints/Character/BP_VRrGunHands.BP_VRrGunHands)
+[2018.02.02-12.56.16:810][544]BlueprintLog: New page: Compile BP_ArcadePawnExample
+[2018.02.02-12.56.47:633][ 73]BlueprintLog: New page: Compile BP_ArcadePawnExample
+[2018.02.02-12.59.04:350][ 46]LogEditorTransaction: Undo Create Pin Link
+[2018.02.02-12.59.49:057][411]BlueprintLog: New page: Compile BP_VRrGunHands
+[2018.02.02-12.59.49:380][411]LogBlueprint: Warning: [Compiler BP_VRrGunHands] ProjectPointToNavigation_DEPRECATED  is deprecated; This version of ProjectPointToNavigation is deprecated. Please use the new version
+[2018.02.02-12.59.49:396][411]LogBlueprint: Error: [Compiler BP_VRrGunHands] The type of  Object  is undetermined.  Connect something to  Cast To BP_ArcadePawnExample  to imply a specific type.
+[2018.02.02-12.59.49:399][411]LogBlueprint: Error: [Compiler BP_VRrGunHands] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2018.02.02-12.59.49:727][411]LogBlueprint: Warning: [Compiler BP_VRrGunHands] [9848.76] Compile of BP_VRrGunHands failed. 2 Fatal Issue(s) 1 Warning(s) [in 670 ms] (/Game/VRGunToolkit/Blueprints/Character/BP_VRrGunHands.BP_VRrGunHands)
+[2018.02.02-13.00.21:535][175]BlueprintLog: New page: Compile BP_VRrGunHands
+[2018.02.02-13.00.21:853][175]LogBlueprint: Warning: [Compiler BP_VRrGunHands] ProjectPointToNavigation_DEPRECATED  is deprecated; This version of ProjectPointToNavigation is deprecated. Please use the new version
+[2018.02.02-13.00.21:869][175]LogBlueprint: Error: [Compiler BP_VRrGunHands] The type of  Object  is undetermined.  Connect something to  Cast To BP_ArcadePawnExample  to imply a specific type.
+[2018.02.02-13.00.21:872][175]LogBlueprint: Error: [Compiler BP_VRrGunHands] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2018.02.02-13.00.22:184][175]LogBlueprint: Warning: [Compiler BP_VRrGunHands] [9881.21] Compile of BP_VRrGunHands failed. 2 Fatal Issue(s) 1 Warning(s) [in 648 ms] (/Game/VRGunToolkit/Blueprints/Character/BP_VRrGunHands.BP_VRrGunHands)
+[2018.02.02-13.02.57:097][235]BlueprintLog: New page: Compile BP_VRrGunHands
+[2018.02.02-13.02.57:423][235]LogBlueprint: Warning: [Compiler BP_VRrGunHands] ProjectPointToNavigation_DEPRECATED  is deprecated; This version of ProjectPointToNavigation is deprecated. Please use the new version
+[2018.02.02-13.02.57:439][235]LogBlueprint: Error: [Compiler BP_VRrGunHands] This blueprint (self) is not a BP_ArcadePawnExample_C, therefore ' Target ' must have a connection.
+[2018.02.02-13.02.57:442][235]LogBlueprint: Error: [Compiler BP_VRrGunHands] Variable node  Get HolsterOverlapped  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2018.02.02-13.02.57:785][235]LogBlueprint: Warning: [Compiler BP_VRrGunHands] [0036.80] Compile of BP_VRrGunHands failed. 2 Fatal Issue(s) 1 Warning(s) [in 688 ms] (/Game/VRGunToolkit/Blueprints/Character/BP_VRrGunHands.BP_VRrGunHands)
+[2018.02.02-13.03.04:067][956]BlueprintLog: New page: Compile BP_VRrGunHands
+[2018.02.02-13.03.04:382][956]LogBlueprint: Warning: [Compiler BP_VRrGunHands] ProjectPointToNavigation_DEPRECATED  is deprecated; This version of ProjectPointToNavigation is deprecated. Please use the new version
+[2018.02.02-13.03.04:731][956]LogBlueprint: Warning: [Compiler BP_VRrGunHands] [0043.75] Compile of BP_VRrGunHands successful, but with 1 Warning(s) [in 663 ms] (/Game/VRGunToolkit/Blueprints/Character/BP_VRrGunHands.BP_VRrGunHands)
+[2018.02.02-13.03.30:475][638]BlueprintLog: New page: Compile BP_VRrGunHands
+[2018.02.02-13.03.30:792][638]LogBlueprint: Warning: [Compiler BP_VRrGunHands] ProjectPointToNavigation_DEPRECATED  is deprecated; This version of ProjectPointToNavigation is deprecated. Please use the new version
+[2018.02.02-13.03.31:259][638]LogBlueprint: Warning: [Compiler BP_VRrGunHands] [0070.28] Compile of BP_VRrGunHands successful, but with 1 Warning(s) [in 783 ms] (/Game/VRGunToolkit/Blueprints/Character/BP_VRrGunHands.BP_VRrGunHands)
+[2018.02.02-13.04.18:438][160]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VRGunToolkit/Maps/Welcome' took 0.026
+[2018.02.02-13.04.18:440][160]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VRGunToolkit/Blueprints/Character/BP_VRrGunHands] ([1] browsable assets)...
+[2018.02.02-13.04.18:452][160]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VRGunToolkit/Blueprints/Character/BP_VRrGunHands.BP_VRrGunHands]
+[2018.02.02-13.04.18:452][160]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRGunToolkit/Blueprints/Character/BP_VRrGunHands]
+[2018.02.02-13.04.19:516][160]LogSavePackage: Save=1056.63ms
+[2018.02.02-13.04.19:516][160]LogSavePackage: Moving '../../../../../../Users/UOSMSc/Desktop/VRTools/VRGunToolKit/Saved/BP_VRrGunHands_Auto459B66D5142C6377D860B27822FE22679.tmp' to '../../../../../../Users/UOSMSc/Desktop/VRTools/VRGunToolKit/Saved/Autosaves/Game/VRGunToolkit/Blueprints/Character/BP_VRrGunHands_Auto4.uasset'
+[2018.02.02-13.04.19:517][160]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/UOSMSc/Desktop/VRTools/VRGunToolKit/Saved/Autosaves/Game/VRGunToolkit/Blueprints/Character/BP_VRrGunHands_Auto4.uasset
+[2018.02.02-13.04.19:518][160]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VRGunToolkit/Blueprints/Character/BP_ArcadePawnExample] ([1] browsable assets)...
+[2018.02.02-13.04.19:518][160]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRGunToolkit/Blueprints/Character/BP_ArcadePawnExample]
+[2018.02.02-13.04.19:632][160]LogSavePackage: Save=111.93ms
+[2018.02.02-13.04.19:632][160]LogSavePackage: Moving '../../../../../../Users/UOSMSc/Desktop/VRTools/VRGunToolKit/Saved/BP_ArcadePawnExample_Auto4796B288846819F8527D165980A7FA3C9.tmp' to '../../../../../../Users/UOSMSc/Desktop/VRTools/VRGunToolKit/Saved/Autosaves/Game/VRGunToolkit/Blueprints/Character/BP_ArcadePawnExample_Auto4.uasset'
+[2018.02.02-13.04.19:633][160]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/UOSMSc/Desktop/VRTools/VRGunToolKit/Saved/Autosaves/Game/VRGunToolkit/Blueprints/Character/BP_ArcadePawnExample_Auto4.uasset
+[2018.02.02-13.04.19:633][160]LogFileHelpers: Auto-saving content packages took 1.193
+[2018.02.02-13.04.42:991][937]BlueprintLog: New page: Compile BP_VRrGunHands
+[2018.02.02-13.04.43:307][937]LogBlueprint: Warning: [Compiler BP_VRrGunHands] ProjectPointToNavigation_DEPRECATED  is deprecated; This version of ProjectPointToNavigation is deprecated. Please use the new version
+[2018.02.02-13.04.43:754][937]LogBlueprint: Warning: [Compiler BP_VRrGunHands] [0142.76] Compile of BP_VRrGunHands successful, but with 1 Warning(s) [in 762 ms] (/Game/VRGunToolkit/Blueprints/Character/BP_VRrGunHands.BP_VRrGunHands)
+[2018.02.02-13.14.19:613][872]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VRGunToolkit/Maps/Welcome' took 0.026
+[2018.02.02-13.14.19:615][872]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VRGunToolkit/Blueprints/Character/BP_VRrGunHands] ([1] browsable assets)...
+[2018.02.02-13.14.19:626][872]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VRGunToolkit/Blueprints/Character/BP_VRrGunHands.BP_VRrGunHands]
+[2018.02.02-13.14.19:626][872]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRGunToolkit/Blueprints/Character/BP_VRrGunHands]
+[2018.02.02-13.14.20:666][872]LogSavePackage: Save=1020.70ms
+[2018.02.02-13.14.20:666][872]LogSavePackage: Moving '../../../../../../Users/UOSMSc/Desktop/VRTools/VRGunToolKit/Saved/BP_VRrGunHands_Auto5398320314C87CA19EE6406B8AA159AB8.tmp' to '../../../../../../Users/UOSMSc/Desktop/VRTools/VRGunToolKit/Saved/Autosaves/Game/VRGunToolkit/Blueprints/Character/BP_VRrGunHands_Auto5.uasset'
+[2018.02.02-13.14.20:667][872]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/UOSMSc/Desktop/VRTools/VRGunToolKit/Saved/Autosaves/Game/VRGunToolkit/Blueprints/Character/BP_VRrGunHands_Auto5.uasset
+[2018.02.02-13.14.20:668][872]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VRGunToolkit/Blueprints/Character/BP_ArcadePawnExample] ([1] browsable assets)...
+[2018.02.02-13.14.20:668][872]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRGunToolkit/Blueprints/Character/BP_ArcadePawnExample]
+[2018.02.02-13.14.20:782][872]LogSavePackage: Save=111.80ms
+[2018.02.02-13.14.20:782][872]LogSavePackage: Moving '../../../../../../Users/UOSMSc/Desktop/VRTools/VRGunToolKit/Saved/BP_ArcadePawnExample_Auto5AE8FADDF42D64371BEF5009A17EB9424.tmp' to '../../../../../../Users/UOSMSc/Desktop/VRTools/VRGunToolKit/Saved/Autosaves/Game/VRGunToolkit/Blueprints/Character/BP_ArcadePawnExample_Auto5.uasset'
+[2018.02.02-13.14.20:783][872]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/UOSMSc/Desktop/VRTools/VRGunToolKit/Saved/Autosaves/Game/VRGunToolkit/Blueprints/Character/BP_ArcadePawnExample_Auto5.uasset
+[2018.02.02-13.14.20:783][872]LogFileHelpers: Auto-saving content packages took 1.169
+[2018.02.02-13.14.57:296][217]LogLinker: Warning: Asset '../../../../../../Users/UOSMSc/Desktop/VRTools/VRGunToolKit/Content/VRGunToolkit/Sounds/Shells/PlasticCasing/Cue/Cue_ShotGun_Shell_Random.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.02.02-13.14.57:717][217]LogStaticMesh: Building static mesh SM_BulletAK...
+[2018.02.02-13.14.57:721][217]LogStaticMesh: Built static mesh [0.00s] /Game/VRGunToolkit/Meshes/Weapons/Bullet/SM_BulletAK.SM_BulletAK
+[2018.02.02-13.14.57:723][217]LogStaticMesh: Building static mesh SM_ShellAK...
+[2018.02.02-13.14.57:752][217]LogStaticMesh: Built static mesh [0.03s] /Game/VRGunToolkit/Meshes/Weapons/Bullet/SM_ShellAK.SM_ShellAK
+[2018.02.02-13.14.57:772][217]LogStaticMesh: Building static mesh SM_Cartige...
+[2018.02.02-13.14.57:989][217]LogTexture: Display: Building textures: T_SpecularGrayScale (AutoDXT, 4096X4096)
+[2018.02.02-13.14.57:989][217]LogTexture: Display: Building textures: eed416be (AutoDXT, 512X512)
+[2018.02.02-13.14.57:989][217]LogStaticMesh: Built static mesh [0.22s] /Game/VRGunToolkit/Meshes/Weapons/Bullet/SM_Cartige.SM_Cartige
+[2018.02.02-13.15.02:456][217]LogTexture: Display: Building textures: T_AmbientOcclusion (AutoDXT, 4096X4096)
+[2018.02.02-13.15.02:457][217]LogTexture: Display: Building textures: T_Scope (AutoDXT, 1080X1080)
+[2018.02.02-13.15.02:457][217]LogTexture: Display: Building textures: T_Diffuse (AutoDXT, 4096X4096)
+[2018.02.02-13.15.02:457][217]LogTexture: Display: Building textures: T_RoughnessMetallic (BC5, 4096X4096)
+[2018.02.02-13.15.02:457][217]LogTexture: Display: Building textures: T_Normal (BC5, 4096X4096)
+[2018.02.02-13.15.02:457][217]LogTexture: Display: Building textures: T_HuntingRifleDIF (AutoDXT, 1024X1024)
+[2018.02.02-13.15.02:457][217]LogTexture: Display: Building textures: b62aaeb7 (AutoDXT, 1024X1024)
+[2018.02.02-13.15.02:457][217]LogTexture: Display: Building textures: T_ScopeDIF (AutoDXT, 1024X1024)
+[2018.02.02-13.15.03:053][217]LogMaterial: Missing cached shader map for material M_ShotGun_Mat, compiling. 
+[2018.02.02-13.15.03:094][217]LogStaticMesh: Building static mesh SM_Shotgun_cut_Trigger...
+[2018.02.02-13.15.03:095][217]LogStaticMesh: Built static mesh [0.00s] /Game/VRGunToolkit/Meshes/Weapons/Shotgun/SM_Shotgun_cut_Trigger.SM_Shotgun_cut_Trigger
+[2018.02.02-13.15.03:096][217]LogStaticMesh: Building static mesh SM_Shotgun_cut_Pump...
+[2018.02.02-13.15.03:119][217]LogStaticMesh: Built static mesh [0.02s] /Game/VRGunToolkit/Meshes/Weapons/Shotgun/SM_Shotgun_cut_Pump.SM_Shotgun_cut_Pump
+[2018.02.02-13.15.03:124][217]LogStaticMesh: Building static mesh Sniper_Scope...
+[2018.02.02-13.15.03:183][217]LogStaticMesh: Built static mesh [0.06s] /Game/Meshs/Sniper_Scope.Sniper_Scope
+[2018.02.02-13.15.03:192][217]LogStaticMesh: Building static mesh Sniper_Scope_Lens...
+[2018.02.02-13.15.03:195][217]LogStaticMesh: Built static mesh [0.00s] /Game/Meshs/Sniper_Scope_Lens.Sniper_Scope_Lens
+[2018.02.02-13.15.03:223][217]LogMaterial: Missing cached shader map for material M_scope_Mat, compiling. 
+[2018.02.02-13.15.03:253][217]LogStaticMesh: Building static mesh SM_SniperCut_Scope...
+[2018.02.02-13.15.03:285][217]LogStaticMesh: Built static mesh [0.03s] /Game/VRGunToolkit/Meshes/Weapons/Sniper/SM_SniperCut_Scope.SM_SniperCut_Scope
+[2018.02.02-13.15.03:289][217]LogStaticMesh: Building static mesh SM_Shotgun_cut_Low...
+[2018.02.02-13.15.03:338][217]LogStaticMesh: Built static mesh [0.05s] /Game/VRGunToolkit/Meshes/Weapons/Shotgun/SM_Shotgun_cut_Low.SM_Shotgun_cut_Low
+[2018.02.02-13.15.03:345][217]LogStaticMesh: Building static mesh SM_SniperCut_Body...
+[2018.02.02-13.15.03:364][217]LogStaticMesh: Built static mesh [0.02s] /Game/VRGunToolkit/Meshes/Weapons/Sniper/SM_SniperCut_Body.SM_SniperCut_Body
+[2018.02.02-13.15.03:370][217]LogStaticMesh: Building static mesh SM_SniperCut_Slider...
+[2018.02.02-13.15.03:396][217]LogStaticMesh: Built static mesh [0.03s] /Game/VRGunToolkit/Meshes/Weapons/Sniper/SM_SniperCut_Slider.SM_SniperCut_Slider
+[2018.02.02-13.15.03:402][217]LogStaticMesh: Building static mesh SM_SniperCut_Trigger...
+[2018.02.02-13.15.03:405][217]LogStaticMesh: Built static mesh [0.00s] /Game/VRGunToolkit/Meshes/Weapons/Sniper/SM_SniperCut_Trigger.SM_SniperCut_Trigger
+[2018.02.02-13.15.03:406][217]LogStaticMesh: Building static mesh SM_Sniper_M_Sniper_Bullet...
+[2018.02.02-13.15.03:432][217]LogStaticMesh: Built static mesh [0.03s] /Game/VRGunToolkit/Meshes/Weapons/Bullet/SM_Sniper_M_Sniper_Bullet.SM_Sniper_M_Sniper_Bullet
+[2018.02.02-13.15.03:436][217]LogStaticMesh: Building static mesh SM_Sniper_M_Sniper_Shell...
+[2018.02.02-13.15.03:572][217]LogStaticMesh: Built static mesh [0.14s] /Game/VRGunToolkit/Meshes/Weapons/Bullet/SM_Sniper_M_Sniper_Shell.SM_Sniper_M_Sniper_Shell
+[2018.02.02-13.15.03:734][217]LogMaterial: Missing cached shader map for material Material__843, compiling. 
+[2018.02.02-13.15.03:778][217]LogMaterial: Missing cached shader map for material M_HuntingRifleDIF_Mat, compiling. 
+[2018.02.02-13.15.03:818][217]LogMaterial: Missing cached shader map for material Material__829, compiling. 
+[2018.02.02-13.15.03:850][217]LogStaticMesh: Building static mesh SM_ShotgunShellExploded...
+[2018.02.02-13.15.03:986][217]LogStaticMesh: Built static mesh [0.14s] /Game/VRGunToolkit/Meshes/Weapons/Bullet/SM_ShotgunShellExploded.SM_ShotgunShellExploded
+[2018.02.02-13.15.03:996][217]LogMaterial: Missing cached shader map for material M_Red, compiling. 
+[2018.02.02-13.15.04:045][217]LogLinker: Warning: Asset '../../../../../../Users/UOSMSc/Desktop/VRTools/VRGunToolKit/Content/VRGunToolkit/Sounds/Shells/PlasticCasing/Wav/A_Shotgun_Shell_1.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.02.02-13.15.04:067][217]LogLinker: Warning: Asset '../../../../../../Users/UOSMSc/Desktop/VRTools/VRGunToolKit/Content/VRGunToolkit/Sounds/Shells/PlasticCasing/Wav/A_Shotgun_Shell_2.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.02.02-13.15.04:079][217]LogLinker: Warning: Asset '../../../../../../Users/UOSMSc/Desktop/VRTools/VRGunToolKit/Content/VRGunToolkit/Sounds/Shells/PlasticCasing/Wav/A_Shotgun_Shell_3.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.02.02-13.15.04:092][217]LogMaterial: Missing cached shader map for material M_Floor_01, compiling. 
+[2018.02.02-13.15.04:169][217]LogMaterial: Missing cached shader map for material M_ScopeDIF_Mat, compiling. 
+[2018.02.02-13.15.04:293][217]LogAIModule: Creating AISystem for world ShootingRange
+[2018.02.02-13.15.04:312][217]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Shotgun_C /Game/VRGunToolkit/Maps/ShootingRange.ShootingRange:PersistentLevel.BP_Shotgun_2127
+	Function /Game/VRGunToolkit/Blueprints/BP_VRRealisticGun_Base.BP_VRRealisticGun_Base_C:UserConstructionScript:053F
+[2018.02.02-13.15.04:327][217]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Shotgun_C /Game/VRGunToolkit/Maps/ShootingRange.ShootingRange:PersistentLevel.BP_Shotgun2
+	Function /Game/VRGunToolkit/Blueprints/BP_VRRealisticGun_Base.BP_VRRealisticGun_Base_C:UserConstructionScript:053F
+[2018.02.02-13.15.04:338][217]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_AK47_C /Game/VRGunToolkit/Maps/ShootingRange.ShootingRange:PersistentLevel.BP_AK47_2858
+	Function /Game/VRGunToolkit/Blueprints/BP_VRRealisticGun_Base.BP_VRRealisticGun_Base_C:UserConstructionScript:053F
+[2018.02.02-13.15.04:341][217]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_AK47_C /Game/VRGunToolkit/Maps/ShootingRange.ShootingRange:PersistentLevel.BP_AK48
+	Function /Game/VRGunToolkit/Blueprints/BP_VRRealisticGun_Base.BP_VRRealisticGun_Base_C:UserConstructionScript:053F
+[2018.02.02-13.15.04:345][217]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Colt1911_C /Game/VRGunToolkit/Maps/ShootingRange.ShootingRange:PersistentLevel.BP_Colt1911_2035
+	Function /Game/VRGunToolkit/Blueprints/BP_VRRealisticGun_Base.BP_VRRealisticGun_Base_C:UserConstructionScript:053F
+[2018.02.02-13.15.04:349][217]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Colt1911_C /Game/VRGunToolkit/Maps/ShootingRange.ShootingRange:PersistentLevel.BP_Colt1912
+	Function /Game/VRGunToolkit/Blueprints/BP_VRRealisticGun_Base.BP_VRRealisticGun_Base_C:UserConstructionScript:053F
+[2018.02.02-13.15.04:353][217]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Colt1911_C /Game/VRGunToolkit/Maps/ShootingRange.ShootingRange:PersistentLevel.BP_Colt1913
+	Function /Game/VRGunToolkit/Blueprints/BP_VRRealisticGun_Base.BP_VRRealisticGun_Base_C:UserConstructionScript:053F
+[2018.02.02-13.15.04:358][217]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Sniper_C /Game/VRGunToolkit/Maps/ShootingRange.ShootingRange:PersistentLevel.BP_Sniper_2394
+	Function /Game/VRGunToolkit/Blueprints/BP_VRRealisticGun_Base.BP_VRRealisticGun_Base_C:UserConstructionScript:053F
+[2018.02.02-13.15.04:405][217]LogAudioDerivedData: Display: Building compressed audio format OGG wave A_EmptyShotgun...
+[2018.02.02-13.15.04:448][217]LogAudioDerivedData: Display: Building compressed audio format OGG wave A_PumpShotgunBack...
+[2018.02.02-13.15.04:467][217]LogAudioDerivedData: Display: Building compressed audio format OGG wave A_ShotGunShoot...
+[2018.02.02-13.15.04:502][217]LogAudioDerivedData: Display: Building compressed audio format OGG wave A_Pistol_SlideForward...
+[2018.02.02-13.15.04:526][217]LogAudioDerivedData: Display: Building compressed audio format OGG wave A_PumpShotgunForward...
+[2018.02.02-13.15.04:551][217]LogAudioDerivedData: Display: Building compressed audio format OGG wave A_Shotgun_Shell_3...
+[2018.02.02-13.15.04:601][217]LogAudioDerivedData: Display: Building compressed audio format OGG wave A_Shotgun_Shell_2...
+[2018.02.02-13.15.04:639][217]LogAudioDerivedData: Display: Building compressed audio format OGG wave A_Shotgun_Shell_1...
+[2018.02.02-13.15.04:689][217]LogAudioDerivedData: Display: Building compressed audio format OGG wave A_AssaultRifle_Shot01_Stereo...
+[2018.02.02-13.15.04:724][217]LogAudioDerivedData: Display: Building compressed audio format OGG wave A_Weapon_AssaultRifle_Empty02_Stereo...
+[2018.02.02-13.15.04:756][217]LogAudioDerivedData: Display: Building compressed audio format OGG wave A_Weapon_AssaultRifle_Empty01_Stereo...
+[2018.02.02-13.15.10:576][217]LogSavePackage: Save=161.48ms
+[2018.02.02-13.15.10:576][217]LogSavePackage: Moving '../../../../../../Users/UOSMSc/Desktop/VRTools/VRGunToolKit/Saved/BP_ArcadePawnExampleD450E33C488BF79F220F32ABFE7E48F5.tmp' to '../../../../../../Users/UOSMSc/Desktop/VRTools/VRGunToolKit/Content/VRGunToolkit/Blueprints/Character/BP_ArcadePawnExample.uasset'
+[2018.02.02-13.15.10:578][217]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/UOSMSc/Desktop/VRTools/VRGunToolKit/Content/VRGunToolkit/Blueprints/Character/BP_ArcadePawnExample.uasset
+[2018.02.02-13.15.12:045][217]LogSavePackage: Save=1461.82ms
+[2018.02.02-13.15.12:045][217]LogSavePackage: Moving '../../../../../../Users/UOSMSc/Desktop/VRTools/VRGunToolKit/Saved/BP_VRrGunHands5C0EFC064803E0B43AF5E9B899CF9D32.tmp' to '../../../../../../Users/UOSMSc/Desktop/VRTools/VRGunToolKit/Content/VRGunToolkit/Blueprints/Character/BP_VRrGunHands.uasset'
+[2018.02.02-13.15.12:047][217]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/UOSMSc/Desktop/VRTools/VRGunToolKit/Content/VRGunToolkit/Blueprints/Character/BP_VRrGunHands.uasset
+[2018.02.02-13.15.12:050][217]Cmd: MAP LOAD FILE="../../../../../../Users/UOSMSc/Desktop/VRTools/VRGunToolKit/Content/VRGunToolkit/Maps/ShootingRange.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.02.02-13.15.12:050][217]LightingResults: New page: Lighting Build
+[2018.02.02-13.15.12:053][217]LoadErrors: New page: Loading map: ShootingRange.umap
+[2018.02.02-13.15.12:054][217]MapCheck: New page: Map Check
+[2018.02.02-13.15.12:054][217]LightingResults: New page: Lighting Build
+[2018.02.02-13.15.12:236][217]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Shotgun_C /Game/VRGunToolkit/Maps/ShootingRange.ShootingRange:PersistentLevel.BP_Shotgun_2127
+	Function /Game/VRGunToolkit/Blueprints/BP_VRRealisticGun_Base.BP_VRRealisticGun_Base_C:UserConstructionScript:053F
+[2018.02.02-13.15.12:265][217]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Shotgun_C /Game/VRGunToolkit/Maps/ShootingRange.ShootingRange:PersistentLevel.BP_Shotgun2
+	Function /Game/VRGunToolkit/Blueprints/BP_VRRealisticGun_Base.BP_VRRealisticGun_Base_C:UserConstructionScript:053F
+[2018.02.02-13.15.12:284][217]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_AK47_C /Game/VRGunToolkit/Maps/ShootingRange.ShootingRange:PersistentLevel.BP_AK47_2858
+	Function /Game/VRGunToolkit/Blueprints/BP_VRRealisticGun_Base.BP_VRRealisticGun_Base_C:UserConstructionScript:053F
+[2018.02.02-13.15.12:292][217]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_AK47_C /Game/VRGunToolkit/Maps/ShootingRange.ShootingRange:PersistentLevel.BP_AK48
+	Function /Game/VRGunToolkit/Blueprints/BP_VRRealisticGun_Base.BP_VRRealisticGun_Base_C:UserConstructionScript:053F
+[2018.02.02-13.15.12:299][217]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Colt1911_C /Game/VRGunToolkit/Maps/ShootingRange.ShootingRange:PersistentLevel.BP_Colt1911_2035
+	Function /Game/VRGunToolkit/Blueprints/BP_VRRealisticGun_Base.BP_VRRealisticGun_Base_C:UserConstructionScript:053F
+[2018.02.02-13.15.12:306][217]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Colt1911_C /Game/VRGunToolkit/Maps/ShootingRange.ShootingRange:PersistentLevel.BP_Colt1912
+	Function /Game/VRGunToolkit/Blueprints/BP_VRRealisticGun_Base.BP_VRRealisticGun_Base_C:UserConstructionScript:053F
+[2018.02.02-13.15.12:312][217]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Colt1911_C /Game/VRGunToolkit/Maps/ShootingRange.ShootingRange:PersistentLevel.BP_Colt1913
+	Function /Game/VRGunToolkit/Blueprints/BP_VRRealisticGun_Base.BP_VRRealisticGun_Base_C:UserConstructionScript:053F
+[2018.02.02-13.15.12:318][217]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Sniper_C /Game/VRGunToolkit/Maps/ShootingRange.ShootingRange:PersistentLevel.BP_Sniper_2394
+	Function /Game/VRGunToolkit/Blueprints/BP_VRRealisticGun_Base.BP_VRRealisticGun_Base_C:UserConstructionScript:053F
+[2018.02.02-13.15.12:344][217]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.02.02-13.15.12:411][217]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.02.02-13.15.12:507][217]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 95.043ms to complete.
+[2018.02.02-13.15.12:507][217]LogFileHelpers: Loading map 'ShootingRange' took 0.459
+[2018.02.02-13.15.12:581][219]LogRenderer: Reallocating scene render targets to support 2048x2048 Format 10 NumSamples 4 (Frame:1).
+[2018.02.02-13.15.37:274][816]LogLinker: Warning: Asset '../../../../../../Users/UOSMSc/Desktop/VRTools/VRGunToolKit/Content/VRGunToolkit/Blueprints/Tutorial/Blueprint/BP_00_Tutorial_Welcome.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.02.02-13.15.37:310][816]LogLinker: Warning: Asset '../../../../../../Users/UOSMSc/Desktop/VRTools/VRGunToolKit/Content/VRGunToolkit/Blueprints/Tutorial/Blueprint/BP_01_Tutorial_Grab-Drop.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.02.02-13.15.37:326][816]LogLinker: Warning: Asset '../../../../../../Users/UOSMSc/Desktop/VRTools/VRGunToolKit/Content/VRGunToolkit/Blueprints/Tutorial/Blueprint/Tutorial_Widget/W_02_Tutorial.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.02.02-13.15.37:338][816]LogLinker: Warning: Asset '../../../../../../Users/UOSMSc/Desktop/VRTools/VRGunToolKit/Content/VRGunToolkit/Blueprints/Tutorial/Blueprint/Tutorial_Widget/W_03_Tutorial.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.02.02-13.15.37:401][816]LogLinker: Warning: Asset '../../../../../../Users/UOSMSc/Desktop/VRTools/VRGunToolKit/Content/VRGunToolkit/Blueprints/Tutorial/Blueprint/Tutorial_Widget/W_06_Tutorial.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.02.02-13.15.37:428][816]LogLinker: Warning: Asset '../../../../../../Users/UOSMSc/Desktop/VRTools/VRGunToolKit/Content/VRGunToolkit/Blueprints/Tutorial/Blueprint/Tutorial_Widget/W_08_Tutorial.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.02.02-13.15.37:895][816]LogLinker: Warning: Asset '../../../../../../Users/UOSMSc/Desktop/VRTools/VRGunToolKit/Content/VRGunToolkit/Materials/Assets/M_Cactus.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.02.02-13.15.38:746][816]LogLinker: Warning: Asset '../../../../../../Users/UOSMSc/Desktop/VRTools/VRGunToolKit/Content/VRGunToolkit/Materials/Assets/M_PalmTree.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.02.02-13.15.39:107][816]LogLinker: Warning: Asset '../../../../../../Users/UOSMSc/Desktop/VRTools/VRGunToolKit/Content/VRGunToolkit/Meshes/Assets/SM_Table.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.02.02-13.15.39:700][816]LogTexture: Display: Building textures: T_OculusFaceButton2 (BGRA8, 710X729)
+[2018.02.02-13.15.47:427][816]LogTexture: Display: Building textures: T_Cliff_M (AutoDXT, 2048X2048)
+[2018.02.02-13.15.47:427][816]LogTexture: Display: Building textures: T_Cliff_N (BC5, 2048X2048)
+[2018.02.02-13.15.47:427][816]LogTexture: Display: Building textures: T_Light_Roughness (AutoDXT, 4096X4096)
+[2018.02.02-13.15.47:427][816]LogTexture: Display: Building textures: T_CraggyWall_Broken_D (AutoDXT, 2048X2048)
+[2018.02.02-13.15.47:427][816]LogTexture: Display: Building textures: T_RocksCliffs_N (BC5, 2048X2048)
+[2018.02.02-13.15.47:427][816]LogTexture: Display: Building textures: T_RocksCliffs_D (AutoDXT, 2048X2048)
+[2018.02.02-13.15.47:427][816]LogTexture: Display: Building textures: T_PalmTree_N (BC5, 2048X2048)
+[2018.02.02-13.15.47:427][816]LogTexture: Display: Building textures: T_BigNormal_N (BC5, 2048X2048)
+[2018.02.02-13.15.47:427][816]LogTexture: Display: Building textures: T_EFX_Beam_Electricity_02 (DXT1, 128X64)
+[2018.02.02-13.15.47:427][816]LogTexture: Display: Building textures: T_Caustics_2 (DXT1, 512X512)
+[2018.02.02-13.15.47:427][816]LogTexture: Display: Building textures: T_FX_ColorDistort (AutoDXT, 64X256)
+[2018.02.02-13.15.47:427][816]LogTexture: Display: Building textures: T_FX_CameraDistort (AutoDXT, 256X256)
+[2018.02.02-13.15.47:427][816]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2018.02.02-13.15.47:427][816]LogTexture: Display: Building textures: T_Light_thickness (AutoDXT, 4096X4096)
+[2018.02.02-13.15.47:427][816]LogTexture: Display: Building textures: T_CraggyWall_Stucco_N (BC5, 2048X2048)
+[2018.02.02-13.15.47:427][816]LogTexture: Display: Building textures: T_CraggyWall_S (AutoDXT, 2048X2048)
+[2018.02.02-13.15.47:427][816]LogTexture: Display: Building textures: T_CraggyWall_Broken_N (BC5, 2048X2048)
+[2018.02.02-13.15.47:470][816]LogTexture: Display: Building textures: T_OculusFaceButton (BGRA8, 710X729)
+[2018.02.02-13.15.47:470][816]LogTexture: Display: Building textures: T_Ammo_Box_Main (AutoDXT, 1024X1024)
+[2018.02.02-13.15.47:768][816]LogTexture: Display: Building textures: T_RockStairs_N (BC5, 2048X2048)
+[2018.02.02-13.15.47:768][816]LogTexture: Display: Building textures: T_Light_Emissive (AutoDXT, 2048X2048)
+[2018.02.02-13.15.47:775][816]LogMaterial: Missing cached shader map for material M_Ammo_Box_Main2, compiling. 
+[2018.02.02-13.15.47:817][816]LogStaticMesh: Building static mesh SM_Ammo_crate...
+[2018.02.02-13.15.48:305][816]LogStaticMesh: Built static mesh [0.49s] /Game/VRGunToolkit/Meshes/AmmoBox/SM_Ammo_crate.SM_Ammo_crate
+[2018.02.02-13.15.48:442][816]LogMaterial: Missing cached shader map for material M_Metal_Steel, compiling. 
+[2018.02.02-13.15.50:440][816]LogTexture: Display: Building textures: T_Light_Base_Decal (AutoDXT, 4096X4096)
+[2018.02.02-13.15.50:440][816]LogTexture: Display: Building textures: T_Light_ambient_occlusion (AutoDXT, 4096X4096)
+[2018.02.02-13.15.50:440][816]LogTexture: Display: Building textures: T_Light_Metallic (AutoDXT, 4096X4096)
+[2018.02.02-13.15.50:440][816]LogTexture: Display: Building textures: T_Light_Normal_OpenGL (BC5, 4096X4096)
+[2018.02.02-13.15.50:443][816]LogTexture: Display: Building textures: T_04 (BGRA8, 122X171)
+[2018.02.02-13.15.50:813][816]LogTexture: Display: Building textures: T_09 (BGRA8, 151X286)
+[2018.02.02-13.15.50:813][816]LogTexture: Display: Building textures: T_OculusTrigger (BGRA8, 292X263)
+[2018.02.02-13.15.50:813][816]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2018.02.02-13.15.50:813][816]LogTexture: Display: Building textures: T_Sand_N (BC5, 2048X2048)
+[2018.02.02-13.15.51:985][816]LogTexture: Display: Building textures: HQ_Lightmap0_14 (AutoDXT, 256X256)
+[2018.02.02-13.15.51:985][816]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2018.02.02-13.15.52:303][816]LogTexture: Display: Building textures: T_Sand_D (AutoDXT, 2048X2048)
+[2018.02.02-13.16.02:687][816]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 1024X1024)
+[2018.02.02-13.16.02:687][816]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 1024X1024)
+[2018.02.02-13.16.02:687][816]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 1024X1024)
+[2018.02.02-13.16.02:687][816]LogTexture: Display: Building textures: HQ_Lightmap1_10 (AutoDXT, 1024X1024)
+[2018.02.02-13.16.02:687][816]LogTexture: Display: Building textures: HQ_Lightmap1_11 (AutoDXT, 1024X1024)
+[2018.02.02-13.16.02:687][816]LogTexture: Display: Building textures: HQ_Lightmap1_12 (AutoDXT, 1024X1024)
+[2018.02.02-13.16.02:687][816]LogTexture: Display: Building textures: HQ_Lightmap1_13 (AutoDXT, 1024X1024)
+[2018.02.02-13.16.02:687][816]LogTexture: Display: Building textures: HQ_Lightmap1_15 (AutoDXT, 128X128)
+[2018.02.02-13.16.02:687][816]LogTexture: Display: Building textures: HQ_Lightmap1_16 (AutoDXT, 64X64)
+[2018.02.02-13.16.02:687][816]LogTexture: Display: Building textures: HQ_Lightmap1_7 (AutoDXT, 1024X1024)
+[2018.02.02-13.16.02:687][816]LogTexture: Display: Building textures: HQ_Lightmap1_6 (AutoDXT, 1024X1024)
+[2018.02.02-13.16.02:687][816]LogTexture: Display: Building textures: HQ_Lightmap1_8 (AutoDXT, 1024X1024)
+[2018.02.02-13.16.02:687][816]LogTexture: Display: Building textures: HQ_Lightmap1_9 (AutoDXT, 1024X1024)
+[2018.02.02-13.16.02:687][816]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2018.02.02-13.16.02:687][816]LogTexture: Display: Building textures: LQ_Lightmap_0_14 (DXT1, 256X256)
+[2018.02.02-13.16.02:687][816]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2018.02.02-13.16.02:687][816]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 1024X1024)
+[2018.02.02-13.16.02:687][816]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 1024X1024)
+[2018.02.02-13.16.02:687][816]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 1024X1024)
+[2018.02.02-13.16.02:687][816]LogTexture: Display: Building textures: LQ_Lightmap_1_10 (DXT1, 1024X1024)
+[2018.02.02-13.16.02:687][816]LogTexture: Display: Building textures: LQ_Lightmap_1_11 (DXT1, 1024X1024)
+[2018.02.02-13.16.02:687][816]LogTexture: Display: Building textures: LQ_Lightmap_1_12 (DXT1, 1024X1024)
+[2018.02.02-13.16.02:687][816]LogTexture: Display: Building textures: LQ_Lightmap_1_13 (DXT1, 1024X1024)
+[2018.02.02-13.16.02:687][816]LogTexture: Display: Building textures: LQ_Lightmap_1_15 (DXT1, 128X128)
+[2018.02.02-13.16.02:687][816]LogTexture: Display: Building textures: LQ_Lightmap_1_16 (DXT1, 64X64)
+[2018.02.02-13.16.02:687][816]LogTexture: Display: Building textures: LQ_Lightmap_1_6 (DXT1, 1024X1024)
+[2018.02.02-13.16.02:687][816]LogTexture: Display: Building textures: LQ_Lightmap_1_7 (DXT1, 1024X1024)
+[2018.02.02-13.16.02:687][816]LogTexture: Display: Building textures: LQ_Lightmap_1_8 (DXT1, 1024X1024)
+[2018.02.02-13.16.02:687][816]LogTexture: Display: Building textures: LQ_Lightmap_1_9 (DXT1, 1024X1024)
+[2018.02.02-13.16.02:687][816]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2018.02.02-13.16.02:687][816]LogTexture: Display: Building textures: SkyOcclusion0_14 (AutoDXT, 256X128)
+[2018.02.02-13.16.02:687][816]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 1024X512)
+[2018.02.02-13.16.02:687][816]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 1024X512)
+[2018.02.02-13.16.03:339][816]LogTexture: Display: Building textures: SkyOcclusion0_4 (AutoDXT, 1024X512)
+[2018.02.02-13.16.03:339][816]LogTexture: Display: Building textures: SkyOcclusion0_5 (AutoDXT, 1024X512)
+[2018.02.02-13.16.03:339][816]LogTexture: Display: Building textures: T_Sand_M (AutoDXT, 2048X2048)
+[2018.02.02-13.16.14:329][816]LogTexture: Display: Building textures: SkyOcclusion1_10 (AutoDXT, 1024X512)
+[2018.02.02-13.16.14:329][816]LogTexture: Display: Building textures: SkyOcclusion1_11 (AutoDXT, 1024X512)
+[2018.02.02-13.16.14:329][816]LogTexture: Display: Building textures: SkyOcclusion1_12 (AutoDXT, 1024X512)
+[2018.02.02-13.16.14:329][816]LogTexture: Display: Building textures: SkyOcclusion1_13 (AutoDXT, 1024X512)
+[2018.02.02-13.16.14:329][816]LogTexture: Display: Building textures: SkyOcclusion1_15 (AutoDXT, 128X64)
+[2018.02.02-13.16.14:329][816]LogTexture: Display: Building textures: SkyOcclusion1_16 (AutoDXT, 64X32)
+[2018.02.02-13.16.14:329][816]LogTexture: Display: Building textures: SkyOcclusion1_6 (AutoDXT, 1024X512)
+[2018.02.02-13.16.14:330][816]LogTexture: Display: Building textures: SkyOcclusion1_7 (AutoDXT, 1024X512)
+[2018.02.02-13.16.14:330][816]LogTexture: Display: Building textures: SkyOcclusion1_8 (AutoDXT, 1024X512)
+[2018.02.02-13.16.14:330][816]LogTexture: Display: Building textures: SkyOcclusion1_9 (AutoDXT, 1024X512)
+[2018.02.02-13.16.14:330][816]LogTexture: Display: Building textures: ShadowMapTexture2D_12 (G8, 2048X1024)
+[2018.02.02-13.16.14:330][816]LogTexture: Display: Building textures: ShadowMapTexture2D_13 (G8, 2048X1024)
+[2018.02.02-13.16.14:330][816]LogTexture: Display: Building textures: ShadowMapTexture2D_14 (G8, 1024X512)
+[2018.02.02-13.16.14:330][816]LogTexture: Display: Building textures: ShadowMapTexture2D_15 (G8, 2048X1024)
+[2018.02.02-13.16.14:330][816]LogTexture: Display: Building textures: ShadowMapTexture2D_16 (G8, 1024X512)
+[2018.02.02-13.16.14:330][816]LogTexture: Display: Building textures: ShadowMapTexture2D_17 (G8, 2048X1024)
+[2018.02.02-13.16.14:330][816]LogTexture: Display: Building textures: ShadowMapTexture2D_18 (G8, 1024X512)
+[2018.02.02-13.16.14:330][816]LogTexture: Display: Building textures: ShadowMapTexture2D_19 (G8, 512X256)
+[2018.02.02-13.16.14:330][816]LogTexture: Display: Building textures: ShadowMapTexture2D_20 (G8, 64X32)
+[2018.02.02-13.16.14:330][816]LogTexture: Display: Building textures: T_Side_Oculus (BGRA8, 315X317)
+[2018.02.02-13.16.14:330][816]LogTexture: Display: Building textures: T_10 (BGRA8, 201X345)
+[2018.02.02-13.16.14:330][816]LogTexture: Display: Building textures: T_05 (BGRA8, 353X194)
+[2018.02.02-13.16.14:330][816]LogTexture: Display: Building textures: T_02 (AutoDXT, 124X212)
+[2018.02.02-13.16.14:330][816]LogTexture: Display: Building textures: T_01 (AutoDXT, 124X212)
+[2018.02.02-13.16.14:330][816]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2018.02.02-13.16.14:330][816]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 8X8)
+[2018.02.02-13.16.14:330][816]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 8X8)
+[2018.02.02-13.16.14:330][816]LogTexture: Display: Building textures: Texture2D_100 (BGRA8, 8X8)
+[2018.02.02-13.16.14:330][816]LogTexture: Display: Building textures: Texture2D_101 (BGRA8, 8X8)
+[2018.02.02-13.16.14:330][816]LogTexture: Display: Building textures: Texture2D_102 (BGRA8, 8X8)
+[2018.02.02-13.16.14:330][816]LogTexture: Display: Building textures: Texture2D_103 (BGRA8, 8X8)
+[2018.02.02-13.16.14:330][816]LogTexture: Display: Building textures: Texture2D_105 (BGRA8, 8X8)
+[2018.02.02-13.16.14:330][816]LogTexture: Display: Building textures: Texture2D_106 (BGRA8, 8X8)
+[2018.02.02-13.16.14:330][816]LogTexture: Display: Building textures: Texture2D_107 (BGRA8, 8X8)
+[2018.02.02-13.16.14:330][816]LogTexture: Display: Building textures: Texture2D_108 (BGRA8, 8X8)
+[2018.02.02-13.16.14:330][816]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 8X8)
+[2018.02.02-13.16.14:330][816]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 8X8)
+[2018.02.02-13.16.14:330][816]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 8X8)
+[2018.02.02-13.16.14:330][816]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 8X8)
+[2018.02.02-13.16.14:330][816]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 8X8)
+[2018.02.02-13.16.14:330][816]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 8X8)
+[2018.02.02-13.16.14:330][816]LogTexture: Display: Building textures: Texture2D_17 (BGRA8, 8X8)
+[2018.02.02-13.16.14:330][816]LogTexture: Display: Building textures: Texture2D_18 (BGRA8, 8X8)
+[2018.02.02-13.16.14:330][816]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 8X8)
+[2018.02.02-13.16.14:330][816]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 8X8)
+[2018.02.02-13.16.14:330][816]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 8X8)
+[2018.02.02-13.16.14:330][816]LogTexture: Display: Building textures: Texture2D_21 (BGRA8, 8X8)
+[2018.02.02-13.16.14:330][816]LogTexture: Display: Building textures: Texture2D_22 (BGRA8, 8X8)
+[2018.02.02-13.16.14:330][816]LogTexture: Display: Building textures: Texture2D_23 (BGRA8, 8X8)
+[2018.02.02-13.16.14:330][816]LogTexture: Display: Building textures: Texture2D_24 (BGRA8, 8X8)
+[2018.02.02-13.16.14:330][816]LogTexture: Display: Building textures: Texture2D_25 (BGRA8, 8X8)
+[2018.02.02-13.16.14:330][816]LogTexture: Display: Building textures: Texture2D_26 (BGRA8, 8X8)
+[2018.02.02-13.16.14:330][816]LogTexture: Display: Building textures: Texture2D_27 (BGRA8, 8X8)
+[2018.02.02-13.16.14:330][816]LogTexture: Display: Building textures: Texture2D_28 (BGRA8, 8X8)
+[2018.02.02-13.16.14:330][816]LogTexture: Display: Building textures: Texture2D_29 (BGRA8, 8X8)
+[2018.02.02-13.16.14:330][816]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 8X8)
+[2018.02.02-13.16.14:330][816]LogTexture: Display: Building textures: Texture2D_30 (BGRA8, 8X8)
+[2018.02.02-13.16.14:330][816]LogTexture: Display: Building textures: Texture2D_31 (BGRA8, 8X8)
+[2018.02.02-13.16.14:330][816]LogTexture: Display: Building textures: Texture2D_32 (BGRA8, 8X8)
+[2018.02.02-13.16.14:330][816]LogTexture: Display: Building textures: Texture2D_33 (BGRA8, 8X8)
+[2018.02.02-13.16.14:331][816]LogTexture: Display: Building textures: Texture2D_34 (BGRA8, 8X8)
+[2018.02.02-13.16.14:331][816]LogTexture: Display: Building textures: Texture2D_35 (BGRA8, 8X8)
+[2018.02.02-13.16.14:331][816]LogTexture: Display: Building textures: Texture2D_36 (BGRA8, 8X8)
+[2018.02.02-13.16.14:331][816]LogTexture: Display: Building textures: Texture2D_37 (BGRA8, 8X8)
+[2018.02.02-13.16.14:331][816]LogTexture: Display: Building textures: Texture2D_38 (BGRA8, 8X8)
+[2018.02.02-13.16.14:331][816]LogTexture: Display: Building textures: Texture2D_39 (BGRA8, 8X8)
+[2018.02.02-13.16.14:331][816]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 8X8)
+[2018.02.02-13.16.14:331][816]LogTexture: Display: Building textures: Texture2D_40 (BGRA8, 8X8)
+[2018.02.02-13.16.14:331][816]LogTexture: Display: Building textures: Texture2D_41 (BGRA8, 8X8)
+[2018.02.02-13.16.14:331][816]LogTexture: Display: Building textures: Texture2D_42 (BGRA8, 8X8)
+[2018.02.02-13.16.14:331][816]LogTexture: Display: Building textures: Texture2D_43 (BGRA8, 8X8)
+[2018.02.02-13.16.14:331][816]LogTexture: Display: Building textures: Texture2D_44 (BGRA8, 8X8)
+[2018.02.02-13.16.14:331][816]LogTexture: Display: Building textures: Texture2D_45 (BGRA8, 8X8)
+[2018.02.02-13.16.14:331][816]LogTexture: Display: Building textures: Texture2D_46 (BGRA8, 8X8)
+[2018.02.02-13.16.14:331][816]LogTexture: Display: Building textures: Texture2D_47 (BGRA8, 8X8)
+[2018.02.02-13.16.14:331][816]LogTexture: Display: Building textures: Texture2D_48 (BGRA8, 8X8)
+[2018.02.02-13.16.14:331][816]LogTexture: Display: Building textures: Texture2D_49 (BGRA8, 8X8)
+[2018.02.02-13.16.14:331][816]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 8X8)
+[2018.02.02-13.16.14:331][816]LogTexture: Display: Building textures: Texture2D_50 (BGRA8, 8X8)
+[2018.02.02-13.16.14:331][816]LogTexture: Display: Building textures: Texture2D_51 (BGRA8, 8X8)
+[2018.02.02-13.16.14:331][816]LogTexture: Display: Building textures: Texture2D_52 (BGRA8, 8X8)
+[2018.02.02-13.16.14:331][816]LogTexture: Display: Building textures: Texture2D_53 (BGRA8, 8X8)
+[2018.02.02-13.16.14:331][816]LogTexture: Display: Building textures: Texture2D_54 (BGRA8, 8X8)
+[2018.02.02-13.16.14:331][816]LogTexture: Display: Building textures: Texture2D_55 (BGRA8, 8X8)
+[2018.02.02-13.16.14:331][816]LogTexture: Display: Building textures: Texture2D_56 (BGRA8, 8X8)
+[2018.02.02-13.16.14:331][816]LogTexture: Display: Building textures: Texture2D_57 (BGRA8, 8X8)
+[2018.02.02-13.16.14:331][816]LogTexture: Display: Building textures: Texture2D_58 (BGRA8, 8X8)
+[2018.02.02-13.16.14:331][816]LogTexture: Display: Building textures: Texture2D_59 (BGRA8, 8X8)
+[2018.02.02-13.16.14:331][816]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 8X8)
+[2018.02.02-13.16.14:331][816]LogTexture: Display: Building textures: Texture2D_60 (BGRA8, 8X8)
+[2018.02.02-13.16.14:331][816]LogTexture: Display: Building textures: Texture2D_61 (BGRA8, 8X8)
+[2018.02.02-13.16.14:331][816]LogTexture: Display: Building textures: Texture2D_62 (BGRA8, 8X8)
+[2018.02.02-13.16.14:331][816]LogTexture: Display: Building textures: Texture2D_63 (BGRA8, 8X8)
+[2018.02.02-13.16.14:331][816]LogTexture: Display: Building textures: Texture2D_64 (BGRA8, 8X8)
+[2018.02.02-13.16.14:331][816]LogTexture: Display: Building textures: Texture2D_65 (BGRA8, 8X8)
+[2018.02.02-13.16.14:331][816]LogTexture: Display: Building textures: Texture2D_66 (BGRA8, 8X8)
+[2018.02.02-13.16.14:331][816]LogTexture: Display: Building textures: Texture2D_67 (BGRA8, 8X8)
+[2018.02.02-13.16.14:331][816]LogTexture: Display: Building textures: Texture2D_68 (BGRA8, 8X8)
+[2018.02.02-13.16.14:331][816]LogTexture: Display: Building textures: Texture2D_69 (BGRA8, 8X8)
+[2018.02.02-13.16.14:331][816]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 8X8)
+[2018.02.02-13.16.14:331][816]LogTexture: Display: Building textures: Texture2D_70 (BGRA8, 8X8)
+[2018.02.02-13.16.14:331][816]LogTexture: Display: Building textures: Texture2D_71 (BGRA8, 8X8)
+[2018.02.02-13.16.14:331][816]LogTexture: Display: Building textures: Texture2D_72 (BGRA8, 8X8)
+[2018.02.02-13.16.14:331][816]LogTexture: Display: Building textures: Texture2D_73 (BGRA8, 8X8)
+[2018.02.02-13.16.14:331][816]LogTexture: Display: Building textures: Texture2D_74 (BGRA8, 8X8)
+[2018.02.02-13.16.14:331][816]LogTexture: Display: Building textures: Texture2D_75 (BGRA8, 8X8)
+[2018.02.02-13.16.14:331][816]LogTexture: Display: Building textures: Texture2D_76 (BGRA8, 8X8)
+[2018.02.02-13.16.14:331][816]LogTexture: Display: Building textures: Texture2D_77 (BGRA8, 8X8)
+[2018.02.02-13.16.14:331][816]LogTexture: Display: Building textures: Texture2D_78 (BGRA8, 8X8)
+[2018.02.02-13.16.14:331][816]LogTexture: Display: Building textures: Texture2D_79 (BGRA8, 8X8)
+[2018.02.02-13.16.14:331][816]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 8X8)
+[2018.02.02-13.16.14:331][816]LogTexture: Display: Building textures: Texture2D_80 (BGRA8, 8X8)
+[2018.02.02-13.16.14:331][816]LogTexture: Display: Building textures: Texture2D_81 (BGRA8, 8X8)
+[2018.02.02-13.16.14:331][816]LogTexture: Display: Building textures: Texture2D_82 (BGRA8, 8X8)
+[2018.02.02-13.16.14:331][816]LogTexture: Display: Building textures: Texture2D_83 (BGRA8, 8X8)
+[2018.02.02-13.16.14:331][816]LogTexture: Display: Building textures: Texture2D_84 (BGRA8, 8X8)
+[2018.02.02-13.16.14:331][816]LogTexture: Display: Building textures: Texture2D_85 (BGRA8, 8X8)
+[2018.02.02-13.16.14:331][816]LogTexture: Display: Building textures: Texture2D_86 (BGRA8, 8X8)
+[2018.02.02-13.16.14:332][816]LogTexture: Display: Building textures: Texture2D_87 (BGRA8, 8X8)
+[2018.02.02-13.16.14:332][816]LogTexture: Display: Building textures: Texture2D_88 (BGRA8, 8X8)
+[2018.02.02-13.16.14:332][816]LogTexture: Display: Building textures: Texture2D_89 (BGRA8, 8X8)
+[2018.02.02-13.16.14:332][816]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 8X8)
+[2018.02.02-13.16.14:332][816]LogTexture: Display: Building textures: Texture2D_90 (BGRA8, 8X8)
+[2018.02.02-13.16.14:332][816]LogTexture: Display: Building textures: Texture2D_91 (BGRA8, 8X8)
+[2018.02.02-13.16.14:332][816]LogTexture: Display: Building textures: Texture2D_92 (BGRA8, 8X8)
+[2018.02.02-13.16.14:332][816]LogTexture: Display: Building textures: Texture2D_93 (BGRA8, 8X8)
+[2018.02.02-13.16.14:332][816]LogTexture: Display: Building textures: Texture2D_94 (BGRA8, 8X8)
+[2018.02.02-13.16.14:332][816]LogTexture: Display: Building textures: Texture2D_95 (BGRA8, 8X8)
+[2018.02.02-13.16.14:332][816]LogTexture: Display: Building textures: Texture2D_96 (BGRA8, 8X8)
+[2018.02.02-13.16.14:332][816]LogTexture: Display: Building textures: Texture2D_97 (BGRA8, 8X8)
+[2018.02.02-13.16.14:332][816]LogTexture: Display: Building textures: Texture2D_98 (BGRA8, 8X8)
+[2018.02.02-13.16.14:332][816]LogTexture: Display: Building textures: Texture2D_99 (BGRA8, 8X8)
+[2018.02.02-13.16.14:332][816]LogTexture: Display: Building textures: T_00 (BGRA8, 78X29)
+[2018.02.02-13.16.14:332][816]LogTexture: Display: Building textures: T_Water_01_N (BC5, 2048X2048)
+[2018.02.02-13.16.14:332][816]LogTexture: Display: Building textures: T_03 (BGRA8, 318X198)
+[2018.02.02-13.16.14:332][816]LogTexture: Display: Building textures: T_WoodRough_N (BC5, 2048X2048)
+[2018.02.02-13.16.14:332][816]LogTexture: Display: Building textures: T_OculusTop (BGRA8, 710X729)
+[2018.02.02-13.16.14:332][816]LogTexture: Display: Building textures: T_Sky_Non_HDRI (AutoDXT, 2048X2048)
+[2018.02.02-13.16.14:332][816]LogTexture: Display: Building textures: T_WoodRough_D (AutoDXT, 2048X2048)
+[2018.02.02-13.16.14:332][816]LogTexture: Display: Building textures: T_SandDunes_N (BC5, 2048X2048)
+[2018.02.02-13.16.14:332][816]LogTexture: Display: Building textures: T_TilingRocks_N (BC5, 2048X2048)
+[2018.02.02-13.16.14:332][816]LogTexture: Display: Building textures: T_TilingRocks_M (AutoDXT, 2048X2048)
+[2018.02.02-13.16.14:332][816]LogTexture: Display: Building textures: T_Rock_N (BC5, 2048X2048)
+[2018.02.02-13.16.14:332][816]LogTexture: Display: Building textures: T_Rock_D (AutoDXT, 2048X2048)
+[2018.02.02-13.16.14:332][816]LogTexture: Display: Building textures: T_Pebbles_D (AutoDXT, 2048X2048)
+[2018.02.02-13.16.14:332][816]LogTexture: Display: Building textures: T_COG_Base_Dirt_N (BC5, 2048X2048)
+[2018.02.02-13.16.14:332][816]LogTexture: Display: Building textures: T_Water_Ripple_Directional_Noise (BC5, 128X128)
+[2018.02.02-13.16.14:332][816]LogTexture: Display: Building textures: T_Foam_D (AutoDXT, 1024X1024)
+[2018.02.02-13.16.20:003][816]LogTexture: Display: Building textures: T_AncientWoddenBeam_N (BC5, 2048X2048)
+[2018.02.02-13.16.20:003][816]LogTexture: Display: Building textures: T_AncientWoddenBeam_M (AutoDXT, 2048X2048)
+[2018.02.02-13.16.20:003][816]LogTexture: Display: Building textures: T_AncientHouseSupport_N (BC5, 2048X2048)
+[2018.02.02-13.16.20:003][816]LogTexture: Display: Building textures: T_AncientHouseSupport_M (AutoDXT, 2048X2048)
+[2018.02.02-13.16.20:003][816]LogTexture: Display: Building textures: T_AncientHouseDoors_N (BC5, 2048X2048)
+[2018.02.02-13.16.20:003][816]LogTexture: Display: Building textures: T_AncientHouseDoors_M (AutoDXT, 2048X2048)
+[2018.02.02-13.16.20:003][816]LogTexture: Display: Building textures: T_Sand_N2 (BC5, 2048X2048)
+[2018.02.02-13.16.20:003][816]LogTexture: Display: Building textures: T_MudWall_N (BC5, 2048X2048)
+[2018.02.02-13.16.20:003][816]LogTexture: Display: Building textures: T_MudWall_D (AutoDXT, 2048X2048)
+[2018.02.02-13.16.20:003][816]LogMaterial: Missing cached shader map for material M_Landscape_SandRock, compiling. 
+[2018.02.02-13.16.20:110][816]LogMaterial: Missing cached shader map for material M_Tiling_Wood, compiling. 
+[2018.02.02-13.16.20:161][816]LogMovieScene: Warning: Legacy data detected in sequence '/Game/VRGunToolkit/Blueprints/Tutorial/Blueprint/Tutorial_Widget/Oculus_Tutorial/W_06_Tutorial_OCULUS (Unknown sequence)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.02.02-13.16.20:161][816]LogMovieScene: Warning: Legacy data detected in sequence '/Game/VRGunToolkit/Blueprints/Tutorial/Blueprint/Tutorial_Widget/Oculus_Tutorial/W_06_Tutorial_OCULUS (Slide)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.02.02-13.16.20:161][816]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (Unknown sequence)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.02.02-13.16.20:161][816]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (Slide_INST)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.02.02-13.16.20:161][816]LogMovieScene: Warning: Legacy data detected in sequence '/Game/VRGunToolkit/Blueprints/Tutorial/Blueprint/Tutorial_Widget/Oculus_Tutorial/W_06_Tutorial_OCULUS (Slide)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.02.02-13.16.20:161][816]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (Slide_INST)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.02.02-13.16.20:161][816]LogMovieScene: Warning: Legacy data detected in sequence '/Game/VRGunToolkit/Blueprints/Tutorial/Blueprint/Tutorial_Widget/Oculus_Tutorial/W_06_Tutorial_OCULUS (Slide)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.02.02-13.16.20:161][816]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (Slide_INST)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.02.02-13.16.20:161][816]LogMovieScene: Warning: Legacy data detected in sequence '/Game/VRGunToolkit/Blueprints/Tutorial/Blueprint/Tutorial_Widget/Oculus_Tutorial/W_06_Tutorial_OCULUS (Slide)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.02.02-13.16.20:161][816]LogMovieScene: Warning: Legacy data detected in sequence '/Game/VRGunToolkit/Blueprints/Tutorial/Blueprint/Tutorial_Widget/Oculus_Tutorial/W_06_Tutorial_OCULUS (Slide)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.02.02-13.16.20:161][816]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (Slide_INST)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.02.02-13.16.20:161][816]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (Slide_INST)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.02.02-13.16.20:161][816]LogMovieScene: Warning: Legacy data detected in sequence '/Game/VRGunToolkit/Blueprints/Tutorial/Blueprint/Tutorial_Widget/Oculus_Tutorial/W_06_Tutorial_OCULUS (Slide)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.02.02-13.16.20:161][816]LogMovieScene: Warning: Legacy data detected in sequence '/Game/VRGunToolkit/Blueprints/Tutorial/Blueprint/Tutorial_Widget/Oculus_Tutorial/W_06_Tutorial_OCULUS (Slide)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.02.02-13.16.20:161][816]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (Slide_INST)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.02.02-13.16.20:161][816]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (Slide_INST)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.02.02-13.16.20:166][816]LogMaterial: Missing cached shader map for material M_Cliffs, compiling. 
+[2018.02.02-13.16.20:217][816]LogTexture: Display: Building textures: T_House1_Walls_N (BC5, 2048X2048)
+[2018.02.02-13.16.20:217][816]LogMaterial: Missing cached shader map for material M_Cliffs, compiling. 
+[2018.02.02-13.16.20:270][816]LogStaticMesh: Building static mesh SM_RockGravel...
+[2018.02.02-13.16.20:284][816]LogStaticMesh: Built static mesh [0.01s] /Game/VRGunToolkit/Meshes/Assets/SM_RockGravel.SM_RockGravel
+[2018.02.02-13.16.20:291][816]LogMaterial: Missing cached shader map for material M_WP_ShockRifle_Panning_Beam, compiling. 
+[2018.02.02-13.16.20:438][816]LogTexture: Display: Building textures: T_House1_Walls_M (AutoDXT, 2048X2048)
+[2018.02.02-13.16.20:438][816]LogMaterial: Missing cached shader map for material M_Light, compiling. 
+[2018.02.02-13.16.20:484][816]LogStaticMesh: Building static mesh SM_Futuristic_Gun_Trigger...
+[2018.02.02-13.16.20:488][816]LogStaticMesh: Built static mesh [0.00s] /Game/VRGunToolkit/Meshes/Weapons/Futuristic/SM_Futuristic_Gun_Trigger.SM_Futuristic_Gun_Trigger
+[2018.02.02-13.16.20:489][816]LogStaticMesh: Building static mesh SM_Futuristic_Gun_Frame...
+[2018.02.02-13.16.20:565][816]LogStaticMesh: Built static mesh [0.08s] /Game/VRGunToolkit/Meshes/Weapons/Futuristic/SM_Futuristic_Gun_Frame.SM_Futuristic_Gun_Frame
+[2018.02.02-13.16.20:575][816]LogMaterial: Missing cached shader map for material M_WP_Linkgun_Connection, compiling. 
+[2018.02.02-13.16.20:612][816]LogMaterial: Missing cached shader map for material ProjectileMaterial, compiling. 
+[2018.02.02-13.16.20:652][816]LogStaticMesh: Building static mesh SM_WoddenBeam2...
+[2018.02.02-13.16.20:657][816]LogStaticMesh: Built static mesh [0.00s] /Game/VRGunToolkit/Meshes/Assets/SM_WoddenBeam2.SM_WoddenBeam2
+[2018.02.02-13.16.20:662][816]LogMaterial: Missing cached shader map for material M_Ruins_Master, compiling. 
+[2018.02.02-13.16.20:713][816]LogStaticMesh: Building static mesh SM_Throne_Interior_Wall_BrokenPiece_04...
+[2018.02.02-13.16.20:718][816]LogStaticMesh: Built static mesh [0.01s] /Game/VRGunToolkit/Meshes/Assets/SM_Throne_Interior_Wall_BrokenPiece_04.SM_Throne_Interior_Wall_BrokenPiece_04
+[2018.02.02-13.16.20:719][816]LogStaticMesh: Building static mesh SM_Table...
+[2018.02.02-13.16.27:894][816]LogTexture: Display: Building textures: T_AncientBricks_M (DXT1, 2048X2048)
+[2018.02.02-13.16.27:894][816]LogTexture: Display: Building textures: T_PalmTree_M (AutoDXT, 2048X2048)
+[2018.02.02-13.16.27:894][816]LogTexture: Display: Building textures: N_AncientBricks_N (BC5, 2048X2048)
+[2018.02.02-13.16.27:894][816]LogTexture: Display: Building textures: T_PalmTree_D (AutoDXT, 2048X2048)
+[2018.02.02-13.16.27:894][816]LogTexture: Display: Building textures: T_Wood1 (BGRA8, 2240X1587)
+[2018.02.02-13.16.27:894][816]LogTexture: Display: Building textures: T_Flag_N2 (BC5, 1024X1024)
+[2018.02.02-13.16.27:894][816]LogTexture: Display: Building textures: T_Wood2 (BGRA8, 3000X2509)
+[2018.02.02-13.16.27:894][816]LogTexture: Display: Building textures: T_Flag_N (BC5, 1024X1024)
+[2018.02.02-13.16.27:894][816]LogTexture: Display: Building textures: T_Flag_M (DXT1, 1024X1024)
+[2018.02.02-13.16.27:894][816]LogTexture: Display: Building textures: T_Clothpieces_M (AutoDXT, 2048X2048)
+[2018.02.02-13.16.27:894][816]LogTexture: Display: Building textures: T_Cactus_N (BC5, 2048X2048)
+[2018.02.02-13.16.27:894][816]LogStaticMesh: Built static mesh [7.17s] /Game/VRGunToolkit/Meshes/Assets/SM_Table.SM_Table
+[2018.02.02-13.16.27:977][816]LogStaticMesh: Building static mesh SM_Rockstairs...
+[2018.02.02-13.16.27:990][816]LogStaticMesh: Built static mesh [0.01s] /Game/VRGunToolkit/Meshes/Assets/SM_Rockstairs.SM_Rockstairs
+[2018.02.02-13.16.27:994][816]LogStaticMesh: Building static mesh SM_House1_Wood...
+[2018.02.02-13.16.31:872][816]LogTexture: Display: Building textures: T_Cactus_D (AutoDXT, 2048X2048)
+[2018.02.02-13.16.31:872][816]LogTexture: Display: Building textures: T_Ammo_Box_Text (AutoDXT, 1332X720)
+[2018.02.02-13.16.31:872][816]LogTexture: Display: Building textures: T_Ammo_Box_Metal (AutoDXT, 1024X1024)
+[2018.02.02-13.16.31:872][816]LogTexture: Display: Building textures: T_Ammo (AutoDXT, 1024X1024)
+[2018.02.02-13.16.31:872][816]LogStaticMesh: Built static mesh [3.88s] /Game/VRGunToolkit/Meshes/Assets/SM_House1_Wood.SM_House1_Wood
+[2018.02.02-13.16.32:044][816]LogMaterial: Missing cached shader map for material M_Light_ambient_occlusion_Mat, compiling. 
+[2018.02.02-13.16.32:187][816]LogStaticMesh: Building static mesh SM_FuturisticBulletMesh...
+[2018.02.02-13.16.32:208][816]LogStaticMesh: Built static mesh [0.02s] /Game/VRGunToolkit/Meshes/Weapons/Futuristic/SM_FuturisticBulletMesh.SM_FuturisticBulletMesh
+[2018.02.02-13.16.32:223][816]LogStaticMesh: Building static mesh SM_FloorTarget...
+[2018.02.02-13.16.32:230][816]LogStaticMesh: Built static mesh [0.01s] /Game/VRGunToolkit/Meshes/Assets/SM_FloorTarget.SM_FloorTarget
+[2018.02.02-13.16.32:239][816]LogMaterial: Missing cached shader map for material M_Image_Sky, compiling. 
+[2018.02.02-13.16.32:381][816]LogMovieScene: Warning: Legacy data detected in sequence '/Game/VRGunToolkit/Blueprints/Tutorial/Blueprint/Tutorial_Widget/W_03_Tutorial (Unknown sequence)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.02.02-13.16.32:381][816]LogMovieScene: Warning: Legacy data detected in sequence '/Game/VRGunToolkit/Blueprints/Tutorial/Blueprint/Tutorial_Widget/W_03_Tutorial (PullBack)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.02.02-13.16.32:381][816]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (Unknown sequence)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.02.02-13.16.32:381][816]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (PullBack_INST)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.02.02-13.16.32:381][816]LogMovieScene: Warning: Legacy data detected in sequence '/Game/VRGunToolkit/Blueprints/Tutorial/Blueprint/Tutorial_Widget/W_03_Tutorial (PullBack)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.02.02-13.16.32:381][816]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (PullBack_INST)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.02.02-13.16.32:381][816]LogMovieScene: Warning: Legacy data detected in sequence '/Game/VRGunToolkit/Blueprints/Tutorial/Blueprint/Tutorial_Widget/W_03_Tutorial (PullBack)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.02.02-13.16.32:381][816]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (PullBack_INST)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.02.02-13.16.32:381][816]LogMovieScene: Warning: Legacy data detected in sequence '/Game/VRGunToolkit/Blueprints/Tutorial/Blueprint/Tutorial_Widget/W_03_Tutorial (PullBack)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.02.02-13.16.32:381][816]LogMovieScene: Warning: Legacy data detected in sequence '/Game/VRGunToolkit/Blueprints/Tutorial/Blueprint/Tutorial_Widget/W_03_Tutorial (PullBack)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.02.02-13.16.32:382][816]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (PullBack_INST)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.02.02-13.16.32:382][816]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (PullBack_INST)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.02.02-13.16.32:382][816]LogMovieScene: Warning: Legacy data detected in sequence '/Game/VRGunToolkit/Blueprints/Tutorial/Blueprint/Tutorial_Widget/W_03_Tutorial (PullBack)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.02.02-13.16.32:382][816]LogMovieScene: Warning: Legacy data detected in sequence '/Game/VRGunToolkit/Blueprints/Tutorial/Blueprint/Tutorial_Widget/W_03_Tutorial (PullBack)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.02.02-13.16.32:382][816]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (PullBack_INST)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.02.02-13.16.32:382][816]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (PullBack_INST)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.02.02-13.16.32:388][816]LogMovieScene: Warning: Legacy data detected in sequence '/Game/VRGunToolkit/Blueprints/Tutorial/Blueprint/Tutorial_Widget/W_06_Tutorial (Unknown sequence)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.02.02-13.16.32:388][816]LogMovieScene: Warning: Legacy data detected in sequence '/Game/VRGunToolkit/Blueprints/Tutorial/Blueprint/Tutorial_Widget/W_06_Tutorial (Slide)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.02.02-13.16.32:388][816]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (Unknown sequence)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.02.02-13.16.32:388][816]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (WidgetAnimation_1)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.02.02-13.16.32:388][816]LogMovieScene: Warning: Legacy data detected in sequence '/Game/VRGunToolkit/Blueprints/Tutorial/Blueprint/Tutorial_Widget/W_06_Tutorial (Slide)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.02.02-13.16.32:388][816]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (WidgetAnimation_1)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.02.02-13.16.32:388][816]LogMovieScene: Warning: Legacy data detected in sequence '/Game/VRGunToolkit/Blueprints/Tutorial/Blueprint/Tutorial_Widget/W_06_Tutorial (Slide)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.02.02-13.16.32:388][816]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (WidgetAnimation_1)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.02.02-13.16.32:388][816]LogMovieScene: Warning: Legacy data detected in sequence '/Game/VRGunToolkit/Blueprints/Tutorial/Blueprint/Tutorial_Widget/W_06_Tutorial (Slide)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.02.02-13.16.32:388][816]LogMovieScene: Warning: Legacy data detected in sequence '/Game/VRGunToolkit/Blueprints/Tutorial/Blueprint/Tutorial_Widget/W_06_Tutorial (Slide)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.02.02-13.16.32:388][816]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (WidgetAnimation_1)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.02.02-13.16.32:388][816]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (WidgetAnimation_1)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.02.02-13.16.32:389][816]LogMovieScene: Warning: Legacy data detected in sequence '/Game/VRGunToolkit/Blueprints/Tutorial/Blueprint/Tutorial_Widget/W_06_Tutorial (Slide)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.02.02-13.16.32:389][816]LogMovieScene: Warning: Legacy data detected in sequence '/Game/VRGunToolkit/Blueprints/Tutorial/Blueprint/Tutorial_Widget/W_06_Tutorial (Slide)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.02.02-13.16.32:389][816]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (WidgetAnimation_1)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.02.02-13.16.32:389][816]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (WidgetAnimation_1)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.02.02-13.16.32:392][816]LogMovieScene: Warning: Legacy data detected in sequence '/Game/VRGunToolkit/Blueprints/Tutorial/Blueprint/Tutorial_Widget/W_00_Tutorial (Unknown sequence)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.02.02-13.16.32:392][816]LogMovieScene: Warning: Legacy data detected in sequence '/Game/VRGunToolkit/Blueprints/Tutorial/Blueprint/Tutorial_Widget/W_00_Tutorial (Blink)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.02.02-13.16.32:392][816]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (Unknown sequence)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.02.02-13.16.32:392][816]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (WidgetAnimation_0)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.02.02-13.16.32:392][816]LogMovieScene: Warning: Legacy data detected in sequence '/Game/VRGunToolkit/Blueprints/Tutorial/Blueprint/Tutorial_Widget/W_00_Tutorial (Blink)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.02.02-13.16.32:392][816]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (WidgetAnimation_0)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.02.02-13.16.32:392][816]LogMovieScene: Warning: Legacy data detected in sequence '/Game/VRGunToolkit/Blueprints/Tutorial/Blueprint/Tutorial_Widget/W_00_Tutorial (Blink)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.02.02-13.16.32:392][816]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (WidgetAnimation_0)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.02.02-13.16.32:392][816]LogStaticMesh: Building static mesh SM_support...
+[2018.02.02-13.16.32:400][816]LogStaticMesh: Built static mesh [0.01s] /Game/VRGunToolkit/Meshes/Assets/SM_support.SM_support
+[2018.02.02-13.16.32:571][816]LogMaterial: Missing cached shader map for material M_Landscape_SandRock, compiling. 
+[2018.02.02-13.16.32:914][816]LogMaterial: Missing cached shader map for material M_Landscape_SandRock, compiling. 
+[2018.02.02-13.16.33:121][816]LogMaterial: Missing cached shader map for material M_Landscape_SandRock, compiling. 
+[2018.02.02-13.16.33:339][816]LogMaterial: Missing cached shader map for material M_Landscape_SandRock, compiling. 
+[2018.02.02-13.16.33:549][816]LogMaterial: Missing cached shader map for material M_Landscape_SandRock, compiling. 
+[2018.02.02-13.16.33:756][816]LogMaterial: Missing cached shader map for material M_Landscape_SandRock, compiling. 
+[2018.02.02-13.16.33:966][816]LogMaterial: Missing cached shader map for material M_Landscape_SandRock, compiling. 
+[2018.02.02-13.16.34:221][816]LogStaticMesh: Building static mesh SM_ammo_box...
+[2018.02.02-13.16.34:224][816]LogStaticMesh: Built static mesh [0.00s] /Game/VRGunToolkit/Meshes/AmmoBox/SM_ammo_box.SM_ammo_box
+[2018.02.02-13.16.34:226][816]LogStaticMesh: Building static mesh SM_Crate...
+[2018.02.02-13.16.34:258][816]LogStaticMesh: Built static mesh [0.03s] /Game/VRGunToolkit/Meshes/Assets/SM_Crate.SM_Crate
+[2018.02.02-13.16.34:263][816]LogStaticMesh: Building static mesh SM_Crate3...
+[2018.02.02-13.16.34:286][816]LogStaticMesh: Built static mesh [0.02s] /Game/VRGunToolkit/Meshes/Assets/SM_Crate3.SM_Crate3
+[2018.02.02-13.16.34:292][816]LogStaticMesh: Building static mesh SM_Horse_TieUp...
+[2018.02.02-13.16.34:305][816]LogStaticMesh: Built static mesh [0.01s] /Game/VRGunToolkit/Meshes/Assets/SM_Horse_TieUp.SM_Horse_TieUp
+[2018.02.02-13.16.34:307][816]LogStaticMesh: Building static mesh SM_Cactus_A...
+[2018.02.02-13.16.34:315][816]LogStaticMesh: Built static mesh [0.01s] /Game/VRGunToolkit/Meshes/Assets/SM_Cactus_A.SM_Cactus_A
+[2018.02.02-13.16.34:318][816]LogStaticMesh: Building static mesh SM_Cactus_C...
+[2018.02.02-13.16.34:323][816]LogStaticMesh: Built static mesh [0.01s] /Game/VRGunToolkit/Meshes/Assets/SM_Cactus_C.SM_Cactus_C
+[2018.02.02-13.16.34:325][816]LogStaticMesh: Building static mesh SM_Cactus_D...
+[2018.02.02-13.16.34:495][816]LogStaticMesh: Built static mesh [0.17s] /Game/VRGunToolkit/Meshes/Assets/SM_Cactus_D.SM_Cactus_D
+[2018.02.02-13.16.34:500][816]LogStaticMesh: Building static mesh SM_Cactus_B...
+[2018.02.02-13.16.34:501][816]LogStaticMesh: Built static mesh [0.00s] /Game/VRGunToolkit/Meshes/Assets/SM_Cactus_B.SM_Cactus_B
+[2018.02.02-13.16.34:502][816]LogStaticMesh: Building static mesh SM_Cactus_F...
+[2018.02.02-13.16.34:507][816]LogStaticMesh: Built static mesh [0.00s] /Game/VRGunToolkit/Meshes/Assets/SM_Cactus_F.SM_Cactus_F
+[2018.02.02-13.16.34:509][816]LogStaticMesh: Building static mesh SM_ClothPiece_1...
+[2018.02.02-13.16.34:519][816]LogStaticMesh: Built static mesh [0.01s] /Game/VRGunToolkit/Meshes/Assets/SM_ClothPiece_1.SM_ClothPiece_1
+[2018.02.02-13.16.34:523][816]LogStaticMesh: Building static mesh SM_Fence_01...
+[2018.02.02-13.16.34:889][816]LogStaticMesh: Built static mesh [0.37s] /Game/VRGunToolkit/Meshes/Assets/SM_Fence_01.SM_Fence_01
+[2018.02.02-13.16.34:898][816]LogStaticMesh: Building static mesh SM_House1_Walls...
+[2018.02.02-13.16.35:199][816]LogStaticMesh: Built static mesh [0.30s] /Game/VRGunToolkit/Meshes/Assets/SM_House1_Walls.SM_House1_Walls
+[2018.02.02-13.16.35:208][816]LogStaticMesh: Building static mesh SM_Lake...
+[2018.02.02-13.16.39:022][816]LogStaticMesh: Built static mesh [3.81s] /Game/VRGunToolkit/Meshes/Assets/SM_Lake.SM_Lake
+[2018.02.02-13.16.39:086][816]LogStaticMesh: Building static mesh SM_PalmTree_01...
+[2018.02.02-13.16.39:203][816]LogStaticMesh: Built static mesh [0.12s] /Game/VRGunToolkit/Meshes/Assets/SM_PalmTree_01.SM_PalmTree_01
+[2018.02.02-13.16.39:214][816]LogMaterial: Missing cached shader map for material M_Support, compiling. 
+[2018.02.02-13.16.39:275][816]LogMovieScene: Warning: Legacy data detected in sequence '/Game/VRGunToolkit/Blueprints/Tutorial/Blueprint/Tutorial_Widget/W_02_Tutorial (Unknown sequence)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.02.02-13.16.39:275][816]LogMovieScene: Warning: Legacy data detected in sequence '/Game/VRGunToolkit/Blueprints/Tutorial/Blueprint/Tutorial_Widget/W_02_Tutorial (Slide In)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.02.02-13.16.39:275][816]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (Unknown sequence)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.02.02-13.16.39:275][816]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (Slide In_INST)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.02.02-13.16.39:275][816]LogMovieScene: Warning: Legacy data detected in sequence '/Game/VRGunToolkit/Blueprints/Tutorial/Blueprint/Tutorial_Widget/W_02_Tutorial (Slide In)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.02.02-13.16.39:275][816]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (Slide In_INST)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.02.02-13.16.39:275][816]LogMovieScene: Warning: Legacy data detected in sequence '/Game/VRGunToolkit/Blueprints/Tutorial/Blueprint/Tutorial_Widget/W_02_Tutorial (Slide In)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.02.02-13.16.39:275][816]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (Slide In_INST)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.02.02-13.16.39:280][816]LogMovieScene: Warning: Legacy data detected in sequence '/Game/VRGunToolkit/Blueprints/Tutorial/Blueprint/Tutorial_Widget/Oculus_Tutorial/W_00_Tutorial_OCULUS (Unknown sequence)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.02.02-13.16.39:281][816]LogMovieScene: Warning: Legacy data detected in sequence '/Game/VRGunToolkit/Blueprints/Tutorial/Blueprint/Tutorial_Widget/Oculus_Tutorial/W_00_Tutorial_OCULUS (Blink)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.02.02-13.16.39:281][816]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (Unknown sequence)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.02.02-13.16.39:281][816]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (Blink_INST)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.02.02-13.16.39:281][816]LogMovieScene: Warning: Legacy data detected in sequence '/Game/VRGunToolkit/Blueprints/Tutorial/Blueprint/Tutorial_Widget/Oculus_Tutorial/W_00_Tutorial_OCULUS (Blink)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.02.02-13.16.39:281][816]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (Blink_INST)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.02.02-13.16.39:281][816]LogMovieScene: Warning: Legacy data detected in sequence '/Game/VRGunToolkit/Blueprints/Tutorial/Blueprint/Tutorial_Widget/Oculus_Tutorial/W_00_Tutorial_OCULUS (Blink)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.02.02-13.16.39:281][816]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (Blink_INST)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.02.02-13.16.39:295][816]LogMaterial: Missing cached shader map for material M_Water_01, compiling. 
+[2018.02.02-13.16.39:343][816]LogMaterial: Missing cached shader map for material M_AncientDoor, compiling. 
+[2018.02.02-13.16.39:392][816]LogMaterial: Missing cached shader map for material M_AncientSupport, compiling. 
+[2018.02.02-13.16.39:444][816]LogMaterial: Missing cached shader map for material M_Metal_Copper, compiling. 
+[2018.02.02-13.16.39:500][816]LogMaterial: Missing cached shader map for material M_PalmTree, compiling. 
+[2018.02.02-13.16.39:745][816]LogMaterial: Missing cached shader map for material M_PalmTree, compiling. 
+[2018.02.02-13.16.39:987][816]LogMaterial: Missing cached shader map for material M_AncientBricks, compiling. 
+[2018.02.02-13.16.40:042][816]LogMaterial: Missing cached shader map for material M_Wood1_Mat, compiling. 
+[2018.02.02-13.16.40:175][816]LogMaterial: Missing cached shader map for material M_Wood2_Mat, compiling. 
+[2018.02.02-13.16.40:245][816]LogMaterial: Missing cached shader map for material M_ClothPieces, compiling. 
+[2018.02.02-13.16.40:338][816]LogMaterial: Missing cached shader map for material M_Cactus, compiling. 
+[2018.02.02-13.16.40:384][816]LogMaterial: Missing cached shader map for material M_Ammo_Box_Text2, compiling. 
+[2018.02.02-13.16.40:429][816]LogMaterial: Missing cached shader map for material M_Ammo_Box_Metal2, compiling. 
+[2018.02.02-13.16.40:480][816]LogMaterial: Missing cached shader map for material M_ammo_box_D_Mat, compiling. 
+[2018.02.02-13.16.40:573][816]LogAIModule: Creating AISystem for world Field
+[2018.02.02-13.16.40:775][816]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Colt1911_C /Game/VRGunToolkit/Maps/Field.Field:PersistentLevel.Colt1911_2451
+	Function /Game/VRGunToolkit/Blueprints/BP_VRRealisticGun_Base.BP_VRRealisticGun_Base_C:UserConstructionScript:053F
+[2018.02.02-13.16.40:778][816]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Colt1911_C /Game/VRGunToolkit/Maps/Field.Field:PersistentLevel.Colt1912
+	Function /Game/VRGunToolkit/Blueprints/BP_VRRealisticGun_Base.BP_VRRealisticGun_Base_C:UserConstructionScript:053F
+[2018.02.02-13.16.40:781][816]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Colt1911_C /Game/VRGunToolkit/Maps/Field.Field:PersistentLevel.Colt1913
+	Function /Game/VRGunToolkit/Blueprints/BP_VRRealisticGun_Base.BP_VRRealisticGun_Base_C:UserConstructionScript:053F
+[2018.02.02-13.16.40:783][816]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Colt1911_C /Game/VRGunToolkit/Maps/Field.Field:PersistentLevel.Colt1914
+	Function /Game/VRGunToolkit/Blueprints/BP_VRRealisticGun_Base.BP_VRRealisticGun_Base_C:UserConstructionScript:053F
+[2018.02.02-13.16.40:798][816]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_LaserGun_C /Game/VRGunToolkit/Maps/Field.Field:PersistentLevel.LaserGun2
+	Function /Game/VRGunToolkit/Blueprints/BP_VRRealisticGun_Base.BP_VRRealisticGun_Base_C:UserConstructionScript:053F
+[2018.02.02-13.16.40:800][816]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_LaserGun_C /Game/VRGunToolkit/Maps/Field.Field:PersistentLevel.LaserGun3
+	Function /Game/VRGunToolkit/Blueprints/BP_VRRealisticGun_Base.BP_VRRealisticGun_Base_C:UserConstructionScript:053F
+[2018.02.02-13.16.40:804][816]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_LaserGun_C /Game/VRGunToolkit/Maps/Field.Field:PersistentLevel.LaserGun4
+	Function /Game/VRGunToolkit/Blueprints/BP_VRRealisticGun_Base.BP_VRRealisticGun_Base_C:UserConstructionScript:053F
+[2018.02.02-13.16.40:806][816]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_LaserGun_C /Game/VRGunToolkit/Maps/Field.Field:PersistentLevel.LaserGun_768
+	Function /Game/VRGunToolkit/Blueprints/BP_VRRealisticGun_Base.BP_VRRealisticGun_Base_C:UserConstructionScript:053F
+[2018.02.02-13.16.40:810][816]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Shotgun_C /Game/VRGunToolkit/Maps/Field.Field:PersistentLevel.Shotgun4
+	Function /Game/VRGunToolkit/Blueprints/BP_VRRealisticGun_Base.BP_VRRealisticGun_Base_C:UserConstructionScript:053F
+[2018.02.02-13.16.40:813][816]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Shotgun_C /Game/VRGunToolkit/Maps/Field.Field:PersistentLevel.Shotgun_979
+	Function /Game/VRGunToolkit/Blueprints/BP_VRRealisticGun_Base.BP_VRRealisticGun_Base_C:UserConstructionScript:053F
+[2018.02.02-13.16.40:822][816]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Sniper_C /Game/VRGunToolkit/Maps/Field.Field:PersistentLevel.BP_Sniper2
+	Function /Game/VRGunToolkit/Blueprints/BP_VRRealisticGun_Base.BP_VRRealisticGun_Base_C:UserConstructionScript:053F
+[2018.02.02-13.16.40:825][816]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_AK47_C /Game/VRGunToolkit/Maps/Field.Field:PersistentLevel.AK_1719
+	Function /Game/VRGunToolkit/Blueprints/BP_VRRealisticGun_Base.BP_VRRealisticGun_Base_C:UserConstructionScript:053F
+[2018.02.02-13.16.40:830][816]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_AK47_C /Game/VRGunToolkit/Maps/Field.Field:PersistentLevel.BP_AK47_2115
+	Function /Game/VRGunToolkit/Blueprints/BP_VRRealisticGun_Base.BP_VRRealisticGun_Base_C:UserConstructionScript:053F
+[2018.02.02-13.16.40:834][816]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_AK47_C /Game/VRGunToolkit/Maps/Field.Field:PersistentLevel.BP_AK48_3127
+	Function /Game/VRGunToolkit/Blueprints/BP_VRRealisticGun_Base.BP_VRRealisticGun_Base_C:UserConstructionScript:053F
+[2018.02.02-13.16.40:891][816]LogAudioDerivedData: Display: Building compressed audio format OGG wave A_LaserGun...
+[2018.02.02-13.16.40:978][816]Cmd: MAP LOAD FILE="../../../../../../Users/UOSMSc/Desktop/VRTools/VRGunToolKit/Content/VRGunToolkit/Maps/Field.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.02.02-13.16.40:978][816]LightingResults: New page: Lighting Build
+[2018.02.02-13.16.40:980][816]LoadErrors: New page: Loading map: Field.umap
+[2018.02.02-13.16.40:983][816]MapCheck: New page: Map Check
+[2018.02.02-13.16.40:983][816]LightingResults: New page: Lighting Build
+[2018.02.02-13.16.42:683][816]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VRGunToolkit/Maps/Field.Field:PersistentLevel.LaserGun2.MagazineTrigger' 
+[2018.02.02-13.16.42:684][816]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VRGunToolkit/Maps/Field.Field:PersistentLevel.LaserGun2.SliderTrigger' 
+[2018.02.02-13.16.42:684][816]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VRGunToolkit/Maps/Field.Field:PersistentLevel.LaserGun3.MagazineTrigger' 
+[2018.02.02-13.16.42:684][816]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VRGunToolkit/Maps/Field.Field:PersistentLevel.LaserGun3.SliderTrigger' 
+[2018.02.02-13.16.42:685][816]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VRGunToolkit/Maps/Field.Field:PersistentLevel.LaserGun4.MagazineTrigger' 
+[2018.02.02-13.16.42:685][816]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VRGunToolkit/Maps/Field.Field:PersistentLevel.LaserGun4.SliderTrigger' 
+[2018.02.02-13.16.42:686][816]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VRGunToolkit/Maps/Field.Field:PersistentLevel.LaserGun_768.MagazineTrigger' 
+[2018.02.02-13.16.42:686][816]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VRGunToolkit/Maps/Field.Field:PersistentLevel.LaserGun_768.SliderTrigger' 
+[2018.02.02-13.16.42:824][816]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Colt1911_C /Game/VRGunToolkit/Maps/Field.Field:PersistentLevel.Colt1911_2451
+	Function /Game/VRGunToolkit/Blueprints/BP_VRRealisticGun_Base.BP_VRRealisticGun_Base_C:UserConstructionScript:053F
+[2018.02.02-13.16.42:829][816]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Colt1911_C /Game/VRGunToolkit/Maps/Field.Field:PersistentLevel.Colt1912
+	Function /Game/VRGunToolkit/Blueprints/BP_VRRealisticGun_Base.BP_VRRealisticGun_Base_C:UserConstructionScript:053F
+[2018.02.02-13.16.42:836][816]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Colt1911_C /Game/VRGunToolkit/Maps/Field.Field:PersistentLevel.Colt1913
+	Function /Game/VRGunToolkit/Blueprints/BP_VRRealisticGun_Base.BP_VRRealisticGun_Base_C:UserConstructionScript:053F
+[2018.02.02-13.16.42:840][816]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Colt1911_C /Game/VRGunToolkit/Maps/Field.Field:PersistentLevel.Colt1914
+	Function /Game/VRGunToolkit/Blueprints/BP_VRRealisticGun_Base.BP_VRRealisticGun_Base_C:UserConstructionScript:053F
+[2018.02.02-13.16.42:864][816]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VRGunToolkit/Maps/Field.Field:PersistentLevel.LaserGun2.MagazineTrigger' 
+[2018.02.02-13.16.42:865][816]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VRGunToolkit/Maps/Field.Field:PersistentLevel.LaserGun2.SliderTrigger' 
+[2018.02.02-13.16.42:865][816]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_LaserGun_C /Game/VRGunToolkit/Maps/Field.Field:PersistentLevel.LaserGun2
+	Function /Game/VRGunToolkit/Blueprints/BP_VRRealisticGun_Base.BP_VRRealisticGun_Base_C:UserConstructionScript:053F
+[2018.02.02-13.16.42:866][816]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VRGunToolkit/Maps/Field.Field:PersistentLevel.LaserGun2.MagazineTrigger' 
+[2018.02.02-13.16.42:867][816]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VRGunToolkit/Maps/Field.Field:PersistentLevel.LaserGun2.SliderTrigger' 
+[2018.02.02-13.16.42:868][816]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VRGunToolkit/Maps/Field.Field:PersistentLevel.LaserGun3.MagazineTrigger' 
+[2018.02.02-13.16.42:870][816]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VRGunToolkit/Maps/Field.Field:PersistentLevel.LaserGun3.SliderTrigger' 
+[2018.02.02-13.16.42:871][816]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_LaserGun_C /Game/VRGunToolkit/Maps/Field.Field:PersistentLevel.LaserGun3
+	Function /Game/VRGunToolkit/Blueprints/BP_VRRealisticGun_Base.BP_VRRealisticGun_Base_C:UserConstructionScript:053F
+[2018.02.02-13.16.42:872][816]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VRGunToolkit/Maps/Field.Field:PersistentLevel.LaserGun3.MagazineTrigger' 
+[2018.02.02-13.16.42:872][816]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VRGunToolkit/Maps/Field.Field:PersistentLevel.LaserGun3.SliderTrigger' 
+[2018.02.02-13.16.42:875][816]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VRGunToolkit/Maps/Field.Field:PersistentLevel.LaserGun4.MagazineTrigger' 
+[2018.02.02-13.16.42:876][816]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VRGunToolkit/Maps/Field.Field:PersistentLevel.LaserGun4.SliderTrigger' 
+[2018.02.02-13.16.42:877][816]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_LaserGun_C /Game/VRGunToolkit/Maps/Field.Field:PersistentLevel.LaserGun4
+	Function /Game/VRGunToolkit/Blueprints/BP_VRRealisticGun_Base.BP_VRRealisticGun_Base_C:UserConstructionScript:053F
+[2018.02.02-13.16.42:878][816]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VRGunToolkit/Maps/Field.Field:PersistentLevel.LaserGun4.MagazineTrigger' 
+[2018.02.02-13.16.42:878][816]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VRGunToolkit/Maps/Field.Field:PersistentLevel.LaserGun4.SliderTrigger' 
+[2018.02.02-13.16.42:880][816]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VRGunToolkit/Maps/Field.Field:PersistentLevel.LaserGun_768.MagazineTrigger' 
+[2018.02.02-13.16.42:881][816]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VRGunToolkit/Maps/Field.Field:PersistentLevel.LaserGun_768.SliderTrigger' 
+[2018.02.02-13.16.42:881][816]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_LaserGun_C /Game/VRGunToolkit/Maps/Field.Field:PersistentLevel.LaserGun_768
+	Function /Game/VRGunToolkit/Blueprints/BP_VRRealisticGun_Base.BP_VRRealisticGun_Base_C:UserConstructionScript:053F
+[2018.02.02-13.16.42:883][816]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VRGunToolkit/Maps/Field.Field:PersistentLevel.LaserGun_768.MagazineTrigger' 
+[2018.02.02-13.16.42:883][816]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VRGunToolkit/Maps/Field.Field:PersistentLevel.LaserGun_768.SliderTrigger' 
+[2018.02.02-13.16.42:886][816]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Shotgun_C /Game/VRGunToolkit/Maps/Field.Field:PersistentLevel.Shotgun4
+	Function /Game/VRGunToolkit/Blueprints/BP_VRRealisticGun_Base.BP_VRRealisticGun_Base_C:UserConstructionScript:053F
+[2018.02.02-13.16.42:891][816]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Shotgun_C /Game/VRGunToolkit/Maps/Field.Field:PersistentLevel.Shotgun_979
+	Function /Game/VRGunToolkit/Blueprints/BP_VRRealisticGun_Base.BP_VRRealisticGun_Base_C:UserConstructionScript:053F
+[2018.02.02-13.16.42:904][816]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Sniper_C /Game/VRGunToolkit/Maps/Field.Field:PersistentLevel.BP_Sniper2
+	Function /Game/VRGunToolkit/Blueprints/BP_VRRealisticGun_Base.BP_VRRealisticGun_Base_C:UserConstructionScript:053F
+[2018.02.02-13.16.42:910][816]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_AK47_C /Game/VRGunToolkit/Maps/Field.Field:PersistentLevel.AK_1719
+	Function /Game/VRGunToolkit/Blueprints/BP_VRRealisticGun_Base.BP_VRRealisticGun_Base_C:UserConstructionScript:053F
+[2018.02.02-13.16.42:917][816]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_AK47_C /Game/VRGunToolkit/Maps/Field.Field:PersistentLevel.BP_AK47_2115
+	Function /Game/VRGunToolkit/Blueprints/BP_VRRealisticGun_Base.BP_VRRealisticGun_Base_C:UserConstructionScript:053F
+[2018.02.02-13.16.42:925][816]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_AK47_C /Game/VRGunToolkit/Maps/Field.Field:PersistentLevel.BP_AK48_3127
+	Function /Game/VRGunToolkit/Blueprints/BP_VRRealisticGun_Base.BP_VRRealisticGun_Base_C:UserConstructionScript:053F
+[2018.02.02-13.16.42:936][816]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.02.02-13.16.43:069][816]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.02.02-13.16.43:206][816]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 136.525ms to complete.
+[2018.02.02-13.16.43:221][816]LogFileHelpers: Loading map 'Field' took 2.244
+[2018.02.02-13.22.17:795][978]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2018.02.02-13.26.06:756][ 48]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.02-13.28.04:181][764]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.02.02-13.28.15:617][805]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.02.02-13.28.16:119][806]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.02.02-13.28.17:013][806]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.02.02-13.28.17:515][807]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.02.02-13.28.17:586][807]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape1)
+[2018.02.02-13.28.18:986][811]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.02.02-13.28.19:436][811]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape1)
+[2018.02.02-13.28.20:755][811]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2018.02.02-13.28.21:049][811]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape1)
+[2018.02.02-13.28.21:785][813]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Crate2)
+[2018.02.02-13.28.23:912][816]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2018.02.02-13.32.51:299][658]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.02.02-13.32.51:513][659]Cmd: QUIT_EDITOR
+[2018.02.02-13.32.51:535][659]LogExit: Preparing to exit.
+[2018.02.02-13.32.51:713][659]LogDirectoryWatcher: A directory notification for 'C:/Users/UOSMSc/Desktop/VRTools/VRGunToolKit/Content/' was aborted.
+[2018.02.02-13.32.51:806][659]LogExit: Editor shut down
+[2018.02.02-13.32.51:812][659]LogExit: Transaction tracking system shut down
+[2018.02.02-13.32.52:016][659]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.02.02-13.32.52:016][659]LogDirectoryWatcher: A directory notification for '../../../../../../Users/UOSMSc/Desktop/VRTools/VRGunToolKit/Content/' was aborted.
+[2018.02.02-13.32.52:016][659]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.02.02-13.32.52:016][659]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.02.02-13.32.52:016][659]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.02.02-13.32.52:016][659]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.02.02-13.32.52:016][659]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.02.02-13.32.52:159][659]LogExit: Object subsystem successfully closed.
+[2018.02.02-13.32.52:184][659]LogD3D11RHI: Shutdown
+[2018.02.02-13.32.52:184][659]LogD3D11RHI: CleanupD3DDevice
+[2018.02.02-13.32.52:189][659]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.02.02-13.32.52:200][659]LogModuleManager: Shutting down and abandoning module BlueprintGraph (550)
+[2018.02.02-13.32.52:200][659]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (548)
+[2018.02.02-13.32.52:200][659]LogModuleManager: Shutting down and abandoning module SceneOutliner (546)
+[2018.02.02-13.32.52:200][659]LogModuleManager: Shutting down and abandoning module AddContentDialog (544)
+[2018.02.02-13.32.52:200][659]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2018.02.02-13.32.52:201][659]LogModuleManager: Shutting down and abandoning module WidgetCarousel (543)
+[2018.02.02-13.32.52:201][659]LogModuleManager: Shutting down and abandoning module EditorWidgets (540)
+[2018.02.02-13.32.52:201][659]LogModuleManager: Shutting down and abandoning module CollectionManager (538)
+[2018.02.02-13.32.52:201][659]LogDirectoryWatcher: A directory notification for 'C:/Users/UOSMSc/Desktop/VRTools/VRGunToolKit/Content/Collections/' was aborted.
+[2018.02.02-13.32.52:201][659]LogDirectoryWatcher: A directory notification for 'C:/Users/UOSMSc/Desktop/VRTools/VRGunToolKit/Content/Developers/UOSMSc/Collections/' was aborted.
+[2018.02.02-13.32.52:201][659]LogDirectoryWatcher: A directory notification for 'C:/Users/UOSMSc/Desktop/VRTools/VRGunToolKit/Saved/Collections/' was aborted.
+[2018.02.02-13.32.52:201][659]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
+[2018.02.02-13.32.52:201][659]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2018.02.02-13.32.52:201][659]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2018.02.02-13.32.52:201][659]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2018.02.02-13.32.52:201][659]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2018.02.02-13.32.52:201][659]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2018.02.02-13.32.52:201][659]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2018.02.02-13.32.52:201][659]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2018.02.02-13.32.52:201][659]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2018.02.02-13.32.52:201][659]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2018.02.02-13.32.52:201][659]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2018.02.02-13.32.52:201][659]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2018.02.02-13.32.52:201][659]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2018.02.02-13.32.52:201][659]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2018.02.02-13.32.52:201][659]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2018.02.02-13.32.52:201][659]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2018.02.02-13.32.52:201][659]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2018.02.02-13.32.52:201][659]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2018.02.02-13.32.52:201][659]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2018.02.02-13.32.52:201][659]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2018.02.02-13.32.52:201][659]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2018.02.02-13.32.52:202][659]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2018.02.02-13.32.52:202][659]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2018.02.02-13.32.52:202][659]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2018.02.02-13.32.52:202][659]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2018.02.02-13.32.52:202][659]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2018.02.02-13.32.52:202][659]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2018.02.02-13.32.52:202][659]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2018.02.02-13.32.52:202][659]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2018.02.02-13.32.52:202][659]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2018.02.02-13.32.52:202][659]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2018.02.02-13.32.52:202][659]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2018.02.02-13.32.52:202][659]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2018.02.02-13.32.52:202][659]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2018.02.02-13.32.52:202][659]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2018.02.02-13.32.52:202][659]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2018.02.02-13.32.52:202][659]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2018.02.02-13.32.52:202][659]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2018.02.02-13.32.52:202][659]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2018.02.02-13.32.52:202][659]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2018.02.02-13.32.52:202][659]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2018.02.02-13.32.52:651][659]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2018.02.02-13.32.52:651][659]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2018.02.02-13.32.52:651][659]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2018.02.02-13.32.52:651][659]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2018.02.02-13.32.52:651][659]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2018.02.02-13.32.52:651][659]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2018.02.02-13.32.52:651][659]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2018.02.02-13.32.52:651][659]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2018.02.02-13.32.52:651][659]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2018.02.02-13.32.52:651][659]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2018.02.02-13.32.52:651][659]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2018.02.02-13.32.52:651][659]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2018.02.02-13.32.52:651][659]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2018.02.02-13.32.52:651][659]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2018.02.02-13.32.52:651][659]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2018.02.02-13.32.52:651][659]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2018.02.02-13.32.52:651][659]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2018.02.02-13.32.52:652][659]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2018.02.02-13.32.52:652][659]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2018.02.02-13.32.52:652][659]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2018.02.02-13.32.52:652][659]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2018.02.02-13.32.52:652][659]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2018.02.02-13.32.52:652][659]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2018.02.02-13.32.52:652][659]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2018.02.02-13.32.52:692][659]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2018.02.02-13.32.52:692][659]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2018.02.02-13.32.52:692][659]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2018.02.02-13.32.52:692][659]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2018.02.02-13.32.52:692][659]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2018.02.02-13.32.52:692][659]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2018.02.02-13.32.52:692][659]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2018.02.02-13.32.52:692][659]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2018.02.02-13.32.52:692][659]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2018.02.02-13.32.52:692][659]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2018.02.02-13.32.52:705][659]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2018.02.02-13.32.52:705][659]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2018.02.02-13.32.52:705][659]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2018.02.02-13.32.52:705][659]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2018.02.02-13.32.52:705][659]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2018.02.02-13.32.52:705][659]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2018.02.02-13.32.52:705][659]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2018.02.02-13.32.52:705][659]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2018.02.02-13.32.52:705][659]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2018.02.02-13.32.52:705][659]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2018.02.02-13.32.52:705][659]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2018.02.02-13.32.52:705][659]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2018.02.02-13.32.52:705][659]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2018.02.02-13.32.52:705][659]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2018.02.02-13.32.52:705][659]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2018.02.02-13.32.52:705][659]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2018.02.02-13.32.52:705][659]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2018.02.02-13.32.52:705][659]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2018.02.02-13.32.52:705][659]LogModuleManager: Shutting down and abandoning module DesktopPlatform (350)
+[2018.02.02-13.32.52:705][659]LogModuleManager: Shutting down and abandoning module ProfilerService (348)
+[2018.02.02-13.32.52:913][659]LogModuleManager: Shutting down and abandoning module TaskGraph (346)
+[2018.02.02-13.32.52:913][659]LogModuleManager: Shutting down and abandoning module SteamVRController (344)
+[2018.02.02-13.32.52:913][659]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (342)
+[2018.02.02-13.32.52:913][659]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (340)
+[2018.02.02-13.32.52:913][659]LogModuleManager: Shutting down and abandoning module OculusInput (338)
+[2018.02.02-13.32.52:913][659]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (336)
+[2018.02.02-13.32.52:913][659]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (334)
+[2018.02.02-13.32.52:913][659]LogModuleManager: Shutting down and abandoning module CableComponent (332)
+[2018.02.02-13.32.52:913][659]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (330)
+[2018.02.02-13.32.52:913][659]LogModuleManager: Shutting down and abandoning module AndroidPermission (328)
+[2018.02.02-13.32.52:913][659]LogModuleManager: Shutting down and abandoning module ActorSequence (324)
+[2018.02.02-13.32.52:913][659]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (322)
+[2018.02.02-13.32.52:913][659]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (320)
+[2018.02.02-13.32.52:914][659]LogModuleManager: Shutting down and abandoning module MediaCompositing (318)
+[2018.02.02-13.32.52:914][659]LogModuleManager: Shutting down and abandoning module HTML5Networking (316)
+[2018.02.02-13.32.52:914][659]LogModuleManager: Shutting down and abandoning module AlembicImporter (314)
+[2018.02.02-13.32.52:914][659]LogModuleManager: Shutting down and abandoning module AlembicLibrary (313)
+[2018.02.02-13.32.52:914][659]LogModuleManager: Shutting down and abandoning module GeometryCache (312)
+[2018.02.02-13.32.52:914][659]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (311)
+[2018.02.02-13.32.52:914][659]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (306)
+[2018.02.02-13.32.52:914][659]LogModuleManager: Shutting down and abandoning module PluginBrowser (304)
+[2018.02.02-13.32.52:914][659]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (302)
+[2018.02.02-13.32.52:914][659]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (300)
+[2018.02.02-13.32.52:914][659]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (298)
+[2018.02.02-13.32.52:914][659]LogModuleManager: Shutting down and abandoning module UObjectPlugin (296)
+[2018.02.02-13.32.52:914][659]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (294)
+[2018.02.02-13.32.52:914][659]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (292)
+[2018.02.02-13.32.52:914][659]LogModuleManager: Shutting down and abandoning module GitSourceControl (290)
+[2018.02.02-13.32.52:914][659]LogModuleManager: Shutting down and abandoning module SourceControl (289)
+[2018.02.02-13.32.52:914][659]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (286)
+[2018.02.02-13.32.52:914][659]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (284)
+[2018.02.02-13.32.52:914][659]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (282)
+[2018.02.02-13.32.52:914][659]LogModuleManager: Shutting down and abandoning module Paper2DEditor (280)
+[2018.02.02-13.32.52:914][659]LogModuleManager: Shutting down and abandoning module MeshPaint (279)
+[2018.02.02-13.32.52:914][659]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
+[2018.02.02-13.32.52:915][659]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
+[2018.02.02-13.32.52:915][659]LogModuleManager: Shutting down and abandoning module MainFrame (274)
+[2018.02.02-13.32.52:915][659]LogModuleManager: Shutting down and abandoning module HotReload (273)
+[2018.02.02-13.32.52:916][659]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2018.02.02-13.32.52:916][659]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2018.02.02-13.32.52:916][659]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2018.02.02-13.32.52:916][659]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2018.02.02-13.32.52:916][659]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2018.02.02-13.32.52:916][659]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2018.02.02-13.32.52:916][659]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2018.02.02-13.32.52:916][659]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2018.02.02-13.32.53:016][659]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2018.02.02-13.32.53:116][659]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2018.02.02-13.32.53:116][659]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2018.02.02-13.32.53:116][659]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2018.02.02-13.32.53:116][659]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2018.02.02-13.32.53:116][659]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2018.02.02-13.32.53:116][659]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2018.02.02-13.32.53:117][659]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2018.02.02-13.32.53:117][659]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2018.02.02-13.32.53:117][659]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2018.02.02-13.32.53:117][659]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2018.02.02-13.32.53:118][659]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2018.02.02-13.32.53:118][659]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2018.02.02-13.32.53:118][659]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2018.02.02-13.32.53:118][659]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2018.02.02-13.32.53:118][659]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2018.02.02-13.32.53:118][659]LogModuleManager: Shutting down and abandoning module Media (221)
+[2018.02.02-13.32.53:123][659]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2018.02.02-13.32.53:123][659]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2018.02.02-13.32.53:123][659]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2018.02.02-13.32.53:123][659]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2018.02.02-13.32.53:123][659]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2018.02.02-13.32.53:123][659]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2018.02.02-13.32.53:123][659]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2018.02.02-13.32.53:123][659]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2018.02.02-13.32.53:123][659]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2018.02.02-13.32.53:123][659]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2018.02.02-13.32.53:123][659]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2018.02.02-13.32.53:123][659]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2018.02.02-13.32.53:123][659]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2018.02.02-13.32.53:123][659]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2018.02.02-13.32.53:124][659]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2018.02.02-13.32.53:124][659]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2018.02.02-13.32.53:126][659]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2018.02.02-13.32.53:126][659]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2018.02.02-13.32.53:126][659]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2018.02.02-13.32.53:126][659]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2018.02.02-13.32.53:126][659]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2018.02.02-13.32.53:126][659]LogModuleManager: Shutting down and abandoning module Core (172)
+[2018.02.02-13.32.53:126][659]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2018.02.02-13.32.53:126][659]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2018.02.02-13.32.53:135][659]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.02.02-13.32.53:135][659]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2018.02.02-13.32.53:135][659]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2018.02.02-13.32.53:135][659]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2018.02.02-13.32.53:135][659]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2018.02.02-13.32.53:135][659]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2018.02.02-13.32.53:135][659]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2018.02.02-13.32.53:135][659]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2018.02.02-13.32.53:135][659]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2018.02.02-13.32.53:211][659]LogDerivedDataCache: Shutdown
+[2018.02.02-13.32.53:211][659]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2018.02.02-13.32.53:211][659]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2018.02.02-13.32.53:211][659]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2018.02.02-13.32.53:211][659]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2018.02.02-13.32.53:211][659]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2018.02.02-13.32.53:211][659]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2018.02.02-13.32.53:211][659]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2018.02.02-13.32.53:211][659]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2018.02.02-13.32.53:211][659]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2018.02.02-13.32.53:211][659]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2018.02.02-13.32.53:211][659]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2018.02.02-13.32.53:211][659]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2018.02.02-13.32.53:211][659]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2018.02.02-13.32.53:211][659]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2018.02.02-13.32.53:212][659]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2018.02.02-13.32.53:212][659]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2018.02.02-13.32.53:212][659]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2018.02.02-13.32.53:212][659]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2018.02.02-13.32.53:212][659]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2018.02.02-13.32.53:212][659]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2018.02.02-13.32.53:212][659]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2018.02.02-13.32.53:212][659]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2018.02.02-13.32.53:212][659]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2018.02.02-13.32.53:212][659]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2018.02.02-13.32.53:212][659]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2018.02.02-13.32.53:212][659]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2018.02.02-13.32.53:212][659]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2018.02.02-13.32.53:212][659]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2018.02.02-13.32.53:212][659]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2018.02.02-13.32.53:212][659]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2018.02.02-13.32.53:212][659]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2018.02.02-13.32.53:212][659]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2018.02.02-13.32.53:212][659]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2018.02.02-13.32.53:212][659]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2018.02.02-13.32.53:212][659]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2018.02.02-13.32.53:212][659]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2018.02.02-13.32.53:212][659]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2018.02.02-13.32.53:212][659]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2018.02.02-13.32.53:212][659]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2018.02.02-13.32.53:212][659]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2018.02.02-13.32.53:212][659]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2018.02.02-13.32.53:212][659]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2018.02.02-13.32.53:212][659]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2018.02.02-13.32.53:212][659]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2018.02.02-13.32.53:212][659]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2018.02.02-13.32.53:212][659]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2018.02.02-13.32.53:212][659]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2018.02.02-13.32.53:212][659]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2018.02.02-13.32.53:212][659]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.02.02-13.32.53:212][659]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.02.02-13.32.53:212][659]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.02.02-13.32.53:212][659]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.02.02-13.32.53:212][659]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.02.02-13.32.53:212][659]LogHttp: Display: Http module shutting down, but needs to wait on 2 outstanding Http requests:
+[2018.02.02-13.32.53:212][659]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B85D44903-4011-01EB-5EB2-67BABA2D9BEE%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.1-3754814%2B%2B%2BUE4%2BRelease-4.18&UserID=95807e7e47a59e71eee0a3b966b172af%7C82f63fa463024a4ab0805de2cacafb58%7Cbad8f159-e6f1-4e66-a99f-f0b2266f8031&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.02.02-13.32.53:212][659]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B85D44903-4011-01EB-5EB2-67BABA2D9BEE%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.1-3754814%2B%2B%2BUE4%2BRelease-4.18&UserID=95807e7e47a59e71eee0a3b966b172af%7C82f63fa463024a4ab0805de2cacafb58%7Cbad8f159-e6f1-4e66-a99f-f0b2266f8031&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.02.02-13.32.53:218][659]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.02.02-13.32.53:219][659]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.02.02-13.32.53:219][659]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.02.02-13.32.53:219][659]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.02.02-13.32.53:219][659]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.02.02-13.32.53:219][659]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.02.02-13.32.53:219][659]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.02.02-13.32.53:219][659]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.02.02-13.32.53:221][659]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.02.02-13.32.53:221][659]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.02.02-13.32.53:221][659]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.02.02-13.32.53:221][659]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.02.02-13.32.53:221][659]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.02.02-13.32.53:221][659]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.02.02-13.32.53:221][659]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.02.02-13.32.53:221][659]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.02.02-13.32.53:221][659]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.02.02-13.32.53:221][659]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.02.02-13.32.53:221][659]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.02.02-13.32.53:223][659]LogExit: Exiting.
+[2018.02.02-13.32.53:235][659]Log file closed, 02/02/18 13:32:53
